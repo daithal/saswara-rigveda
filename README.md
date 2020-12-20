@@ -1,11 +1,10 @@
 # Saswara Rigveda Samhita
 ## Dear friends
-My name is Dayananda Aithal, working and living in Peoria, AZ I have been practicing to chant Rigveda (shaakala shaaka) Samhita since last few months.  I am using "Saswara Rigveda Samhita" Kannada book which I purchanes from Ramakrishna Mutt, Bangalore. For Rigveda chanters, veda mantras with accurate markings of swaras (swarita, deergha swarita, udatta and anudatta) are extremely imortant. I have observed the only way to have it handy is by purchasing books. Hence, I have made an attempt to create this free website and added webpages of entire Saswara rigveda mantras in Kannada language for anyone interested.
+My name is Dayananda Aithal. I have been working and living in Peoria, AZ from the past 4 years. I have been practicing chanting Rigveda (shaakala shaaka) Samhita since the last few months.  I am using "Saswara Rigveda Samhita", which is a Kannada book I purchased from a temple in Ramakrishna Mutt, Bangalore. For Rigveda chanters, veda mantras with accurate markings of swaras (swarita, deergha swarita, udatta and anudatta) are extremely important. I have observed that the only way to have accurate mantras handy is by purchasing books. Hence, I have created this free website containing webpages of entire Saswara rigveda mantras in the Kannada language for anyone interested.
 
-To benefit the chanters, you can chose either  Mandala or Ashtaka methods for your practise and get blessings from Veda purusha. To further benefit chanters, I have created separate pages ones with miminmum details and others having more information at each mantra levels
+To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having more information at each mantra levels.
 
-I'm still working on proofreading and correcting the Rishi, Devata and Chadas names which should to be chanted before each suktas. Feel free to reach out to me for any corrections/feedback 
-via email mentioned below
+I am still working on proofreading and correcting the Rishi, Devata and Chadas names which should be chanted before each suktas. Feel free to reach out to me for any corrections/feedback via email which is mentioned below.
 
 # ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತ 
 ## ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ
