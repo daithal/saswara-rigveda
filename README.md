@@ -22,6 +22,7 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 
 
 ## Ashtaka
+
 | Simple  Mantra Pages      | Detailed Mantra Pages |
 | ----------- | ----------- |
 | [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html) | [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html) |
@@ -34,6 +35,7 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 | [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html) | [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Detail).html) |
 
 ## Mandala
+
 | Simple  Mantra Pages      | Detailed Mantra Pages |
 | ----------- | ----------- |
 | [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Simple).html) | [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Detail).html) |
