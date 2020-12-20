@@ -24,14 +24,14 @@ via email mentioned below
 
 1. Ashtaka
 	- Simple
-		1 [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
-		2 [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)
-		3 [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Simple).html)
-		4 [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Simple).html)
-		5 [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Simple).html)
-		6 [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Simple).html)
-		7 [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html)
-		8 [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html)
+		1.[Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
+		2.[Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)
+		3.[Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Simple).html)
+		4.[Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Simple).html)
+		5.[Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Simple).html)
+		6.[Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Simple).html)
+		7.[Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html)
+		8.[Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html)
 
 	- Detailed
 		1 [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)
