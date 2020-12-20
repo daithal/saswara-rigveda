@@ -67,7 +67,7 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 9. [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Detail).html)
 10. [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Detail).html)
 
-| Syntax      | Description |
+| Simple  Mantra Pages      | Detailed Mantra Pages |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)      | [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)       |
+| [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)   | [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html)        |
