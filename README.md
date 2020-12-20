@@ -18,21 +18,21 @@ via email mentioned below
 ನಿಮ್ಮ ಸ್ವಶಾಖೆ ರೀತ್ಯಾ ಕ್ರಮವನ್ನು ಆಯ್ದುಕೊಂಡು ವೇದವನ್ನು ಅಭ್ಯಾಸಿಸಿ ಭಗವಂತನ ದಿವ್ಯಫಲಗಳನ್ನು ಅನುಭವಿಸಿ ಸಾರ್ಥಕ ಜನ್ಮ ಸಾಧಿಸಲು ಹಾರೈಸುತ್ತೇನೆ 
 
 ನಿಮ್ಮೆಲ್ಲರ ಆತ್ಮೀಯ 
-** ದಯಾನಂದ ಐತಾಳ್  **
-- dithal29@gmail.com
+### ದಯಾನಂದ ಐತಾಳ್ 
+### dithal29@gmail.com
 
-### Ashtaka
-**Simple**
-	1. [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
-	2. [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)
-	3. [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Simple).html)
-	4. [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Simple).html)
-	5. [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Simple).html)
-	6. [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Simple).html)
-	7. [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html)
-	8. [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html)
+## Ashtaka
+### Simple
+1. [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
+2. [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)
+3. [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Simple).html)
+4. [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Simple).html)
+5. [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Simple).html)
+6. [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Simple).html)
+7. [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html)
+8. [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html)
 
-** Detailed **
+### Detailed
 	1 [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)
 	2 [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html)
 	3 [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Detail).html)
@@ -43,7 +43,7 @@ via email mentioned below
 	8 [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Detail).html)
 
 		
-### Mandala
+## Mandala
 **Simple**
 	- [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Simple).html)
 	- [Mandala-2](Kannada/Mandala/Mandala-2-kannada(Simple).html)
