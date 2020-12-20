@@ -45,8 +45,7 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 | [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Simple).html) | [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Detail).html) |
 
 ನಿಮ್ಮೆಲ್ಲರ ಆತ್ಮೀಯ 
-### ದಯಾನಂದ ಐತಾಳ್ 
-### dithal29@gmail.com
+### ದಯಾನಂದ ಐತಾಳ್  <dithal29@gmail.com>
 
 ### References
 Audio files for each Mandala of Rigveda
