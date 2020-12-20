@@ -5,6 +5,14 @@ Two classification methods of Rigveda shaakala shaka in practice today. I have c
 
 I'm still working on proofreading the correcting the Rishi, devata and chadas chanting mantras at the begining of each suktas.
 
-[Ashtaka-1](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
-[Mandala-1](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-1-kannada(Detail).html)
+1. ** Ashtaka **
+		** Simple **
+			[Ashtaka-1](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
+			[Ashtaka-1](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
+			[Ashtaka-1](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
+			[Ashtaka-1](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
+			[Ashtaka-1](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
+2. ** Mandala **
+		** Detailed **
+			[Mandala-1](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-1-kannada(Detail).html)
  
