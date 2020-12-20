@@ -21,56 +21,50 @@ via email mentioned below
 **ದಯಾನಂದ ಐತಾಳ್ **
 - dithal29@gmail.com
 
-Ashtaka
-| Simple  | Detail |
-| ------------- | ------------- |
-| [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)  | [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)  |
-| [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)  | [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html)  |
+### Ashtaka
+**Simple**
+	1. [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
+	2. [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)
+	3. [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Simple).html)
+	4. [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Simple).html)
+	5. [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Simple).html)
+	6. [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Simple).html)
+	7. [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html)
+	8. [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html)
 
-1. Ashtaka
-	- Simple
-		1. [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
-		2. [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)
-		3. [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Simple).html)
-		4. [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Simple).html)
-		5. [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Simple).html)
-		6. [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Simple).html)
-		7. [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html)
-		8. [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html)
-
-	- Detailed
-		1 [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)
-		2 [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html)
-		3 [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Detail).html)
-		4 [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Detail).html)
-		5 [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Detail).html)
-		6 [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Detail).html)
-		7 [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Detail).html)
-		8 [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Detail).html)
+** Detailed **
+	1 [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)
+	2 [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html)
+	3 [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Detail).html)
+	4 [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Detail).html)
+	5 [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Detail).html)
+	6 [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Detail).html)
+	7 [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Detail).html)
+	8 [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Detail).html)
 
 		
-2. Mandala
-	- Simple
-		- [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Simple).html)
-		- [Mandala-2](Kannada/Mandala/Mandala-2-kannada(Simple).html)
-		- [Mandala-3](Kannada/Mandala/Mandala-3-kannada(Simple).html)
-		- [Mandala-4](Kannada/Mandala/Mandala-4-kannada(Simple).html)
-		- [Mandala-5](Kannada/Mandala/Mandala-5-kannada(Simple).html)
-		- [Mandala-6](Kannada/Mandala/Mandala-6-kannada(Simple).html)
-		- [Mandala-7](Kannada/Mandala/Mandala-7-kannada(Simple).html)
-		- [Mandala-8](Kannada/Mandala/Mandala-7-kannada(Simple).html)
-		- [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Simple).html)
-		- [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Simple).html)
+### Mandala
+**Simple**
+	- [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Simple).html)
+	- [Mandala-2](Kannada/Mandala/Mandala-2-kannada(Simple).html)
+	- [Mandala-3](Kannada/Mandala/Mandala-3-kannada(Simple).html)
+	- [Mandala-4](Kannada/Mandala/Mandala-4-kannada(Simple).html)
+	- [Mandala-5](Kannada/Mandala/Mandala-5-kannada(Simple).html)
+	- [Mandala-6](Kannada/Mandala/Mandala-6-kannada(Simple).html)
+	- [Mandala-7](Kannada/Mandala/Mandala-7-kannada(Simple).html)
+	- [Mandala-8](Kannada/Mandala/Mandala-7-kannada(Simple).html)
+	- [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Simple).html)
+	- [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Simple).html)
 		
-	- Detailed
-		- [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Detail).html)
-		- [Mandala-2](Kannada/Mandala/Mandala-2-kannada(Detail).html)
-		- [Mandala-3](Kannada/Mandala/Mandala-3-kannada(Detail).html)
-		- [Mandala-4](Kannada/Mandala/Mandala-4-kannada(Detail).html)
-		- [Mandala-5](Kannada/Mandala/Mandala-5-kannada(Detail).html)
-		- [Mandala-6](Kannada/Mandala/Mandala-6-kannada(Detail).html)
-		- [Mandala-7](Kannada/Mandala/Mandala-7-kannada(Detail).html)
-		- [Mandala-8](Kannada/Mandala/Mandala-8-kannada(Detail).html)
-		- [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Detail).html)
-		- [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Detail).html)
+** Detailed **
+	- [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Detail).html)
+	- [Mandala-2](Kannada/Mandala/Mandala-2-kannada(Detail).html)
+	- [Mandala-3](Kannada/Mandala/Mandala-3-kannada(Detail).html)
+	- [Mandala-4](Kannada/Mandala/Mandala-4-kannada(Detail).html)
+	- [Mandala-5](Kannada/Mandala/Mandala-5-kannada(Detail).html)
+	- [Mandala-6](Kannada/Mandala/Mandala-6-kannada(Detail).html)
+	- [Mandala-7](Kannada/Mandala/Mandala-7-kannada(Detail).html)
+	- [Mandala-8](Kannada/Mandala/Mandala-8-kannada(Detail).html)
+	- [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Detail).html)
+	- [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Detail).html)
  
