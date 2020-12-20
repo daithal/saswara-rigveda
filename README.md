@@ -22,7 +22,7 @@ via email mentioned below
 ### dithal29@gmail.com
 
 ## Ashtaka
-### Simple
+### Simple Mantra Pages
 1. [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)
 2. [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)
 3. [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Simple).html)
@@ -32,7 +32,7 @@ via email mentioned below
 7. [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html)
 8. [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html)
 
-### Detailed
+### Detailed Mantra Pages
 1. [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)
 2. [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html)
 3. [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Detail).html)
@@ -44,7 +44,7 @@ via email mentioned below
 
 		
 ## Mandala
-### Simple
+### Simple  Mantra Pages
 1. [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Simple).html)
 2. [Mandala-2](Kannada/Mandala/Mandala-2-kannada(Simple).html)
 3. [Mandala-3](Kannada/Mandala/Mandala-3-kannada(Simple).html)
@@ -56,7 +56,7 @@ via email mentioned below
 9. [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Simple).html)
 10. [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Simple).html)
 		
-### Simple
+### Detailed  Mantra Pages
 1. [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Detail).html)
 2. [Mandala-2](Kannada/Mandala/Mandala-2-kannada(Detail).html)
 3. [Mandala-3](Kannada/Mandala/Mandala-3-kannada(Detail).html)
