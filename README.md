@@ -21,6 +21,11 @@ via email mentioned below
 **ದಯಾನಂದ ಐತಾಳ್ **
 - dithal29@gmail.com
 
+Ashtaka
+| Simple  | Detail |
+| ------------- | ------------- |
+| [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)  | [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)  |
+| [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)  | [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html)  |
 
 1. Ashtaka
 	- Simple
