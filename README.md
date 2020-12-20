@@ -66,4 +66,8 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 8. [Mandala-8](Kannada/Mandala/Mandala-8-kannada(Detail).html)
 9. [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Detail).html)
 10. [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Detail).html)
- 
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
