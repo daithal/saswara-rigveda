@@ -69,5 +69,14 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 
 | Simple  Mantra Pages      | Detailed Mantra Pages |
 | ----------- | ----------- |
-| [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html)      | [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)       |
-| [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html)   | [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html)        |
+| [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html) | [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html) |
+| [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html) | [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html) |
+| [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Simple).html) | [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Detail).html) |
+| [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Simple).html) | [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Detail).html) |
+| [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Simple).html) | [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Detail).html) |
+| [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Simple).html) | [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Detail).html) |
+| [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html) | [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Detail).html) |
+| [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html) | [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Detail).html) |
+
+
+
