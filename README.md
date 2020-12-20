@@ -16,10 +16,6 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 
 ನಿಮ್ಮ ಸ್ವಶಾಖೆ ರೀತ್ಯಾ ಕ್ರಮವನ್ನು ಆಯ್ದುಕೊಂಡು ವೇದವನ್ನು ಅಭ್ಯಾಸಿಸಿ ಭಗವಂತನ ದಿವ್ಯಫಲಗಳನ್ನು ಅನುಭವಿಸಿ ಸಾರ್ಥಕ ಜನ್ಮ ಸಾಧಿಸಲು ಹಾರೈಸುತ್ತೇನೆ 
 
-ನಿಮ್ಮೆಲ್ಲರ ಆತ್ಮೀಯ 
-### ದಯಾನಂದ ಐತಾಳ್ 
-### dithal29@gmail.com
-
 ## Ashtaka
 
 | Simple  Mantra Pages      | Detailed Mantra Pages |
@@ -47,6 +43,10 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 | [Mandala-8](Kannada/Mandala/Mandala-8-kannada(Simple).html) | [Mandala-8](Kannada/Mandala/Mandala-8-kannada(Detail).html) |
 | [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Simple).html) | [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Detail).html) |
 | [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Simple).html) | [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Detail).html) |
+
+ನಿಮ್ಮೆಲ್ಲರ ಆತ್ಮೀಯ 
+### ದಯಾನಂದ ಐತಾಳ್ 
+### dithal29@gmail.com
 
 ### References
 Audio files for each Mandala of Rigveda
