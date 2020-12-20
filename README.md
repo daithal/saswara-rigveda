@@ -50,13 +50,13 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 
 ### References
 Audio files for each Mandala of Rigveda
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_01.htm
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_02.htm
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_03.htm
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_04.htm
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_05.htm
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_06.htm
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_07.htm
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_08.htm
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_09.htm
-https://www.aurobindo.ru/workings/matherials/rigveda/audio_10.htm
+1. [Mandala-1](https://www.aurobindo.ru/workings/matherials/rigveda/audio_01.htm)
+2. [Mandala-2](https://www.aurobindo.ru/workings/matherials/rigveda/audio_02.htm)
+3. [Mandala-3](https://www.aurobindo.ru/workings/matherials/rigveda/audio_03.htm)
+4. [Mandala-4](https://www.aurobindo.ru/workings/matherials/rigveda/audio_04.htm)
+5. [Mandala-5](https://www.aurobindo.ru/workings/matherials/rigveda/audio_05.htm)
+6. [Mandala-6](https://www.aurobindo.ru/workings/matherials/rigveda/audio_06.htm)
+7. [Mandala-7](https://www.aurobindo.ru/workings/matherials/rigveda/audio_07.htm)
+8. [Mandala-8](https://www.aurobindo.ru/workings/matherials/rigveda/audio_08.htm)
+9. [Mandala-9](https://www.aurobindo.ru/workings/matherials/rigveda/audio_09.htm)
+10. [Mandala-10](https://www.aurobindo.ru/workings/matherials/rigveda/audio_10.htm)
