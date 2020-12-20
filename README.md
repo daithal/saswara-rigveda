@@ -13,7 +13,7 @@ via email mentioned below
 ನಿಮ್ಮ ಸ್ವಶಾಖೆ ರೀತ್ಯಾ ಕ್ರಮವನ್ನು ಆಯ್ದುಕೊಂಡು ವೇದವನ್ನು ಅಭ್ಯಾಸಿಸಿ ಭಗವಂತನ ದಿವ್ಯಫಲಗಳನ್ನು ಅನುಭವಿಸಿ ಸಾರ್ಥಕ ಜನ್ಮ ಸಾಧಿಸಲು ಹಾರೈಸುತ್ತೇನೆ 
 
 ನಿಮ್ಮೆಲ್ಲರ ಆತ್ಮೀಯ 
-- ದಯಾನಂದ ಐತಾಳ್ 
+ದಯಾನಂದ ಐತಾಳ್ 
 - dithal29@gmail.com
 
 
@@ -29,14 +29,14 @@ via email mentioned below
 		- [Ashtaka-8](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html)
 
 	- Detailed
-		- [Ashtaka-1](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-1-kannada(detail).html)
-		- [Ashtaka-2](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-2-kannada(detail).html)
-		- [Ashtaka-3](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-3-kannada(detail).html)
-		- [Ashtaka-4](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-4-kannada(detail).html)
-		- [Ashtaka-5](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-5-kannada(detail).html)
-		- [Ashtaka-6](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-6-kannada(detail).html)
-		- [Ashtaka-7](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-7-kannada(detail).html)
-		- [Ashtaka-8](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-8-kannada(detail).html)
+		- [Ashtaka-1](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html)
+		- [Ashtaka-2](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html)
+		- [Ashtaka-3](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-3-kannada(Detail).html)
+		- [Ashtaka-4](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-4-kannada(Detail).html)
+		- [Ashtaka-5](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-5-kannada(Detail).html)
+		- [Ashtaka-6](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-6-kannada(Detail).html)
+		- [Ashtaka-7](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-7-kannada(Detail).html)
+		- [Ashtaka-8](https://daithal.github.io/saswara-rigveda/Kannada/Ashtaka/Ashtaka-8-kannada(Detail).html)
 
 		
 2. Mandala
@@ -53,14 +53,14 @@ via email mentioned below
 		- [Mandala-10](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-10-kannada(Simple).html)
 		
 	- Detailed
-		- [Mandala-1](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-1-kannada(detail).html)
-		- [Mandala-2](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-2-kannada(detail).html)
-		- [Mandala-3](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-3-kannada(detail).html)
-		- [Mandala-4](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-4-kannada(detail).html)
-		- [Mandala-5](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-5-kannada(detail).html)
-		- [Mandala-6](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-6-kannada(detail).html)
-		- [Mandala-7](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-7-kannada(detail).html)
-		- [Mandala-8](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-8-kannada(detail).html)
-		- [Mandala-9](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-9-kannada(detail).html)
-		- [Mandala-10](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-10-kannada(detail).html)
+		- [Mandala-1](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-1-kannada(Detail).html)
+		- [Mandala-2](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-2-kannada(Detail).html)
+		- [Mandala-3](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-3-kannada(Detail).html)
+		- [Mandala-4](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-4-kannada(Detail).html)
+		- [Mandala-5](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-5-kannada(Detail).html)
+		- [Mandala-6](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-6-kannada(Detail).html)
+		- [Mandala-7](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-7-kannada(Detail).html)
+		- [Mandala-8](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-8-kannada(Detail).html)
+		- [Mandala-9](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-9-kannada(Detail).html)
+		- [Mandala-10](https://daithal.github.io/saswara-rigveda/Kannada/Mandala/Mandala-10-kannada(Detail).html)
  
