@@ -20,7 +20,6 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 ### ದಯಾನಂದ ಐತಾಳ್ 
 ### dithal29@gmail.com
 
-
 ## Ashtaka
 
 | Simple  Mantra Pages      | Detailed Mantra Pages |
@@ -49,3 +48,15 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 | [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Simple).html) | [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Detail).html) |
 | [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Simple).html) | [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Detail).html) |
 
+### References
+Audio files for each Mandala of Rigveda
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_01.htm
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_02.htm
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_03.htm
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_04.htm
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_05.htm
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_06.htm
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_07.htm
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_08.htm
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_09.htm
+https://www.aurobindo.ru/workings/matherials/rigveda/audio_10.htm
