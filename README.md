@@ -71,6 +71,6 @@ I started off my work to include dIrgha swaritas to the source iTRANS (ITX) file
 
 ## This work would not have accomplished without valuable inputs and blessings from the below people
 1. My Veda teacher Shri Subramanya Bhat, Chikmagalur, Karnataka, India
-2. Inspired by writings of Hemanth Kumar G <https://www.vedavidhya.com>
+2. Inspired by writings of Hemanth Kumar G <https://www.vedavidhya.com> & <http://veda-vijnana.blogspot.com/>
 3. Valuable inputs and encouragements from P R Iyer <iyerpr49@gmail.com>
-Last but not least, my family and friends
+- Last but not least, my family and friends
