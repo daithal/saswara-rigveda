@@ -1,8 +1,8 @@
-# || ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ || ಹರಿಃ ಓಂ ||
+# || ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||
 
 # Saswara Rigveda Samhita
 ## Dear friends
-My name is Dayananda Aithal. I have been working and living in Peoria, AZ from the past 4 years. I have been practicing chanting Rigveda (shaakala shaaka) Samhita since the last few months.  I am using "Saswara Rigveda Samhita", which is a Kannada book I purchased from a temple in Ramakrishna Mutt, Bangalore. For Rigveda chanters, veda mantras with accurate markings of swaras (swarita, deergha swarita, udatta and anudatta) are extremely important. I have observed that the only way to have accurate mantras handy is by purchasing books. Hence, I have created this free website containing webpages of entire Saswara rigveda mantras in the Kannada language for anyone interested.
+My name is Dayananda Aithal born and raised in Bangalore and currently working and living in USA. I have been practicing chanting Rigveda (shaakala shaaka) Samhita since the last few months.  I am using the book titled "Saswara Rigveda Samhita", published by Ramakrishna Mutt, Bangalore. For Rigveda chanters, veda mantras with accurate markings of swaras (swarita, deergha swarita, udatta and anudatta) are extremely important. I have observed that the only way to have accurate mantras handy is by purchasing books. Hence, I have created this free website containing webpages of entire Saswara rigveda mantras in the Kannada language for anyone interested.
 
 To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having more information at each mantra levels.
 
@@ -50,7 +50,7 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 ## ದಯಾನಂದ ಐತಾಳ್  <dithal29@gmail.com>
 
 ### References
-## Audio files for each Mandala of Rigveda
+## Audio files for each Mandala of Rigveda recorded by Sri Shyama Sundara Sharma and Sri Satya Krishna Bhatta. Recorded by Sriranga Digital Software Technologies Pvt. Ltd. (2012)
 1. [Mandala-1](https://www.aurobindo.ru/workings/matherials/rigveda/audio_01.htm)
 2. [Mandala-2](https://www.aurobindo.ru/workings/matherials/rigveda/audio_02.htm)
 3. [Mandala-3](https://www.aurobindo.ru/workings/matherials/rigveda/audio_03.htm)
@@ -63,7 +63,9 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 10. [Mandala-10](https://www.aurobindo.ru/workings/matherials/rigveda/audio_10.htm)
 
 ## Most frequently visited site for references 
-- https://sites.google.com/site/detlef108/rv-links
+- <https://sites.google.com/site/detlef108/rv-links>
+- <https://ocr.sanskritdictionary.com/#>
+
 
 ## Process followed, Credits and acknowledgement
 I started off my work to include dIrgha swaritas to the source iTRANS (ITX) files from <https://sanskritdocuments.org/sanskrit/veda/> and doing proofreading and corrections. Later at some point, identified a common pattern and worked upon coming up with pattern recognition algorithm to automate some of the manual work. Refereed to the Samhita documents from Maharishi University <https://vedicreserve.miu.edu/>, <http://sanskritacademy.delhi.gov.in/> and other sources widely available over the internet to prepare the details for each sUktas (Rishi, Devata, Chandas) and made corrections and enhancements to simplify for chanters. Primarily, I have used <http://aksharamukha.appspot.com/converter> and other similar websites for Kannada transliteration which helped me in proofreading/correction process. As I mentioned earlier, this is still in work-in-progress and I will continue to make corrections and improvements. 
