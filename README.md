@@ -1,3 +1,5 @@
+# || ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ || ಹರಿಃ ಓಂ ||
+
 # Saswara Rigveda Samhita
 ## Dear friends
 My name is Dayananda Aithal. I have been working and living in Peoria, AZ from the past 4 years. I have been practicing chanting Rigveda (shaakala shaaka) Samhita since the last few months.  I am using "Saswara Rigveda Samhita", which is a Kannada book I purchased from a temple in Ramakrishna Mutt, Bangalore. For Rigveda chanters, veda mantras with accurate markings of swaras (swarita, deergha swarita, udatta and anudatta) are extremely important. I have observed that the only way to have accurate mantras handy is by purchasing books. Hence, I have created this free website containing webpages of entire Saswara rigveda mantras in the Kannada language for anyone interested.
@@ -59,3 +61,13 @@ Audio files for each Mandala of Rigveda
 8. [Mandala-8](https://www.aurobindo.ru/workings/matherials/rigveda/audio_08.htm)
 9. [Mandala-9](https://www.aurobindo.ru/workings/matherials/rigveda/audio_09.htm)
 10. [Mandala-10](https://www.aurobindo.ru/workings/matherials/rigveda/audio_10.htm)
+
+## Process followed, Credits and acknowledgement
+I started off my work to include dIrgha swaritas to the source iTRANS (ITX) files from https://sanskritdocuments.org/sanskrit/veda/ and doing proofreading and corrections. Later at some point, identified a common pattern and worked upon coming up with pattern recognition algorithm to automate some of the manual work. Refereed to the Samhita documents from Maharishi University (https://vedicreserve.miu.edu/), http://sanskritacademy.delhi.gov.in/ and other sources widely available over the internet to prepare the details for each sUktas (Rishi, Devata, Chandas), make corrections and enhancements to simplify for chanters. Primarily, I have used http://aksharamukha.appspot.com/converter and referred to other similar websites for transliteration to Kannada and helped me in proofreading/correction process which is still in progress and I will continue to make improvements. Most frequently visited site for references https://sites.google.com/site/detlef108/rv-links
+##Thanks to all the volunteers and people who worked behind in preserving and sharing the precious vedic literature the public.
+
+## This work would not have accomplished without valuable inputs and blessings from the below people
+1. My Veda teacher Shri Subramanya Bhat, Chikmagalur, Karnataka, India
+2. Inspired by writing of Hemanth Kumar G <https://www.vedavidhya.com>
+3. Valuable inputs and encouragements from P R Iyer <iyerpr49@gmail.com>
+Last but not least family and friends
