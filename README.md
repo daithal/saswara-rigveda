@@ -49,8 +49,9 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 ## ನಿಮ್ಮೆಲ್ಲರ ಆತ್ಮೀಯ 
 ## ದಯಾನಂದ ಐತಾಳ್  <dithal29@gmail.com>
 
-### References
-## Audio files for each Mandala of Rigveda recorded by Sri Shyama Sundara Sharma and Sri Satya Krishna Bhatta. Recorded by Sriranga Digital Software Technologies Pvt. Ltd. (2012)
+## References
+## Audio files for each Mandala of Rigveda 
+### recorded by Sri Shyama Sundara Sharma and Sri Satya Krishna Bhatta. Recorded by Sriranga Digital Software Technologies Pvt. Ltd. (2012)
 1. [Mandala-1](https://www.aurobindo.ru/workings/matherials/rigveda/audio_01.htm)
 2. [Mandala-2](https://www.aurobindo.ru/workings/matherials/rigveda/audio_02.htm)
 3. [Mandala-3](https://www.aurobindo.ru/workings/matherials/rigveda/audio_03.htm)
