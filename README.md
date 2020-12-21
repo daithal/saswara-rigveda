@@ -50,7 +50,7 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 ## ದಯಾನಂದ ಐತಾಳ್  <dithal29@gmail.com>
 
 ### References
-Audio files for each Mandala of Rigveda
+## Audio files for each Mandala of Rigveda
 1. [Mandala-1](https://www.aurobindo.ru/workings/matherials/rigveda/audio_01.htm)
 2. [Mandala-2](https://www.aurobindo.ru/workings/matherials/rigveda/audio_02.htm)
 3. [Mandala-3](https://www.aurobindo.ru/workings/matherials/rigveda/audio_03.htm)
@@ -62,12 +62,15 @@ Audio files for each Mandala of Rigveda
 9. [Mandala-9](https://www.aurobindo.ru/workings/matherials/rigveda/audio_09.htm)
 10. [Mandala-10](https://www.aurobindo.ru/workings/matherials/rigveda/audio_10.htm)
 
+## Most frequently visited site for references 
+- https://sites.google.com/site/detlef108/rv-links
+
 ## Process followed, Credits and acknowledgement
-I started off my work to include dIrgha swaritas to the source iTRANS (ITX) files from https://sanskritdocuments.org/sanskrit/veda/ and doing proofreading and corrections. Later at some point, identified a common pattern and worked upon coming up with pattern recognition algorithm to automate some of the manual work. Refereed to the Samhita documents from Maharishi University (https://vedicreserve.miu.edu/), http://sanskritacademy.delhi.gov.in/ and other sources widely available over the internet to prepare the details for each sUktas (Rishi, Devata, Chandas), make corrections and enhancements to simplify for chanters. Primarily, I have used http://aksharamukha.appspot.com/converter and referred to other similar websites for transliteration to Kannada and helped me in proofreading/correction process which is still in progress and I will continue to make improvements. Most frequently visited site for references https://sites.google.com/site/detlef108/rv-links
+I started off my work to include dIrgha swaritas to the source iTRANS (ITX) files from https://sanskritdocuments.org/sanskrit/veda/ and doing proofreading and corrections. Later at some point, identified a common pattern and worked upon coming up with pattern recognition algorithm to automate some of the manual work. Refereed to the Samhita documents from Maharishi University (https://vedicreserve.miu.edu/), http://sanskritacademy.delhi.gov.in/ and other sources widely available over the internet to prepare the details for each sUktas (Rishi, Devata, Chandas) and made corrections and enhancements to simplify for chanters. Primarily, I have used http://aksharamukha.appspot.com/converter and other similar websites for Kannada transliteration which helped me in proofreading/correction process. As I mentioned earlier, this is still in work-in-progress and I will continue to make corrections and improvements. 
 ##Thanks to all the volunteers and people who worked behind in preserving and sharing the precious vedic literature the public.
 
 ## This work would not have accomplished without valuable inputs and blessings from the below people
 1. My Veda teacher Shri Subramanya Bhat, Chikmagalur, Karnataka, India
-2. Inspired by writing of Hemanth Kumar G <https://www.vedavidhya.com>
+2. Inspired by writings of Hemanth Kumar G <https://www.vedavidhya.com>
 3. Valuable inputs and encouragements from P R Iyer <iyerpr49@gmail.com>
-Last but not least family and friends
+Last but not least, my family and friends
