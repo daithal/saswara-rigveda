@@ -22,35 +22,37 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 
 | Simple  Mantra Pages      | Detailed Mantra Pages |
 | ----------- | ----------- |
-| [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Simple).html) | [Ashtaka-1](Kannada/Ashtaka/Ashtaka-1-kannada(Detail).html) |
-| [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Simple).html) | [Ashtaka-2](Kannada/Ashtaka/Ashtaka-2-kannada(Detail).html) |
-| [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Simple).html) | [Ashtaka-3](Kannada/Ashtaka/Ashtaka-3-kannada(Detail).html) |
-| [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Simple).html) | [Ashtaka-4](Kannada/Ashtaka/Ashtaka-4-kannada(Detail).html) |
-| [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Simple).html) | [Ashtaka-5](Kannada/Ashtaka/Ashtaka-5-kannada(Detail).html) |
-| [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Simple).html) | [Ashtaka-6](Kannada/Ashtaka/Ashtaka-6-kannada(Detail).html) |
-| [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Simple).html) | [Ashtaka-7](Kannada/Ashtaka/Ashtaka-7-kannada(Detail).html) |
-| [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Simple).html) | [Ashtaka-8](Kannada/Ashtaka/Ashtaka-8-kannada(Detail).html) |
+| [Ashtaka-1](Kannada/Ashtaka/RVA-1(Simple).html) | [Ashtaka-1](Kannada/Ashtaka/RVA-1(Detail).html) |
+| [Ashtaka-2](Kannada/Ashtaka/RVA-2(Simple).html) | [Ashtaka-2](Kannada/Ashtaka/RVA-2(Detail).html) |
+| [Ashtaka-3](Kannada/Ashtaka/RVA-3(Simple).html) | [Ashtaka-3](Kannada/Ashtaka/RVA-3(Detail).html) |
+| [Ashtaka-4](Kannada/Ashtaka/RVA-4(Simple).html) | [Ashtaka-4](Kannada/Ashtaka/RVA-4(Detail).html) |
+| [Ashtaka-5](Kannada/Ashtaka/RVA-5(Simple).html) | [Ashtaka-5](Kannada/Ashtaka/RVA-5(Detail).html) |
+| [Ashtaka-6](Kannada/Ashtaka/RVA-6(Simple).html) | [Ashtaka-6](Kannada/Ashtaka/RVA-6(Detail).html) |
+| [Ashtaka-7](Kannada/Ashtaka/RVA-7(Simple).html) | [Ashtaka-7](Kannada/Ashtaka/RVA-7(Detail).html) |
+| [Ashtaka-8](Kannada/Ashtaka/RVA-8(Simple).html) | [Ashtaka-8](Kannada/Ashtaka/RVA-8(Detail).html) |
 
 ## Mandala
 
 | Simple  Mantra Pages      | Detailed Mantra Pages |
 | ----------- | ----------- |
-| [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Simple).html) | [Mandala-1](Kannada/Mandala/Mandala-1-kannada(Detail).html) |
-| [Mandala-2](Kannada/Mandala/Mandala-2-kannada(Simple).html) | [Mandala-2](Kannada/Mandala/Mandala-2-kannada(Detail).html) |
-| [Mandala-3](Kannada/Mandala/Mandala-3-kannada(Simple).html) | [Mandala-3](Kannada/Mandala/Mandala-3-kannada(Detail).html) |
-| [Mandala-4](Kannada/Mandala/Mandala-4-kannada(Simple).html) | [Mandala-4](Kannada/Mandala/Mandala-4-kannada(Detail).html) |
-| [Mandala-5](Kannada/Mandala/Mandala-5-kannada(Simple).html) | [Mandala-5](Kannada/Mandala/Mandala-5-kannada(Detail).html) |
-| [Mandala-6](Kannada/Mandala/Mandala-6-kannada(Simple).html) | [Mandala-6](Kannada/Mandala/Mandala-6-kannada(Detail).html) |
-| [Mandala-7](Kannada/Mandala/Mandala-7-kannada(Simple).html) | [Mandala-7](Kannada/Mandala/Mandala-7-kannada(Detail).html) |
-| [Mandala-8](Kannada/Mandala/Mandala-8-kannada(Simple).html) | [Mandala-8](Kannada/Mandala/Mandala-8-kannada(Detail).html) |
-| [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Simple).html) | [Mandala-9](Kannada/Mandala/Mandala-9-kannada(Detail).html) |
-| [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Simple).html) | [Mandala-10](Kannada/Mandala/Mandala-10-kannada(Detail).html) |
+| [Mandala-1](Kannada/Mandala/RVM-1(Simple).html) | [Mandala-1](Kannada/Mandala/RVM-1(Detail).html) |
+| [Mandala-2](Kannada/Mandala/RVM-2(Simple).html) | [Mandala-2](Kannada/Mandala/RVM-2(Detail).html) |
+| [Mandala-3](Kannada/Mandala/RVM-3(Simple).html) | [Mandala-3](Kannada/Mandala/RVM-3(Detail).html) |
+| [Mandala-4](Kannada/Mandala/RVM-4(Simple).html) | [Mandala-4](Kannada/Mandala/RVM-4(Detail).html) |
+| [Mandala-5](Kannada/Mandala/RVM-5(Simple).html) | [Mandala-5](Kannada/Mandala/RVM-5(Detail).html) |
+| [Mandala-6](Kannada/Mandala/RVM-6(Simple).html) | [Mandala-6](Kannada/Mandala/RVM-6(Detail).html) |
+| [Mandala-7](Kannada/Mandala/RVM-7(Simple).html) | [Mandala-7](Kannada/Mandala/RVM-7(Detail).html) |
+| [Mandala-8](Kannada/Mandala/RVM-8(Simple).html) | [Mandala-8](Kannada/Mandala/RVM-8(Detail).html) |
+| [Mandala-9](Kannada/Mandala/RVM-9(Simple).html) | [Mandala-9](Kannada/Mandala/RVM-9(Detail).html) |
+| [Mandala-10](Kannada/Mandala/RVM-10(Simple).html) | [Mandala-10](Kannada/Mandala/RVM-10(Detail).html) |
 
 ## ನಿಮ್ಮೆಲ್ಲರ ಆತ್ಮೀಯ 
 ## ದಯಾನಂದ ಐತಾಳ್  <dithal29@gmail.com>
 
 ## References
-## Audio files for each Mandala of Rigveda #### Chantings by Sri Shyama Sundara Sharma and Sri Satya Krishna Bhatta. Recorded by Sriranga Digital Software Technologies Pvt. Ltd. (2012)
+## Audio files for each Mandala of Rigveda
+#### Chantings by Sri Shyama Sundara Sharma and Sri Satya Krishna Bhatta. Recorded by Sriranga Digital Software Technologies Pvt. Ltd. (2012)
+
 1. [Mandala-1](https://www.aurobindo.ru/workings/matherials/rigveda/audio_01.htm)
 2. [Mandala-2](https://www.aurobindo.ru/workings/matherials/rigveda/audio_02.htm)
 3. [Mandala-3](https://www.aurobindo.ru/workings/matherials/rigveda/audio_03.htm)
