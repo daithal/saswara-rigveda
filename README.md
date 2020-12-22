@@ -19,8 +19,9 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 ನಿಮ್ಮ ಸ್ವಶಾಖಾ ರೀತ್ಯಾ ಕ್ರಮವನ್ನು ಆಯ್ದುಕೊಂಡು ವೇದವನ್ನು ಅಭ್ಯಸಿಸಿ ಭಗವಂತನ ದಿವ್ಯಫಲಗಳನ್ನು ಅನುಭವಿಸಿ ಸಾರ್ಥಕ ಜನ್ಮ ಸಾಧಿಸಿರೆಂದು ಹಾರೈಸುತ್ತೇನೆ
 
 ## Ashtaka
+## ಋಗ್ವೇದ ಅಷ್ಟಕ ಕ್ರಮ
 
-| ಸರಳ  ಮಂತ್ರಗಳು | ವಿಸ್ತ್ರತ ಮಂತ್ರಗಳು |
+| ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು |
 | ----------- | ----------- |
 | [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1(vistrata).html) |
 | [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2(vistrata).html) |
@@ -32,8 +33,9 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 | [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8(vistrata).html) |
 
 ## Mandala
+## ಋಗ್ವೇದ ಮಂಡಲ ಕ್ರಮ
 
-| ಸರಳ  ಮಂತ್ರಗಳು | ವಿಸ್ತ್ರತ ಮಂತ್ರಗಳು |
+| ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು |
 | ----------- | ----------- |
 | [ಮಂಡಲ-1](Kannada/Mandala/RVM-1(sarala).html) | [ಮಂಡಲ-1](Kannada/Mandala/RVM-1(vistrata).html) |
 | [ಮಂಡಲ-2](Kannada/Mandala/RVM-2(sarala).html) | [ಮಂಡಲ-2](Kannada/Mandala/RVM-2(vistrata).html) |
