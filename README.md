@@ -20,31 +20,31 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 
 ## Ashtaka
 
-| Simple  Mantra Pages      | Detailed Mantra Pages |
+| ಸರಳ  ಮಂತ್ರಗಳು | ವಿಸ್ತ್ರತ ಮಂತ್ರಗಳು |
 | ----------- | ----------- |
-| [Ashtaka-1](Kannada/Ashtaka/RVA-1(Simple).html) | [Ashtaka-1](Kannada/Ashtaka/RVA-1(Detail).html) |
-| [Ashtaka-2](Kannada/Ashtaka/RVA-2(Simple).html) | [Ashtaka-2](Kannada/Ashtaka/RVA-2(Detail).html) |
-| [Ashtaka-3](Kannada/Ashtaka/RVA-3(Simple).html) | [Ashtaka-3](Kannada/Ashtaka/RVA-3(Detail).html) |
-| [Ashtaka-4](Kannada/Ashtaka/RVA-4(Simple).html) | [Ashtaka-4](Kannada/Ashtaka/RVA-4(Detail).html) |
-| [Ashtaka-5](Kannada/Ashtaka/RVA-5(Simple).html) | [Ashtaka-5](Kannada/Ashtaka/RVA-5(Detail).html) |
-| [Ashtaka-6](Kannada/Ashtaka/RVA-6(Simple).html) | [Ashtaka-6](Kannada/Ashtaka/RVA-6(Detail).html) |
-| [Ashtaka-7](Kannada/Ashtaka/RVA-7(Simple).html) | [Ashtaka-7](Kannada/Ashtaka/RVA-7(Detail).html) |
-| [Ashtaka-8](Kannada/Ashtaka/RVA-8(Simple).html) | [Ashtaka-8](Kannada/Ashtaka/RVA-8(Detail).html) |
+| [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1(vistrata).html) |
+| [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2(vistrata).html) |
+| [ಅಷ್ಟಕ-3](Kannada/Ashtaka/RVA-3(sarala).html) | [ಅಷ್ಟಕ-3](Kannada/Ashtaka/RVA-3(vistrata).html) |
+| [ಅಷ್ಟಕ-4](Kannada/Ashtaka/RVA-4(sarala).html) | [ಅಷ್ಟಕ-4](Kannada/Ashtaka/RVA-4(vistrata).html) |
+| [ಅಷ್ಟಕ-5](Kannada/Ashtaka/RVA-5(sarala).html) | [ಅಷ್ಟಕ-5](Kannada/Ashtaka/RVA-5(vistrata).html) |
+| [ಅಷ್ಟಕ-6](Kannada/Ashtaka/RVA-6(sarala).html) | [ಅಷ್ಟಕ-6](Kannada/Ashtaka/RVA-6(vistrata).html) |
+| [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7(sarala).html) | [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7(vistrata).html) |
+| [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8(vistrata).html) |
 
 ## Mandala
 
-| Simple  Mantra Pages      | Detailed Mantra Pages |
+| ಸರಳ  ಮಂತ್ರಗಳು | ವಿಸ್ತ್ರತ ಮಂತ್ರಗಳು |
 | ----------- | ----------- |
-| [Mandala-1](Kannada/Mandala/RVM-1(Simple).html) | [Mandala-1](Kannada/Mandala/RVM-1(Detail).html) |
-| [Mandala-2](Kannada/Mandala/RVM-2(Simple).html) | [Mandala-2](Kannada/Mandala/RVM-2(Detail).html) |
-| [Mandala-3](Kannada/Mandala/RVM-3(Simple).html) | [Mandala-3](Kannada/Mandala/RVM-3(Detail).html) |
-| [Mandala-4](Kannada/Mandala/RVM-4(Simple).html) | [Mandala-4](Kannada/Mandala/RVM-4(Detail).html) |
-| [Mandala-5](Kannada/Mandala/RVM-5(Simple).html) | [Mandala-5](Kannada/Mandala/RVM-5(Detail).html) |
-| [Mandala-6](Kannada/Mandala/RVM-6(Simple).html) | [Mandala-6](Kannada/Mandala/RVM-6(Detail).html) |
-| [Mandala-7](Kannada/Mandala/RVM-7(Simple).html) | [Mandala-7](Kannada/Mandala/RVM-7(Detail).html) |
-| [Mandala-8](Kannada/Mandala/RVM-8(Simple).html) | [Mandala-8](Kannada/Mandala/RVM-8(Detail).html) |
-| [Mandala-9](Kannada/Mandala/RVM-9(Simple).html) | [Mandala-9](Kannada/Mandala/RVM-9(Detail).html) |
-| [Mandala-10](Kannada/Mandala/RVM-10(Simple).html) | [Mandala-10](Kannada/Mandala/RVM-10(Detail).html) |
+| [ಮಂಡಲ-1](Kannada/Mandala/RVM-1(sarala).html) | [ಮಂಡಲ-1](Kannada/Mandala/RVM-1(vistrata).html) |
+| [ಮಂಡಲ-2](Kannada/Mandala/RVM-2(sarala).html) | [ಮಂಡಲ-2](Kannada/Mandala/RVM-2(vistrata).html) |
+| [ಮಂಡಲ-3](Kannada/Mandala/RVM-3(sarala).html) | [ಮಂಡಲ-3](Kannada/Mandala/RVM-3(vistrata).html) |
+| [ಮಂಡಲ-4](Kannada/Mandala/RVM-4(sarala).html) | [ಮಂಡಲ-4](Kannada/Mandala/RVM-4(vistrata).html) |
+| [ಮಂಡಲ-5](Kannada/Mandala/RVM-5(sarala).html) | [ಮಂಡಲ-5](Kannada/Mandala/RVM-5(vistrata).html) |
+| [ಮಂಡಲ-6](Kannada/Mandala/RVM-6(sarala).html) | [ಮಂಡಲ-6](Kannada/Mandala/RVM-6(vistrata).html) |
+| [ಮಂಡಲ-7](Kannada/Mandala/RVM-7(sarala).html) | [ಮಂಡಲ-7](Kannada/Mandala/RVM-7(vistrata).html) |
+| [ಮಂಡಲ-8](Kannada/Mandala/RVM-8(sarala).html) | [ಮಂಡಲ-8](Kannada/Mandala/RVM-8(vistrata).html) |
+| [ಮಂಡಲ-9](Kannada/Mandala/RVM-9(sarala).html) | [ಮಂಡಲ-9](Kannada/Mandala/RVM-9(vistrata).html) |
+| [ಮಂಡಲ-10](Kannada/Mandala/RVM-10(sarala).html) | [ಮಂಡಲ-10](Kannada/Mandala/RVM-10(vistrata).html) |
 
 ## ನಿಮ್ಮೆಲ್ಲರ ಆತ್ಮೀಯ 
 ## ದಯಾನಂದ ಐತಾಳ್  <dithal29@gmail.com>
