@@ -4,9 +4,12 @@
 ## Dear friends
 My name is Dayananda Aithal born and raised in Bangalore and currently working and living in USA. I have been practicing chanting Rigveda (shaakala shaaka) Samhita since the last few months.  I am using the book titled "Saswara Rigveda Samhita", published by Ramakrishna Mutt, Bangalore. For Rigveda chanters, veda mantras with accurate markings of swaras (swarita, deergha swarita, udatta and anudatta) are extremely important. I have observed that the only way to have accurate mantras handy is by purchasing books. Hence, I have created this free website containing webpages of entire Saswara rigveda mantras in the Kannada language for anyone interested.
 
-To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having more information at each mantra levels.
+To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having details at each mantra levels.
 
-I am still working on proofreading and correcting the Rishi, Devata and Chadas names which should be chanted before each suktas. Feel free to reach out to me for any corrections/feedback via email which is mentioned below.
+### Works in progress tasks
+1. Proofreading and correcting the chanting of mantra numbers, Rishi, Devata and Chadas names before each suktas
+2. I'm a student too and learning to chant one sukta at a time and during this process, sometimes breaking a lengthy words with correct sandhis, increases the speed for learner with reduced effort. I am referring to different Rigveds documents available and incorporating the changes accordingly 
+Feel free to reach out to me for any corrections/feedback via email which is mentioned below.
 
 # ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತ 
 ## ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ
@@ -14,6 +17,9 @@ I am still working on proofreading and correcting the Rishi, Devata and Chadas n
 
 ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು, ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಕ್ರಮದಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಕನಿಷ್ಠ ವಿಷಯವಿದ್ದು ನಿತ್ಯ ಪಠಣೆಗಾಗಿ ಕೇವಲ ಮಂತ್ರ ಗಳು ಮಾತ್ರ ಇವೆ. ಇನ್ನೊಂದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಕ್ಕೂ ಆದಷ್ಟು ಹೆಚ್ಚಿನ ವಿಷಯಗಳನ್ನು ಬರೆದು ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
 
+## ಪ್ರಗತಿಯಲ್ಲಿರುವ ಕೆಲಸಗಳು 
+೧. ಪ್ರತಿಯೊಂದು ಸೂಕ್ತದ ಮೊದಲು ಇರುವ ಮಂತ್ರ ಸಂಖ್ಯೆ, ಋಷಿ, ದೇವತಾ ಹಾಗು ಛಂದಸ್ಸುಗಳ ಉಚ್ಚಾರವನ್ನು ನಿರಂತರವಾಗಿ ಸರಿಪಡಿಸುತ್ತಿರುತ್ತೇನೆ 
+೨. ಕೆಲವು ಮಂತ್ರಗಳಲ್ಲಿರುವ ಉದ್ದ ಹಾಗು ಕ್ಲಿಷ್ಟಕರವಾದ ಪದಗಳನ್ನು ವ್ಯಾಕರಣ ರೀತ್ಯಾ ಛೇದಿಸಿ ಬರೆಯುತ್ತಿರುತ್ತೇನೆ. ಇದರಿಂದ ಕಲಿಯುವರಿಗೆ ಸುಲಭವಾಗಿ ಹಾಗು ಹೆಚ್ಚು ವೇಗವಾಗಿ ಪಠಿಸಲು ಸಾಧ್ಯ. ಇದಕ್ಕಾಗಿ ನಾನು ಅಂತರ್ಜಾಲದಲ್ಲಿರುವ ಹಲವು ಸಂಸ್ಕ್ರತ ಋಗ್ವೇದದ ಪುಟಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಆದಷ್ಟು ತಪ್ಪಾಗದಂತೆ ಬದಲಾಯಿಸಲು  ಪ್ರಯತ್ನಿಸುತ್ತೇನೆ. 
 ನನ್ನ ಈ ಪ್ರಯತ್ನವು ಅಂತ್ಯವಲ್ಲ, ಆರಂಭವಷ್ಟೆ ಇಲ್ಲಿ ನಾನು ನಿರಂತರವಾಗಿ ತಪ್ಪುಗಳನ್ನು ಸರಿಪಡಿಸುತ್ತಾ,  ಓದುಗರ ಅನುಕೂಲಕ್ಕಾಗಿ ಪುಟಗಳನ್ನು ನವೀಕರಿಸುತ್ತಿರುತ್ತೇನೆ. ನನ್ನ ಈ ಪ್ರಯತ್ನಕ್ಕೆ ನಿಮ್ಮ ಅನಿಸಿಕೆಗಳು, ಸಲಹೆಗಳು ಅತ್ಯಮೂಲ್ಯವಾದದ್ದು ಹಾಗು ಅವುಗಳನ್ನು ಗೌರವದಿಂದ ಸ್ವೀಕರಿಸಲು ನನಗೆ ಇಮೇಲ್ ಮೂಲಕ ಸಂಪರ್ಕಿಸಬಹುದು
 
 ನಿಮ್ಮ ಸ್ವಶಾಖಾ ರೀತ್ಯಾ ಕ್ರಮವನ್ನು ಆಯ್ದುಕೊಂಡು ವೇದವನ್ನು ಅಭ್ಯಸಿಸಿ ಭಗವಂತನ ದಿವ್ಯಫಲಗಳನ್ನು ಅನುಭವಿಸಿ ಸಾರ್ಥಕ ಜನ್ಮ ಸಾಧಿಸಿರೆಂದು ಹಾರೈಸುತ್ತೇನೆ
