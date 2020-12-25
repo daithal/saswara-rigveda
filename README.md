@@ -65,7 +65,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 - <https://sites.google.com/site/detlef108/rv-links>
 - <https://ocr.sanskritdictionary.com/#>
 
-## Works in progress tasks
+## In progress tasks
 1. Proofreading and correcting the chanting of mantra numbers, Rishi, Devata and Chadas names before each suktas.
 2. I found sometimes breaking a lengthy words with correct sandhis, increases the speed for learner with reduced effort. I am referring to different Rigveds documents available and incorporating the changes accordingly.
 
