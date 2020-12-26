@@ -4,16 +4,16 @@
 #  ಪ್ರಪ್ರಥಮವಾಗಿ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡಭಾಷೆಯಲ್ಲಿ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತ 
 
 ## Dear friends
-My name is Dayananda Aithal born and raised in Bangalore and currently working and living in USA. I have been practicing chanting Rigveda Samhita since the last few months.
+My name is Dayananda Aithal born and raised in Bangalore and currently working and living in the USA. I have been practicing Rigveda Samhita chanting (shaakala shaaka) over the past few months. 
 
-For Rigveda chanters, veda mantras with accurate markings of swaras (swarita, deergha swarita, udatta and anudatta) are extremely important. I have observed that the only way to have accurate mantras handy is by purchasing books. Hence, I have created this free website containing webpages of entire Saswara rigveda mantras in the Kannada language for anyone interested.
+For Rigveda chanters, Vedic mantras with accurate markings of swaras (swarita, deergha swarita, udatta and anudatta) are extremely important. I have observed that the only way to have accurate saswara mantras handy is by referring to few books available in market today. Hence, I made an attempt to apply all the swara indications and details like Rishi, Devata, Chandas to all the Suktas of Rigveda Samhita (currently available in iTRANS format) and made them available for free in Kannada language
 
 To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having details at each mantra levels.
 
 ## ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ
 ನನ್ನ ಹೆಸರು ದಯಾನಂದ ಐತಾಳ್, ಇರುವ ಸ್ಥಳ ಪಿಯೋರಿಯಾ, ಅರಿಜೋನ. ನಾನು ಕೆಲ ಸಮಯದಿಂದ ಋಗ್ವೇದ ಸೂಕ್ತಗಳನ್ನು ಸಂಹಿತಾಕ್ರಮದಲ್ಲಿ ಪಠಿಸಲು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದೇನೆ.
 
-ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ವರ ಸಹಿತವಾದ (ಉದಾತ್ತ/ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಗುರುತುಗಳಿರುವ ವೇದಮಂತ್ರವು ಉಚ್ಛಾರಕ್ಕೆ ಬಹಳ ಉಪಯುಕ್ತರವಾಗಿದ್ದು ಅದು ಇತ್ತೀಚಿನವರೆಗೂ ಕೇವಲ ಪುಸ್ತಕದ ರೂಪದಲ್ಲಿ ಸಿಗುತ್ತಿದ್ದು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರಸಹಿತವಾದ ಋಗ್ವೇದವು ಎಲ್ಲಿಯೂ ಲಭ್ಯವಿಲ್ಲ. ಹಾಗಾಗಿ ಸಂಪೂರ್ಣ ಋಗ್ವೇದ ಸಂಹಿತವನ್ನು ನಮ್ಮ ಹೆಮ್ಮೆಯ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರ ಸಹಿತವಾಗಿ ಅಂತರ್ಜಾಲ ದಲ್ಲಿ ಸಿಗುವಂತೆ ಮಾಡಲು ಮನಸ್ಸಾಯಿತು. ವೇದ ಪುರುಷಾನುಗ್ರಹದಿಂದ ಆ ಪ್ರಯತ್ನದಲ್ಲಿ ತಕ್ಕ ಮಟ್ಟಿಗೆ ಯಶಸ್ಸು ಕಂಡುಕೊಂಡ ಫಲವೇ ಈ ಜಾಲತಾಣ.
+ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ವರ ಸಹಿತವಾದ (ಉದಾತ್ತ/ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಗುರುತುಗಳಿರುವ ವೇದಮಂತ್ರವು ಉಚ್ಛಾರಕ್ಕೆ ಬಹಳ ಉಪಯುಕ್ತರವಾಗಿದ್ದು ಅದು ಇತ್ತೀಚಿನವರೆಗೂ ಕೇವಲ ಪುಸ್ತಕದ ರೂಪದಲ್ಲಿ ಸಿಗುತ್ತಿದ್ದು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರಸಹಿತವಾದ ಋಗ್ವೇದವು ಎಲ್ಲಿಯೂ ಲಭ್ಯವಿಲ್ಲ. ಹಾಗಾಗಿ ಸಧ್ಯ ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಗಣಕೀಕೃತ ಋಗ್ವೇದ ಸಂಹಿತ ಮಂತ್ರಗಳಿಗೆ, ಸಂಪೂರ್ಣ ಸ್ವರ ಗುರುತುಗಳನ್ನು ಹಾಗು ಪಾರಾಯಣೋಚ್ಚಾರಕ್ಕೆ ಅನುಕೂಲವಾಗುವಂತೆ ಪ್ರತಿಯೊಂದು ಸೂಕ್ತಕ್ಕೂ ಋಷಿ, ದೇವತಾ ಹಾಗೂ ಛಂದಸ್ಸುಗಳನ್ನು ಸೇರಿಸಿ  ನಮ್ಮ ಹೆಮ್ಮೆಯ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಸ್ವರವಾಗಿ ಅಂತರ್ಜಾಲ ದಲ್ಲಿ ಸಿಗುವಂತೆ ಮಾಡಲು ಮನಸ್ಸಾಯಿತು. ವೇದ ಪುರುಷಾನುಗ್ರಹದಿಂದ ಈ ಪ್ರಯತ್ನದಲ್ಲಿ ತಕ್ಕ ಮಟ್ಟಿಗೆ ಯಶಸ್ಸು ಕಂಡುಕೊಂಡ ಫಲವೇ ಈ ಜಾಲತಾಣ.
 
 ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು, ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಕ್ರಮದಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಕನಿಷ್ಠ ವಿಷಯವಿದ್ದು ನಿತ್ಯ ಪಠಣೆಗಾಗಿ ಕೇವಲ ಮಂತ್ರ ಗಳು ಮಾತ್ರ ಇವೆ. ಇನ್ನೊಂದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಕ್ಕೂ ಆದಷ್ಟು ಹೆಚ್ಚಿನ ವಿಷಯಗಳನ್ನು ಬರೆದು ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
 
