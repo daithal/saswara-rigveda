@@ -19,7 +19,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 
 ನಿಮ್ಮ ಸ್ವಶಾಖಾ ರೀತ್ಯಾ ಕ್ರಮವನ್ನು ಆಯ್ದುಕೊಂಡು ವೇದವನ್ನು ಅಭ್ಯಸಿಸಿ ಭಗವಂತನ ದಿವ್ಯಫಲಗಳನ್ನು ಅನುಭವಿಸಿ ಸಾರ್ಥಕ ಜನ್ಮ ಸಾಧಿಸಿರೆಂದು ಹಾರೈಸುತ್ತೇನೆ
 
-## Ashtaka Classification (ಋಗ್ವೇದ ಅಷ್ಟಕ ಕ್ರಮ)
+## ಋಗ್ವೇದ ಅಷ್ಟಕ ಕ್ರಮ (Ashtaka Classification)
 
 | ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು |
 | ----------- | ----------- |
@@ -32,7 +32,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 | [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7(sarala).html) | [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7(vistrata).html) |
 | [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8(vistrata).html) |
 
-## Mandala Classification (ಋಗ್ವೇದ ಮಂಡಲ ಕ್ರಮ)
+## ಋಗ್ವೇದ ಮಂಡಲ ಕ್ರಮ (Mandala Classification)
 
 | ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು |
 | ----------- | ----------- |
@@ -80,8 +80,7 @@ Feel free to reach out to me for any corrections/feedback via email which is men
 
 ## Process followed, Credits and acknowledgement
 I started off my work to include dIrgha swaritas to the source iTRANS (ITX) files from <https://sanskritdocuments.org/sanskrit/veda/> and doing proofreading and corrections. Later at some point, identified a common pattern and worked upon coming up with pattern recognition algorithm to automate some of the manual work. Referred to Samhita online books from Maharishi University <https://vedicreserve.miu.edu/>, <http://sanskritacademy.delhi.gov.in/>, <http://sanskritacademy.delhi.gov.in> and other sources widely available over the internet to prepare the details for each sUktas (Rishi, Devata, Chandas, numerings) and made corrections and enhancements to simplify for chanters. Primarily, I have used <http://aksharamukha.appspot.com/converter> and other similar websites for Kannada transliteration which helped me in proofreading/correction process. As I mentioned earlier, this is still in work-in-progress and I will continue to make corrections and improvements.
-
-##Thanks to all the volunteers and people who worked behind in preserving and sharing the precious vedic literature the public.
+** Thanks to all the volunteers and people who worked behind in preserving and sharing the precious vedic literature the public.
 
 ## This work would not have accomplished without valuable inputs and blessings from the below people
 1. My Veda teacher Shri Subramanya Bhat, Chikmagalur, Karnataka, India
