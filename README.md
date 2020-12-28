@@ -65,13 +65,13 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 - <https://sites.google.com/site/detlef108/rv-links>
 - <https://ocr.sanskritdictionary.com/#>
 
-## In progress tasks
+## Regular in progress tasks
 1. Proofreading and correcting the chanting of mantra numbers, Rishi, Devata and Chadas names before each suktas.
 2. I found sometimes breaking a lengthy words with correct sandhis, increases the speed for learner with reduced effort. I am referring to different Rigveds documents available and incorporating the changes accordingly.
 
 Feel free to reach out to me for any corrections/feedback via email which is mentioned below.
 
-## ಪ್ರಗತಿಯಲ್ಲಿರುವ ಕೆಲಸಗಳು 
+## ಸದಾ ಪ್ರಗತಿಯಲ್ಲಿರುವ ಕೆಲಸಗಳು 
 1. ಪ್ರತಿಯೊಂದು ಸೂಕ್ತದ ಮೊದಲು ಇರುವ ಮಂತ್ರ ಸಂಖ್ಯೆ, ಋಷಿ, ದೇವತಾ ಹಾಗು ಛಂದಸ್ಸುಗಳ ಉಚ್ಚಾರವನ್ನು ನಿರಂತರವಾಗಿ ಸರಿಪಡಿಸುತ್ತಿರುತ್ತೇನೆ 
 2. ಕೆಲವು ಮಂತ್ರಗಳಲ್ಲಿರುವ ಉದ್ದ ಹಾಗು ಕ್ಲಿಷ್ಟಕರವಾದ ಪದಗಳನ್ನು ವ್ಯಾಕರಣ ರೀತ್ಯಾ ಛೇದಿಸಿ ಬರೆಯುತ್ತಿರುತ್ತೇನೆ. ಇದರಿಂದ ಕಲಿಯುವರಿಗೆ ಸುಲಭವಾಗಿ ಹಾಗು ಹೆಚ್ಚು ವೇಗವಾಗಿ ಪಠಿಸಲು ಸಾಧ್ಯ. ಇದಕ್ಕಾಗಿ ನಾನು ಅಂತರ್ಜಾಲದಲ್ಲಿರುವ ಹಲವು ಸಂಸ್ಕ್ರತ ಋಗ್ವೇದದ ಪುಟಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಆದಷ್ಟು ತಪ್ಪಾಗದಂತೆ ಬದಲಾಯಿಸಲು  ಪ್ರಯತ್ನಿಸುತ್ತೇನೆ. 
 ನನ್ನ ಈ ಪ್ರಯತ್ನವು ಅಂತ್ಯವಲ್ಲ, ಆರಂಭವಷ್ಟೆ ಇಲ್ಲಿ ನಾನು ನಿರಂತರವಾಗಿ ತಪ್ಪುಗಳನ್ನು ಸರಿಪಡಿಸುತ್ತಾ,  
