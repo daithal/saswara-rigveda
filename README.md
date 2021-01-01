@@ -23,29 +23,29 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 
 | ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು |
 | ----------- | ----------- |
-| [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1(vistrata).html) |
-| [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2(vistrata).html) |
-| [ಅಷ್ಟಕ-3](Kannada/Ashtaka/RVA-3(sarala).html) | [ಅಷ್ಟಕ-3](Kannada/Ashtaka/RVA-3(vistrata).html) |
-| [ಅಷ್ಟಕ-4](Kannada/Ashtaka/RVA-4(sarala).html) | [ಅಷ್ಟಕ-4](Kannada/Ashtaka/RVA-4(vistrata).html) |
-| [ಅಷ್ಟಕ-5](Kannada/Ashtaka/RVA-5(sarala).html) | [ಅಷ್ಟಕ-5](Kannada/Ashtaka/RVA-5(vistrata).html) |
-| [ಅಷ್ಟಕ-6](Kannada/Ashtaka/RVA-6(sarala).html) | [ಅಷ್ಟಕ-6](Kannada/Ashtaka/RVA-6(vistrata).html) |
-| [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7(sarala).html) | [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7(vistrata).html) |
-| [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8(vistrata).html) |
+| [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1-Samhita(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2-Samhita(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-3](Kannada/Ashtaka/RVA-3-Samhita(sarala).html) | [ಅಷ್ಟಕ-3](Kannada/Ashtaka/RVA-3-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-4](Kannada/Ashtaka/RVA-4-Samhita(sarala).html) | [ಅಷ್ಟಕ-4](Kannada/Ashtaka/RVA-4-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-5](Kannada/Ashtaka/RVA-5-Samhita(sarala).html) | [ಅಷ್ಟಕ-5](Kannada/Ashtaka/RVA-5-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-6](Kannada/Ashtaka/RVA-6-Samhita(sarala).html) | [ಅಷ್ಟಕ-6](Kannada/Ashtaka/RVA-6-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7-Samhita(sarala).html) | [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8-Samhita(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8-Samhita(vistrata).html) |
 
 ## ಋಗ್ವೇದ ಮಂಡಲ ಕ್ರಮ (Mandala Classification)
 
 | ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು |
 | ----------- | ----------- |
-| [ಮಂಡಲ-1](Kannada/Mandala/RVM-1(sarala).html) | [ಮಂಡಲ-1](Kannada/Mandala/RVM-1(vistrata).html) |
-| [ಮಂಡಲ-2](Kannada/Mandala/RVM-2(sarala).html) | [ಮಂಡಲ-2](Kannada/Mandala/RVM-2(vistrata).html) |
-| [ಮಂಡಲ-3](Kannada/Mandala/RVM-3(sarala).html) | [ಮಂಡಲ-3](Kannada/Mandala/RVM-3(vistrata).html) |
-| [ಮಂಡಲ-4](Kannada/Mandala/RVM-4(sarala).html) | [ಮಂಡಲ-4](Kannada/Mandala/RVM-4(vistrata).html) |
-| [ಮಂಡಲ-5](Kannada/Mandala/RVM-5(sarala).html) | [ಮಂಡಲ-5](Kannada/Mandala/RVM-5(vistrata).html) |
-| [ಮಂಡಲ-6](Kannada/Mandala/RVM-6(sarala).html) | [ಮಂಡಲ-6](Kannada/Mandala/RVM-6(vistrata).html) |
-| [ಮಂಡಲ-7](Kannada/Mandala/RVM-7(sarala).html) | [ಮಂಡಲ-7](Kannada/Mandala/RVM-7(vistrata).html) |
-| [ಮಂಡಲ-8](Kannada/Mandala/RVM-8(sarala).html) | [ಮಂಡಲ-8](Kannada/Mandala/RVM-8(vistrata).html) |
-| [ಮಂಡಲ-9](Kannada/Mandala/RVM-9(sarala).html) | [ಮಂಡಲ-9](Kannada/Mandala/RVM-9(vistrata).html) |
-| [ಮಂಡಲ-10](Kannada/Mandala/RVM-10(sarala).html) | [ಮಂಡಲ-10](Kannada/Mandala/RVM-10(vistrata).html) |
+| [ಮಂಡಲ-1](Kannada/Mandala/RVM-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/Mandala/RVM-1-Samhita(vistrata).html) |
+| [ಮಂಡಲ-2](Kannada/Mandala/RVM-2-Samhita(sarala).html) | [ಮಂಡಲ-2](Kannada/Mandala/RVM-2-Samhita(vistrata).html) |
+| [ಮಂಡಲ-3](Kannada/Mandala/RVM-3-Samhita(sarala).html) | [ಮಂಡಲ-3](Kannada/Mandala/RVM-3-Samhita(vistrata).html) |
+| [ಮಂಡಲ-4](Kannada/Mandala/RVM-4-Samhita(sarala).html) | [ಮಂಡಲ-4](Kannada/Mandala/RVM-4-Samhita(vistrata).html) |
+| [ಮಂಡಲ-5](Kannada/Mandala/RVM-5-Samhita(sarala).html) | [ಮಂಡಲ-5](Kannada/Mandala/RVM-5-Samhita(vistrata).html) |
+| [ಮಂಡಲ-6](Kannada/Mandala/RVM-6-Samhita(sarala).html) | [ಮಂಡಲ-6](Kannada/Mandala/RVM-6-Samhita(vistrata).html) |
+| [ಮಂಡಲ-7](Kannada/Mandala/RVM-7-Samhita(sarala).html) | [ಮಂಡಲ-7](Kannada/Mandala/RVM-7-Samhita(vistrata).html) |
+| [ಮಂಡಲ-8](Kannada/Mandala/RVM-8-Samhita(sarala).html) | [ಮಂಡಲ-8](Kannada/Mandala/RVM-8-Samhita(vistrata).html) |
+| [ಮಂಡಲ-9](Kannada/Mandala/RVM-9-Samhita(sarala).html) | [ಮಂಡಲ-9](Kannada/Mandala/RVM-9-Samhita(vistrata).html) |
+| [ಮಂಡಲ-10](Kannada/Mandala/RVM-10-Samhita(sarala).html) | [ಮಂಡಲ-10](Kannada/Mandala/RVM-10-Samhita(vistrata).html) |
 
 ## References
 ### Audio files for each Mandala of Rigveda. Chantings by Sri Shyama Sundara Sharma and Sri Satya Krishna Bhatta. Recorded by Sriranga Digital Software Technologies Pvt. Ltd. (2012)
