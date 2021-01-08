@@ -76,4 +76,4 @@ I started off my work to include dIrgha swaritas to the source iTRANS (ITX) file
 ## References
 - <https://sites.google.com/site/detlef108/rv-links>
 - <https://ocr.sanskritdictionary.com/#>
-- Audio DVD of Rigveda chantings by Sri Shyama Sundara Sharma (91-9845705862) )and Sri Satya Krishna Bhatta. Recorded by Sriranga Digital Software Technologies Pvt. Ltd. (2012)
+- Audio DVD of Rigveda chantings by Sri Shyama Sundara Sharma (91-9845705862) and Sri Satya Krishna Bhatta. Recorded by Sriranga Digital Software Technologies Pvt. Ltd. (2012)
