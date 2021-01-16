@@ -1,7 +1,7 @@
 # || ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||
 
 # For the first time, online Saswara Rigveda Samhita in Kannada language
-#  ಪ್ರಪ್ರಥಮವಾಗಿ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡಭಾಷೆಯಲ್ಲಿ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತ 
+#  ಪ್ರಪ್ರಥಮಬಾರಿಗೆ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತ ನಮ್ಮ ಹೆಮ್ಮೆಯ ಕನ್ನಡಭಾಷೆಯಲ್ಲಿ
 
 ## Dear friends
 My name is Dayananda Aithal born and raised in Bangalore, IT consulant by profession and living in Peoria, AZ USA. I have been practicing Rigveda Samhita chanting (shaakala shaaka) over the past few months. 
