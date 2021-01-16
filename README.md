@@ -4,16 +4,16 @@
 #  ಪ್ರಪ್ರಥಮವಾಗಿ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡಭಾಷೆಯಲ್ಲಿ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತ 
 
 ## Dear friends
-My name is Dayananda Aithal born and raised in Bangalore and currently working and living in the USA. I have been practicing Rigveda Samhita chanting (shaakala shaaka) over the past few months. 
+My name is Dayananda Aithal born and raised in Bangalore, IT consulant by profession and living in Peoria, AZ USA. I have been practicing Rigveda Samhita chanting (shaakala shaaka) over the past few months. 
 
-For Rigveda chanters, Vedic mantras with accurate markings of swaras (swarita, deergha swarita, udatta and anudatta) are extremely important. I have observed that the only way to have accurate saswara mantras handy is by referring to few books available in market today. Hence, I made an attempt to apply all the swara indications and details like Rishi, Devata, Chandas to all the Suktas of Rigveda Samhita (currently available in iTRANS format) and made them available for free in Kannada language
+For Rigveda chanters, the importance of mantras with accurate swara markings are extremely useful for their daily practice or Parayanams or Yaagas. I have observed that among the Vedic literature resources currently available, except few books there isn't anything available in online for the Rigveda Samhita mantras with accurate swara indicators. Hence, I have made an attempt to apply all the swara markings (swarita, deergha swarita, udatta and anudatta) to all the Suktas of Rigveda Samhita and made them available for free in Kannada language in this website. In addition to the swaras, I have also included details like Rishi, Devata, Chandas for all the Sookthas of Rigveda.
 
 To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having details at each mantra levels.
 
 ## ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ
-ನನ್ನ ಹೆಸರು ದಯಾನಂದ ಐತಾಳ್, ಇರುವ ಸ್ಥಳ ಪಿಯೋರಿಯಾ, ಅರಿಜೋನ. ನಾನು ಕೆಲ ಸಮಯದಿಂದ ಋಗ್ವೇದ ಸೂಕ್ತಗಳನ್ನು ಸಂಹಿತಾಕ್ರಮದಲ್ಲಿ ಪಠಿಸಲು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಿದ್ದೇನೆ.
+ನನ್ನ ಹೆಸರು ದಯಾನಂದ ಐತಾಳ್, ಇರುವ ಸ್ಥಳ ಪಿಯೋರಿಯಾ, ಅರಿಜೋನ. ವೃತ್ತಿಯಲ್ಲಿ ಸಾಫ್ಟವೇರ್ ಕನ್ಸಲ್ಟೆಂಟ್. ಕಳೆದ ಕೆಲವು ತಿಂಗಳಿಂದ ಸ್ವಶಾಖೆಯಾದ ಋಗ್ವೇದ ಸಂಹಿತಾಧ್ಯಯನವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ
 
-ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ವರ ಸಹಿತವಾದ (ಉದಾತ್ತ/ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಗುರುತುಗಳಿರುವ ವೇದಮಂತ್ರವು ಉಚ್ಛಾರಕ್ಕೆ ಬಹಳ ಉಪಯುಕ್ತರವಾಗಿದ್ದು ಅದು ಇತ್ತೀಚಿನವರೆಗೂ ಕೇವಲ ಪುಸ್ತಕದ ರೂಪದಲ್ಲಿ ಸಿಗುತ್ತಿದ್ದು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರಸಹಿತವಾದ ಋಗ್ವೇದವು ಎಲ್ಲಿಯೂ ಲಭ್ಯವಿಲ್ಲ. ಹಾಗಾಗಿ ಸಧ್ಯ ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಗಣಕೀಕೃತ ಋಗ್ವೇದ ಸಂಹಿತ ಮಂತ್ರಗಳಿಗೆ, ಸಂಪೂರ್ಣ ಸ್ವರ ಗುರುತುಗಳನ್ನು ಹಾಗು ಪಾರಾಯಣೋಚ್ಚಾರಕ್ಕೆ ಅನುಕೂಲವಾಗುವಂತೆ ಪ್ರತಿಯೊಂದು ಸೂಕ್ತಕ್ಕೂ ಋಷಿ, ದೇವತಾ ಹಾಗೂ ಛಂದಸ್ಸುಗಳನ್ನು ಸೇರಿಸಿ  ನಮ್ಮ ಹೆಮ್ಮೆಯ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಅಂತರ್ಜಾಲ ದಲ್ಲಿ ಸಿಗುವಂತೆ ಮಾಡಲು ಮನಸ್ಸಾಯಿತು. ವೇದ ಪುರುಷಾನುಗ್ರಹದಿಂದ ಈ ಪ್ರಯತ್ನದಲ್ಲಿ ತಕ್ಕ ಮಟ್ಟಿಗೆ ಯಶಸ್ಸು ಕಂಡುಕೊಂಡ ಫಲವೇ ಈ ಜಾಲತಾಣ.
+ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ವರ ಸಹಿತವಾದ (ಉದಾತ್ತ/ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಗುರುತುಗಳಿರುವ ವೇದಮಂತ್ರವು ಉಚ್ಛಾರಕ್ಕೆ ಬಹಳ ಉಪಯುಕ್ತರವಾಗಿದ್ದು ಅದು ಇತ್ತೀಚಿನವರೆಗೂ ಕೇವಲ ಪುಸ್ತಕದ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಸಿಗುತ್ತಿದ್ದು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರಸಹಿತವಾದ ಋಗ್ವೇದವು ಎಲ್ಲಿಯೂ ಲಭ್ಯವಿಲ್ಲ. ಹಾಗಾಗಿ ಸಧ್ಯ ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಗಣಕೀಕೃತ ಋಗ್ವೇದ ಸಂಹಿತ ಮಂತ್ರಗಳಿಗೆ, ಸಂಪೂರ್ಣ ಸ್ವರ ಗುರುತುಗಳನ್ನು ಹಾಗು ಪಾರಾಯಣೋಚ್ಚಾರಕ್ಕೆ ಅನುಕೂಲವಾಗುವಂತೆ ಪ್ರತಿಯೊಂದು ಸೂಕ್ತಕ್ಕೂ ಋಷಿ, ದೇವತಾ ಹಾಗೂ ಛಂದಸ್ಸುಗಳನ್ನು ಸೇರಿಸಿ  ನಮ್ಮ ಹೆಮ್ಮೆಯ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಅಂತರ್ಜಾಲ ದಲ್ಲಿ ಸಿಗುವಂತೆ ಮಾಡಿದ್ದೇನೆ. ವೇದ ಪುರುಷಾನುಗ್ರಹದಿಂದ ಈ ಪ್ರಯತ್ನದಲ್ಲಿ ತಕ್ಕ ಮಟ್ಟಿಗೆ ಯಶಸ್ಸು ಕಂಡುಕೊಂಡ ಫಲವೇ ಈ ಜಾಲತಾಣ.
 
 ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು, ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಕ್ರಮದಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಕನಿಷ್ಠ ವಿಷಯವಿದ್ದು ನಿತ್ಯ ಪಠಣೆಗಾಗಿ ಸರಳರೀತಿಯಲ್ಲಿ ಕೇವಲ ಮಂತ್ರಗಳನ್ನು ಮಾತ್ರ ಸೇರಿಸಿದ್ದೇನೆ. ಇನ್ನೊಂದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಕ್ಕೂ ಆದಷ್ಟು ಹೆಚ್ಚಿನ ವಿಷಯಗಳನ್ನು ತುಂಬಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
 
