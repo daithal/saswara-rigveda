@@ -50,6 +50,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 ## Regular in progress tasks
 1. Proofreading and correcting the chanting of mantra numbers, Rishi, Devata and Chadas names before each suktas.
 2. I found sometimes breaking a lengthy words with correct sandhis, increases the speed for learner with reduced effort. I am referring to different Rigveds documents available and incorporating the changes accordingly.
+3. For better clarity and readability, I recommend using a big screen computer monitor or iPad or tablets. I suggest to download the HTML pages to your device for offline viewing and “PLEASE SAVE TREE” and do not print!!!
 
 Feel free to reach out to me for any corrections/feedback via email which is mentioned below.
 
@@ -57,6 +58,7 @@ Feel free to reach out to me for any corrections/feedback via email which is men
 1. ಪ್ರತಿಯೊಂದು ಸೂಕ್ತದ ಮೊದಲು ಇರುವ ಮಂತ್ರ ಸಂಖ್ಯೆ, ಋಷಿ, ದೇವತಾ ಹಾಗು ಛಂದಸ್ಸುಗಳ ಉಚ್ಚಾರವನ್ನು ನಿರಂತರವಾಗಿ ಸರಿಪಡಿಸುತ್ತಿರುತ್ತೇನೆ 
 2. ಕೆಲವು ಮಂತ್ರಗಳಲ್ಲಿರುವ ಉದ್ದ ಹಾಗು ಕ್ಲಿಷ್ಟಕರವಾದ ಪದಗಳನ್ನು ವ್ಯಾಕರಣ ರೀತ್ಯಾ ಛೇದಿಸಿ ಬರೆಯುತ್ತಿರುತ್ತೇನೆ. ಇದರಿಂದ ಕಲಿಯುವರಿಗೆ ಸುಲಭವಾಗಿ ಹಾಗು ಹೆಚ್ಚು ವೇಗವಾಗಿ ಪಠಿಸಲು ಸಾಧ್ಯ. ಇದಕ್ಕಾಗಿ ನಾನು ಅಂತರ್ಜಾಲದಲ್ಲಿರುವ ಹಲವು ಸಂಸ್ಕ್ರತ ಋಗ್ವೇದದ ಪುಟಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಆದಷ್ಟು ತಪ್ಪಾಗದಂತೆ ಬದಲಾಯಿಸಲು  ಪ್ರಯತ್ನಿಸುತ್ತೇನೆ. 
 ನನ್ನ ಈ ಪ್ರಯತ್ನವು ಅಂತ್ಯವಲ್ಲ, ಆರಂಭವಷ್ಟೆ ಇಲ್ಲಿ ನಾನು ನಿರಂತರವಾಗಿ ತಪ್ಪುಗಳನ್ನು ಸರಿಪಡಿಸುತ್ತಾ, ಓದುಗರ ಅನುಕೂಲಕ್ಕಾಗಿ ಪುಟಗಳನ್ನು ನವೀಕರಿಸುತ್ತಿರುತ್ತೇನೆ.
+3. ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ. ಪೇಜುಗಳನ್ನು ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ ಸೇವ್ ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!! 
 
 ## Process followed, Credits and acknowledgement
 I started off my work to include dIrgha swaritas to the source iTRANS (ITX) files from <https://sanskritdocuments.org/sanskrit/veda/> and doing proofreading and corrections. Later at some point, identified a common pattern and worked upon coming up with pattern recognition algorithm to automate some of the manual work. Referred to Samhita online books from Maharishi University <https://vedicreserve.miu.edu/>, <http://sanskritacademy.delhi.gov.in/>, <http://sanskritacademy.delhi.gov.in> and other sources widely available over the internet to prepare the details for each sUktas (Rishi, Devata, Chandas, numerings) and made corrections and enhancements to simplify for chanters. Primarily, I have used <http://aksharamukha.appspot.com/converter> and other similar websites for Kannada transliteration which helped me in proofreading/correction process. As I mentioned earlier, this is still in work-in-progress and I will continue to make corrections and improvements.
