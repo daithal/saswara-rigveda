@@ -42,6 +42,53 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 
 #### ಋಗ್ವೇದ ಸಂಹಿತಾ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ (Samhita Patha, Ashtaka and Mandala Classification)
 
+<table>
+    <thead>
+        <tr>
+            <th colspan=2>ಸರಳ ಮಂತ್ರ ಪುಟಗಳು</th>
+            <th colspan=2>ಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html)</td>
+            <td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html)</td>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html)</td>
+			<td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html)</td>
+        </tr>
+        <tr>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html)</td>
+            <td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html)</td>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html)</td>
+			<td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html)</td>
+        </tr>
+        <tr>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html)</td>
+            <td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html)</td>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html)</td>
+			<td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html)</td>
+        </tr>
+        <tr>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html)</td>
+            <td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html)</td>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html)</td>
+			<td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html)</td>
+        </tr>
+        <tr>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html)</td>
+            <td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html)</td>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html)</td>
+			<td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html)</td>
+        </tr>
+        <tr>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html)</td>
+            <td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html)</td>
+            <td>[ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html)</td>
+			<td>[ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html)</td>
+        </tr>
+    </tbody>
+</table>
+
 |            ಸರಳ ಮಂತ್ರ ಪುಟಗಳು                                          |                                                                 | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು                                                      |                                                                   |
 | ----------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html) |
