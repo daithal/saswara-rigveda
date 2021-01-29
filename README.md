@@ -1,11 +1,11 @@
 # || ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||
 
---------------------
+***
 
 # ಪ್ರಪ್ರಥಮಬಾರಿಗೆ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಮಂತ್ರಗಳು 
 # For the first time, complete Saswara Rigveda mantras in Kannada language
 
----
+___
 
 ## ನನ್ನ ಕಿರು ಪರಿಚಯ  (Small introduction)
 ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ, ನನ್ನ ಹೆಸರು ದಯಾನಂದ ಐತಾಳ್, ಇರುವ ಸ್ಥಳ ಪಿಯೋರಿಯಾ, ಅರಿಜೋನ. ವೃತ್ತಿಯಲ್ಲಿ ಸಾಫ್ಟವೇರ್ ಕನ್ಸಲ್ಟೆಂಟ್. ಕಳೆದ ಕೆಲವು ತಿಂಗಳಿಂದ ಸ್ವಶಾಖೆಯಾದ ಋಗ್ವೇದ ಸಂಹಿತಾಧ್ಯಯನವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ
@@ -17,7 +17,7 @@ Dear friends, my name is Dayananda Aithal born and raised in Bangalore, IT consu
 ## ವೇದಾಧ್ಯಾಯಿಗಳಿಗೆ ಹಾಗು ವೇದಾಸಕ್ತರಿಗೆ  ನನ್ನ ಕಿರು ಕಾಣಿಕೆಗಳು  (A small contribution to the Rigvedic community)
 
 
-### 1. ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿರುವ ಋಗ್ವೇದ ಮಂತ್ತ್ರಗಳು
+## 1. ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿರುವ ಋಗ್ವೇದ ಮಂತ್ತ್ರಗಳು
 ವೇದಾಧ್ಯಯನದ ಮೊದಲು ಪ್ರತಿಯೊಬ್ಬ ಬ್ರಾಹ್ಮಣನೂ ಬ್ರಹ್ಮೋಪದೇಶದನಂತರ ಮಾಡಬೇಕಾದ ನಿತ್ಯಕರ್ಮಗಳಲ್ಲಿ ಸಂಧ್ಯಾವಂದನೆಯು ಅತಿ ಪ್ರಮುಖವಾದದ್ದು, ಋಗ್ವೇದಿಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಬರುವ ಆಯ್ದ ಋಗ್ವೇದ ಮಂತ್ರಗಳನ್ನು ಒಂದೇ ಕಡೆ ಸಿಗುವಂತೆ ಮಾಡಿದರೆ ಕಲಿಯುವರಿಗೆ ಸ್ವರಬದ್ದವಾಗಿ ಉಚ್ಚರಿಸಲು ಅನುಕೂಲವೆಂದು ಅರಿತು ಈ ಒಂದು ವೆಬ್ ಪೇಜನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಇದು ನಿಮಗೆ ಅನುಕೂಲವಾಗಲಿ ಎಂಬುದು ನನ್ನ ಆಶಯ 
 [ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿರುವ ಋಗ್ವೇದ ಮಂತ್ತ್ರಗಳು](Kannada/SandhyaVandane/SandhyaVandane-RigMantras.html)
 
@@ -36,7 +36,7 @@ For Rigveda chanters, the importance of mantras with accurate swara markings are
 
 To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having details at each mantra levels.
 
-### ಸಂಹಿತಾ ಪಾಠ
+### 2.1 ಸಂಹಿತಾ ಪಾಠ
 ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವಿಂಗಡಣಾ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಕನಿಷ್ಠ ವಿಷಯವಿದ್ದು ನಿತ್ಯ ಪಠಣೆಗಾಗಿ ಸರಳರೀತಿಯಲ್ಲಿ ಕೇವಲ ಮಂತ್ರಗಳನ್ನು ಮಾತ್ರ ಸೇರಿಸಿದ್ದೇನೆ. ಇನ್ನೊಂದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಕ್ಕೂ ಆದಷ್ಟು ಹೆಚ್ಚಿನ ವಿಷಯಗಳನ್ನು ತುಂಬಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
 
 #### ಋಗ್ವೇದ ಸಂಹಿತಾ ಪಾಠ, ಅಷ್ಟಕ ವಿಂಗಡಣಾ ಕ್ರಮ (Samhita Patha, Ashtaka Classification)
@@ -67,14 +67,15 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 | [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(sarala).html) | [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(vistrata).html) |
 | [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(sarala).html) | [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(vistrata).html) |
 
-### ಪದ ಪಾಠ 
+### 2.2 ಪದ ಪಾಠ 
 
 #### ಋಗ್ವೇದ ಪದ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ  ವಿಂಗಡಣಾ ಕ್ರಮ (Pada Path, Ashtaka and Mandala Classification)
 
 | ಅಷ್ಟಕ ವಿಂಗಡಣಾ ಕ್ರಮ | ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ  |
 | ----------- | ----------- |
 | [ಅಷ್ಟಕ-1](Kannada/PadaPatha/Ashtaka/RVA-1-PadaPatha.html) | [ಅಷ್ಟಕ-1](Kannada/PadaPatha/Mandala/RVA-1-PadaPatha.html) |
-ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಸದ್ಯದಲ್ಲೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ
+
+*** ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಸದ್ಯದಲ್ಲೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ  ***
 
 ---
 
