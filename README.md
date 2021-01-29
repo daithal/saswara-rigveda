@@ -1,51 +1,75 @@
 # || ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||
 
-# For the first time, online Saswara Rigveda Samhita in Kannada language
-#  ಪ್ರಪ್ರಥಮಬಾರಿಗೆ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತ ನಮ್ಮ ಹೆಮ್ಮೆಯ ಕನ್ನಡಭಾಷೆಯಲ್ಲಿ
+--------------------
 
-## Dear friends
-My name is Dayananda Aithal born and raised in Bangalore, IT consulant by profession and living in Peoria, AZ USA. I have been practicing Rigveda Samhita chanting (shaakala shaaka) over the past few months. 
+# ಪ್ರಪ್ರಥಮಬಾರಿಗೆ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಮಂತ್ರಗಳು (For the first time, complete Saswara Rigveda mantras in Kannada language)
+
+## ನನ್ನ ಕಿರು ಪರಿಚಯ  (Small introduction)
+ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ, ನನ್ನ ಹೆಸರು ದಯಾನಂದ ಐತಾಳ್, ಇರುವ ಸ್ಥಳ ಪಿಯೋರಿಯಾ, ಅರಿಜೋನ. ವೃತ್ತಿಯಲ್ಲಿ ಸಾಫ್ಟವೇರ್ ಕನ್ಸಲ್ಟೆಂಟ್. ಕಳೆದ ಕೆಲವು ತಿಂಗಳಿಂದ ಸ್ವಶಾಖೆಯಾದ ಋಗ್ವೇದ ಸಂಹಿತಾಧ್ಯಯನವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ
+
+Dear friends, my name is Dayananda Aithal born and raised in Bangalore, IT consulant by profession and living in Peoria, AZ USA. I have been practicing Rigveda Samhita chanting (shaakala shaaka) over the past few months. 
+
+---
+
+## ವೇದಾಧ್ಯಾಯಿಗಳಿಗೆ ಹಾಗು ವೇದಾಸಕ್ತರಿಗೆ  ನನ್ನ ಕಿರು ಕಾಣಿಕೆಗಳು  (A small contribution to the Rigvedic community)
+
+
+### ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿರುವ ಋಗ್ವೇದ ಮಂತ್ತ್ರಗಳು
+ವೇದಾಧ್ಯಯನದ ಮೊದಲು ಪ್ರತಿಯೊಬ್ಬ ಬ್ರಾಹ್ಮಣನೂ ಬ್ರಹ್ಮೋಪದೇಶದನಂತರ ಮಾಡಬೇಕಾದ ನಿತ್ಯಕರ್ಮಗಳಲ್ಲಿ ಸಂಧ್ಯಾವಂದನೆಯು ಅತಿ ಪ್ರಮುಖವಾದದ್ದು, ಋಗ್ವೇದಿಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಬರುವ ಆಯ್ದ ಋಗ್ವೇದ ಮಂತ್ರಗಳನ್ನು ಒಂದೇ ಕಡೆ ಸಿಗುವಂತೆ ಮಾಡಿದರೆ ಕಲಿಯುವರಿಗೆ ಸ್ವರಬದ್ದವಾಗಿ ಉಚ್ಚರಿಸಲು ಅನುಕೂಲವೆಂದು ಅರಿತು ಈ ಒಂದು ವೆಬ್ ಪೇಜನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಇದು ನಿಮಗೆ ಅನುಕೂಲವಾಗಲಿ ಎಂಬುದು ನನ್ನ ಆಶಯ 
+[ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿರುವ ಋಗ್ವೇದ ಮಂತ್ತ್ರಗಳು](Kannada/SandhyaVandane/SandhyaVandane-RigMantras.html)
+
+---
+### ವೇದ ಪಾಠ ಪ್ರಭೇದಗಳು  
+
+ವೇದೋಚ್ಚಾರಣೆಯಲ್ಲಿ ಪ್ರಕೃತಿ ಮತ್ತು ವಿಕೃತಿ ಎಂಬ ಎರಡು ಮುಖ್ಯ ಪ್ರಭೇದಗಳಿವೆ. ಋಗ್ವೇದಾಧ್ಯಾಯಿಗಳು ತಮ್ಮ ವೇದಶಿಕ್ಷಣಾವಧಿಯಲ್ಲಿ ಈ ಎರಡು ಪ್ರಭೇದಗಳಲ್ಲಿರುವ ಹಲವು ರೀತಿಯ ಉಚ್ಚಾರ ಕ್ರಮಗಳನ್ನು ಕರಗತ ಮಾಡಿಕೊಂಡಿರುತ್ತಾರೆ. ಮೊತ್ತ ಮೊದಲಿಗೆ, ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳು ಪ್ರಕೃತಿ ಪ್ರಭೇದದಲ್ಲಿ ಬರುವ ಸಂಹಿತಾ ಪಾಠ ನಂತರ ಪದ ಪಾಠ ತದನಂತರ ಕ್ರಮ ಪಾಠವನ್ನು ಕ್ರಮದಲ್ಲಿ ಹಲವು ವರ್ಷಗಳ ಕಾಲ ಅಧ್ಯಯನ ಮಾಡುತ್ತಾರೆ. ಇದಾದ ನಂತರ ವಿಕೃತಿ ಪಾಠಗಳಾದ ಜಠ, ಮಾಲಾ, ಶಿಖಾ, ದಂತ, ಧ್ವಜ, ರಥ, ರೇಖಾ ಹಾಗು ಘನ ಪಾಠಗಳನ್ನು ಅಭ್ಯಾಸ ಮಾಡುತ್ತಾರೆ.
+
+ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ವರ ಸಹಿತವಾದ (ಉದಾತ್ತ/ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಗುರುತುಗಳಿರುವ ವೇದಮಂತ್ರವು ಉಚ್ಛಾರಕ್ಕೆ ಬಹಳ ಉಪಯುಕ್ತರವಾಗಿದ್ದು ಅದು ಇತ್ತೀಚಿನವರೆಗೂ ಕೇವಲ ಪುಸ್ತಕದ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಸಿಗುತ್ತಿದ್ದು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರಸಹಿತವಾದ ಋಗ್ವೇದವು ಎಲ್ಲಿಯೂ ಲಭ್ಯವಿಲ್ಲ. ಹಾಗಾಗಿ ಸಧ್ಯ ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಗಣಕೀಕೃತ ಋಗ್ವೇದ ಸಂಹಿತ ಮಂತ್ರಗಳಿಗೆ, ಸಂಪೂರ್ಣ ಸ್ವರ ಗುರುತುಗಳನ್ನು ಹಾಗು ಪಾರಾಯಣೋಚ್ಚಾರಕ್ಕೆ ಅನುಕೂಲವಾಗುವಂತೆ ಪ್ರತಿಯೊಂದು ಸೂಕ್ತಕ್ಕೂ ಋಷಿ, ದೇವತಾ ಹಾಗೂ ಛಂದಸ್ಸುಗಳನ್ನು ಸೇರಿಸಿ  ನಮ್ಮ ಹೆಮ್ಮೆಯ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಅಂತರ್ಜಾಲ ದಲ್ಲಿ ಸಿಗುವಂತೆ ಮಾಡಿದ್ದೇನೆ. ವೇದ ಪುರುಷಾನುಗ್ರಹದಿಂದ ಈ ಪ್ರಯತ್ನದಲ್ಲಿ ತಕ್ಕ ಮಟ್ಟಿಗೆ ಯಶಸ್ಸು ಕಂಡುಕೊಂಡ ಫಲವೇ ಈ ಜಾಲತಾಣ.
+
+ಈ ನಿಟ್ಟಿನಲ್ಲಿ ಪ್ರಥಮವಾಗಿ ಸಂಹಿತಾ ಪಾಠ ಕ್ರಮದಲ್ಲಿ ಋಗ್ವೇದ ಮಂತ್ರಗಳನ್ನು ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್ ಮೂಲಕ ರಚಿಸಿ ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ
+
+ನಿಮ್ಮ ಸ್ವಶಾಖಾ ರೀತ್ಯಾ ಕ್ರಮವನ್ನು ಆಯ್ದುಕೊಂಡು ವೇದವನ್ನು ಅಭ್ಯಸಿಸಿ ಭಗವಂತನ ದಿವ್ಯಫಲಗಳನ್ನು ಅನುಭವಿಸಿ ಸಾರ್ಥಕ ಜನ್ಮ ಸಾಧಿಸಿರೆಂದು ಹಾರೈಸುತ್ತೇನೆ
 
 For Rigveda chanters, the importance of mantras with accurate swara markings are extremely useful for their daily practice or Parayanams or Yaagas. I have observed that among the Vedic literature resources currently available, except few books there isn't anything available in online for the Rigveda Samhita mantras with accurate swara indicators. Hence, I have made an attempt to apply all the swara markings (swarita, deergha swarita, udatta and anudatta) to all the Suktas of Rigveda Samhita and made them available for free in Kannada language in this website. In addition to the swaras, I have also included details like Rishi, Devata, Chandas for all the Sookthas of Rigveda.
 
 To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having details at each mantra levels.
 
-## ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ
-ನನ್ನ ಹೆಸರು ದಯಾನಂದ ಐತಾಳ್, ಇರುವ ಸ್ಥಳ ಪಿಯೋರಿಯಾ, ಅರಿಜೋನ. ವೃತ್ತಿಯಲ್ಲಿ ಸಾಫ್ಟವೇರ್ ಕನ್ಸಲ್ಟೆಂಟ್. ಕಳೆದ ಕೆಲವು ತಿಂಗಳಿಂದ ಸ್ವಶಾಖೆಯಾದ ಋಗ್ವೇದ ಸಂಹಿತಾಧ್ಯಯನವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ
+## ಸಂಹಿತಾ ಪಾಠ
+ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವಿಂಗಡಣಾ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಕನಿಷ್ಠ ವಿಷಯವಿದ್ದು ನಿತ್ಯ ಪಠಣೆಗಾಗಿ ಸರಳರೀತಿಯಲ್ಲಿ ಕೇವಲ ಮಂತ್ರಗಳನ್ನು ಮಾತ್ರ ಸೇರಿಸಿದ್ದೇನೆ. ಇನ್ನೊಂದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಕ್ಕೂ ಆದಷ್ಟು ಹೆಚ್ಚಿನ ವಿಷಯಗಳನ್ನು ತುಂಬಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
 
-ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ವರ ಸಹಿತವಾದ (ಉದಾತ್ತ/ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಗುರುತುಗಳಿರುವ ವೇದಮಂತ್ರವು ಉಚ್ಛಾರಕ್ಕೆ ಬಹಳ ಉಪಯುಕ್ತರವಾಗಿದ್ದು ಅದು ಇತ್ತೀಚಿನವರೆಗೂ ಕೇವಲ ಪುಸ್ತಕದ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಸಿಗುತ್ತಿದ್ದು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರಸಹಿತವಾದ ಋಗ್ವೇದವು ಎಲ್ಲಿಯೂ ಲಭ್ಯವಿಲ್ಲ. ಹಾಗಾಗಿ ಸಧ್ಯ ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಗಣಕೀಕೃತ ಋಗ್ವೇದ ಸಂಹಿತ ಮಂತ್ರಗಳಿಗೆ, ಸಂಪೂರ್ಣ ಸ್ವರ ಗುರುತುಗಳನ್ನು ಹಾಗು ಪಾರಾಯಣೋಚ್ಚಾರಕ್ಕೆ ಅನುಕೂಲವಾಗುವಂತೆ ಪ್ರತಿಯೊಂದು ಸೂಕ್ತಕ್ಕೂ ಋಷಿ, ದೇವತಾ ಹಾಗೂ ಛಂದಸ್ಸುಗಳನ್ನು ಸೇರಿಸಿ  ನಮ್ಮ ಹೆಮ್ಮೆಯ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಉಚಿತವಾಗಿ ಅಂತರ್ಜಾಲ ದಲ್ಲಿ ಸಿಗುವಂತೆ ಮಾಡಿದ್ದೇನೆ. ವೇದ ಪುರುಷಾನುಗ್ರಹದಿಂದ ಈ ಪ್ರಯತ್ನದಲ್ಲಿ ತಕ್ಕ ಮಟ್ಟಿಗೆ ಯಶಸ್ಸು ಕಂಡುಕೊಂಡ ಫಲವೇ ಈ ಜಾಲತಾಣ.
-
-ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು, ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಕ್ರಮದಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಕನಿಷ್ಠ ವಿಷಯವಿದ್ದು ನಿತ್ಯ ಪಠಣೆಗಾಗಿ ಸರಳರೀತಿಯಲ್ಲಿ ಕೇವಲ ಮಂತ್ರಗಳನ್ನು ಮಾತ್ರ ಸೇರಿಸಿದ್ದೇನೆ. ಇನ್ನೊಂದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಕ್ಕೂ ಆದಷ್ಟು ಹೆಚ್ಚಿನ ವಿಷಯಗಳನ್ನು ತುಂಬಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
-
-ನಿಮ್ಮ ಸ್ವಶಾಖಾ ರೀತ್ಯಾ ಕ್ರಮವನ್ನು ಆಯ್ದುಕೊಂಡು ವೇದವನ್ನು ಅಭ್ಯಸಿಸಿ ಭಗವಂತನ ದಿವ್ಯಫಲಗಳನ್ನು ಅನುಭವಿಸಿ ಸಾರ್ಥಕ ಜನ್ಮ ಸಾಧಿಸಿರೆಂದು ಹಾರೈಸುತ್ತೇನೆ
-
-## ಋಗ್ವೇದ ಅಷ್ಟಕ ಕ್ರಮ (Ashtaka Classification)
+### ಋಗ್ವೇದ ಸಂಹಿತಾ ಪಾಠ, ಅಷ್ಟಕ ವಿಂಗಡಣಾ ಕ್ರಮ (Ashtaka Classification)
 
 | ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು |
 | ----------- | ----------- |
-| [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1-Samhita(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/Ashtaka/RVA-1-Samhita(vistrata).html) |
-| [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2-Samhita(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/Ashtaka/RVA-2-Samhita(vistrata).html) |
-| [ಅಷ್ಟಕ-3](Kannada/Ashtaka/RVA-3-Samhita(sarala).html) | [ಅಷ್ಟಕ-3](Kannada/Ashtaka/RVA-3-Samhita(vistrata).html) |
-| [ಅಷ್ಟಕ-4](Kannada/Ashtaka/RVA-4-Samhita(sarala).html) | [ಅಷ್ಟಕ-4](Kannada/Ashtaka/RVA-4-Samhita(vistrata).html) |
-| [ಅಷ್ಟಕ-5](Kannada/Ashtaka/RVA-5-Samhita(sarala).html) | [ಅಷ್ಟಕ-5](Kannada/Ashtaka/RVA-5-Samhita(vistrata).html) |
-| [ಅಷ್ಟಕ-6](Kannada/Ashtaka/RVA-6-Samhita(sarala).html) | [ಅಷ್ಟಕ-6](Kannada/Ashtaka/RVA-6-Samhita(vistrata).html) |
-| [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7-Samhita(sarala).html) | [ಅಷ್ಟಕ-7](Kannada/Ashtaka/RVA-7-Samhita(vistrata).html) |
-| [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8-Samhita(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/Ashtaka/RVA-8-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-1](Kannada/Ashtaka/SamhitaPatha/RVA-1-Samhita(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/Ashtaka/SamhitaPatha/RVA-1-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-2](Kannada/Ashtaka/SamhitaPatha/RVA-2-Samhita(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/Ashtaka/SamhitaPatha/RVA-2-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-3](Kannada/Ashtaka/SamhitaPatha/RVA-3-Samhita(sarala).html) | [ಅಷ್ಟಕ-3](Kannada/Ashtaka/SamhitaPatha/RVA-3-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-4](Kannada/Ashtaka/SamhitaPatha/RVA-4-Samhita(sarala).html) | [ಅಷ್ಟಕ-4](Kannada/Ashtaka/SamhitaPatha/RVA-4-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-5](Kannada/Ashtaka/SamhitaPatha/RVA-5-Samhita(sarala).html) | [ಅಷ್ಟಕ-5](Kannada/Ashtaka/SamhitaPatha/RVA-5-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-6](Kannada/Ashtaka/SamhitaPatha/RVA-6-Samhita(sarala).html) | [ಅಷ್ಟಕ-6](Kannada/Ashtaka/SamhitaPatha/RVA-6-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-7](Kannada/Ashtaka/SamhitaPatha/RVA-7-Samhita(sarala).html) | [ಅಷ್ಟಕ-7](Kannada/Ashtaka/SamhitaPatha/RVA-7-Samhita(vistrata).html) |
+| [ಅಷ್ಟಕ-8](Kannada/Ashtaka/SamhitaPatha/RVA-8-Samhita(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/Ashtaka/SamhitaPatha/RVA-8-Samhita(vistrata).html) |
 
-## ಋಗ್ವೇದ ಮಂಡಲ ಕ್ರಮ (Mandala Classification)
+### ಋಗ್ವೇದ ಸಂಹಿತಾ ಪಾಠ, ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ (Mandala Classification)
 
 | ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು |
 | ----------- | ----------- |
-| [ಮಂಡಲ-1](Kannada/Mandala/RVM-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/Mandala/RVM-1-Samhita(vistrata).html) |
-| [ಮಂಡಲ-2](Kannada/Mandala/RVM-2-Samhita(sarala).html) | [ಮಂಡಲ-2](Kannada/Mandala/RVM-2-Samhita(vistrata).html) |
-| [ಮಂಡಲ-3](Kannada/Mandala/RVM-3-Samhita(sarala).html) | [ಮಂಡಲ-3](Kannada/Mandala/RVM-3-Samhita(vistrata).html) |
-| [ಮಂಡಲ-4](Kannada/Mandala/RVM-4-Samhita(sarala).html) | [ಮಂಡಲ-4](Kannada/Mandala/RVM-4-Samhita(vistrata).html) |
-| [ಮಂಡಲ-5](Kannada/Mandala/RVM-5-Samhita(sarala).html) | [ಮಂಡಲ-5](Kannada/Mandala/RVM-5-Samhita(vistrata).html) |
-| [ಮಂಡಲ-6](Kannada/Mandala/RVM-6-Samhita(sarala).html) | [ಮಂಡಲ-6](Kannada/Mandala/RVM-6-Samhita(vistrata).html) |
-| [ಮಂಡಲ-7](Kannada/Mandala/RVM-7-Samhita(sarala).html) | [ಮಂಡಲ-7](Kannada/Mandala/RVM-7-Samhita(vistrata).html) |
-| [ಮಂಡಲ-8](Kannada/Mandala/RVM-8-Samhita(sarala).html) | [ಮಂಡಲ-8](Kannada/Mandala/RVM-8-Samhita(vistrata).html) |
-| [ಮಂಡಲ-9](Kannada/Mandala/RVM-9-Samhita(sarala).html) | [ಮಂಡಲ-9](Kannada/Mandala/RVM-9-Samhita(vistrata).html) |
-| [ಮಂಡಲ-10](Kannada/Mandala/RVM-10-Samhita(sarala).html) | [ಮಂಡಲ-10](Kannada/Mandala/RVM-10-Samhita(vistrata).html) |
+| [ಮಂಡಲ-1](Kannada/Mandala/SamhitaPatha/RVM-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/Mandala/SamhitaPatha/RVM-1-Samhita(vistrata).html) |
+| [ಮಂಡಲ-2](Kannada/Mandala/SamhitaPatha/RVM-2-Samhita(sarala).html) | [ಮಂಡಲ-2](Kannada/Mandala/SamhitaPatha/RVM-2-Samhita(vistrata).html) |
+| [ಮಂಡಲ-3](Kannada/Mandala/SamhitaPatha/RVM-3-Samhita(sarala).html) | [ಮಂಡಲ-3](Kannada/Mandala/SamhitaPatha/RVM-3-Samhita(vistrata).html) |
+| [ಮಂಡಲ-4](Kannada/Mandala/SamhitaPatha/RVM-4-Samhita(sarala).html) | [ಮಂಡಲ-4](Kannada/Mandala/SamhitaPatha/RVM-4-Samhita(vistrata).html) |
+| [ಮಂಡಲ-5](Kannada/Mandala/SamhitaPatha/RVM-5-Samhita(sarala).html) | [ಮಂಡಲ-5](Kannada/Mandala/SamhitaPatha/RVM-5-Samhita(vistrata).html) |
+| [ಮಂಡಲ-6](Kannada/Mandala/SamhitaPatha/RVM-6-Samhita(sarala).html) | [ಮಂಡಲ-6](Kannada/Mandala/SamhitaPatha/RVM-6-Samhita(vistrata).html) |
+| [ಮಂಡಲ-7](Kannada/Mandala/SamhitaPatha/RVM-7-Samhita(sarala).html) | [ಮಂಡಲ-7](Kannada/Mandala/SamhitaPatha/RVM-7-Samhita(vistrata).html) |
+| [ಮಂಡಲ-8](Kannada/Mandala/SamhitaPatha/RVM-8-Samhita(sarala).html) | [ಮಂಡಲ-8](Kannada/Mandala/SamhitaPatha/RVM-8-Samhita(vistrata).html) |
+| [ಮಂಡಲ-9](Kannada/Mandala/SamhitaPatha/RVM-9-Samhita(sarala).html) | [ಮಂಡಲ-9](Kannada/Mandala/SamhitaPatha/RVM-9-Samhita(vistrata).html) |
+| [ಮಂಡಲ-10](Kannada/Mandala/SamhitaPatha/RVM-10-Samhita(sarala).html) | [ಮಂಡಲ-10](Kannada/Mandala/SamhitaPatha/RVM-10-Samhita(vistrata).html) |
+
+## ಪದ ಪಾಠ 
+
+| ಅಷ್ಟಕ ವಿಂಗಡಣಾ ಕ್ರಮ | ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ  |
+| ----------- | ----------- |
+| [ಅಷ್ಟಕ-1](Kannada/Ashtaka/PadaPatha/RVA-1-PadaPatha.html) | [ಅಷ್ಟಕ-1](Kannada/Mandala/PadaPatha/RVA-1-PadaPatha.html) |
+
 
 ## Regular in progress tasks
 1. Proofreading and correcting the chanting of mantra numbers, Rishi, Devata and Chadas names before each suktas.
