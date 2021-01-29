@@ -63,7 +63,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 | ----------- | ----------- |
 | [ಅಷ್ಟಕ-1](Kannada/PadaPatha/Ashtaka/RVA-1-PadaPatha.html) | [ಮಂಡಲ-1](Kannada/PadaPatha/Mandala/RVA-1-PadaPatha.html) |
 
-**ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಸದ್ಯದಲ್ಲೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ**
+** ಪದ ಪಾಠದ ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಶೀಘ್ರದಲ್ಲಿಯೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ**
 
 ---
 
@@ -78,10 +78,6 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 ನನ್ನ ಈ ಪ್ರಯತ್ನವು ಅಂತ್ಯವಲ್ಲ, ಆರಂಭವಷ್ಟೆ ಇಲ್ಲಿ ನಾನು ನಿರಂತರವಾಗಿ ತಪ್ಪುಗಳನ್ನು ಸರಿಪಡಿಸುತ್ತಾ, ಓದುಗರ ಅನುಕೂಲಕ್ಕಾಗಿ ಪುಟಗಳನ್ನು ನವೀಕರಿಸುತ್ತಿರುತ್ತೇನೆ.
 3. ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ. ಪೇಜುಗಳನ್ನು ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ ಸೇವ್ ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!! 
 
-1. Proofreading and correcting the chanting of mantra numbers, Rishi, Devata and Chadas names before each suktas.
-2. I found sometimes breaking a lengthy words with correct sandhis, increases the speed for learner with reduced effort. I am referring to different Rigveds documents available and incorporating the changes accordingly.
-3. For better clarity and readability, I recommend using a big screen computer monitor or iPad or tablets. I suggest to download the HTML pages to your device for offline viewing and “PLEASE SAVE TREE” and do not print!!!
-
 Feel free to reach out to me for any corrections/feedback via email which is mentioned below.
 
 ---
@@ -90,7 +86,7 @@ Feel free to reach out to me for any corrections/feedback via email which is men
 
 I started off my work to include dIrgha swaritas to the source iTRANS (ITX) files from <https://sanskritdocuments.org/sanskrit/veda/> and doing proofreading and corrections. Later at some point, identified a common pattern and worked upon coming up with pattern recognition algorithm to automate some of the manual work. Referred to Samhita online books from Maharishi University <https://vedicreserve.miu.edu/>, <http://sanskritacademy.delhi.gov.in/>, <http://sanskritacademy.delhi.gov.in> and other sources widely available over the internet to prepare the details for each sUktas (Rishi, Devata, Chandas, numerings) and made corrections and enhancements to simplify for chanters. Primarily, I have used <http://aksharamukha.appspot.com/converter> and other similar websites for Kannada transliteration which helped me in proofreading/correction process. As I mentioned earlier, this is still in work-in-progress and I will continue to make corrections and improvements.
 
-**Thanks to all the volunteers and people who worked behind in preserving and sharing the precious vedic literature the public in digital format.
+**Thanks to all the volunteers and people who worked behind in preserving and sharing the precious vedic literature the public in digital format.**
 
 ---
 
@@ -99,7 +95,7 @@ I started off my work to include dIrgha swaritas to the source iTRANS (ITX) file
 1. My Veda teacher Shri Subramanya Bhat, Chikmagalur, Karnataka, India
 2. Inspired by writings of Hemanth Kumar G <https://www.vedavidhya.com> & <http://veda-vijnana.blogspot.com/>
 3. Valuable inputs and encouragements from P R Iyer <iyerpr49@gmail.com>
-- Last but not least, my family and friends
+**Last but not least, my family and friends**
 
 ---
 
