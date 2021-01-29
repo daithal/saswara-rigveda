@@ -1,11 +1,11 @@
 # || ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||
 
-***
+---
 
 # ಪ್ರಪ್ರಥಮಬಾರಿಗೆ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಮಂತ್ರಗಳು 
 # For the first time, complete Saswara Rigveda mantras in Kannada language
 
-___
+---
 
 ## ನನ್ನ ಕಿರು ಪರಿಚಯ  (Small introduction)
 ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ, ನನ್ನ ಹೆಸರು ದಯಾನಂದ ಐತಾಳ್, ಇರುವ ಸ್ಥಳ ಪಿಯೋರಿಯಾ, ಅರಿಜೋನ. ವೃತ್ತಿಯಲ್ಲಿ ಸಾಫ್ಟವೇರ್ ಕನ್ಸಲ್ಟೆಂಟ್. ಕಳೆದ ಕೆಲವು ತಿಂಗಳಿಂದ ಸ್ವಶಾಖೆಯಾದ ಋಗ್ವೇದ ಸಂಹಿತಾಧ್ಯಯನವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ
@@ -63,7 +63,11 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 | ----------- | ----------- |
 | [ಅಷ್ಟಕ-1](Kannada/PadaPatha/Ashtaka/RVA-1-PadaPatha.html) | [ಮಂಡಲ-1](Kannada/PadaPatha/Mandala/RVA-1-PadaPatha.html) |
 
-***  ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಸದ್ಯದಲ್ಲೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ  ***
+**ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಸದ್ಯದಲ್ಲೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ**
+
+---
+
+### ಋಗ್ವೇದದ ಉಳಿದ ಪ್ರಕೃತಿ ಮತ್ತು ವಿಕೃತಿ ಪಾಠಗಳನ್ನು ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಕಂಪ್ಯೂಟರ್ ಮೂಲಕ ಪ್ರಕಟಿಸುವ ಮಹತ್ತರ ಯೋಜನೆಯೊಂದರಲ್ಲಿ ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ. ಅದಕ್ಕಾಗಿ ವೇದ ವ್ಯಾಕರಣವನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಈ ಬೃಹತ್ ಕಾರ್ಯವು ದೇವರ ಕೃಪೆಯಿಂದ ಪೂರ್ಣಗೊಂಡರೆ, ಸಮಸ್ತ ವೈದಿಕ ಕನ್ನಡ ಭಾಷಿಕರಿಗೆ ಅರ್ಪಿಸಿದ ಈ ಸೇವೆ ಸಾರ್ಥಕವಾಗುತ್ತದೆ ಎಂದು ನನ್ನ ಭಾವನೆ 
 
 ---
 
@@ -85,6 +89,7 @@ Feel free to reach out to me for any corrections/feedback via email which is men
 ## Process followed, Credits and acknowledgement
 
 I started off my work to include dIrgha swaritas to the source iTRANS (ITX) files from <https://sanskritdocuments.org/sanskrit/veda/> and doing proofreading and corrections. Later at some point, identified a common pattern and worked upon coming up with pattern recognition algorithm to automate some of the manual work. Referred to Samhita online books from Maharishi University <https://vedicreserve.miu.edu/>, <http://sanskritacademy.delhi.gov.in/>, <http://sanskritacademy.delhi.gov.in> and other sources widely available over the internet to prepare the details for each sUktas (Rishi, Devata, Chandas, numerings) and made corrections and enhancements to simplify for chanters. Primarily, I have used <http://aksharamukha.appspot.com/converter> and other similar websites for Kannada transliteration which helped me in proofreading/correction process. As I mentioned earlier, this is still in work-in-progress and I will continue to make corrections and improvements.
+
 **Thanks to all the volunteers and people who worked behind in preserving and sharing the precious vedic literature the public in digital format.
 
 ---
