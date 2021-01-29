@@ -44,7 +44,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 
 | ಸರಳ ಮಂತ್ರ ಪುಟಗಳು | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು |
 | ----------- | ----------- |
-| [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html) [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html) [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html) |
+| [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html) |
 | [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(sarala).html) [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(sarala).html) | [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(vistrata).html) [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(vistrata).html) |
 | [ಮಂಡಲ-3](Kannada/SamhitaPatha/Mandala/RVM-3-Samhita(sarala).html) [ಅಷ್ಟಕ-3](Kannada/SamhitaPatha/Ashtaka/RVA-3-Samhita(sarala).html) | [ಮಂಡಲ-3](Kannada/SamhitaPatha/Mandala/RVM-3-Samhita(vistrata).html) [ಅಷ್ಟಕ-3](Kannada/SamhitaPatha/Ashtaka/RVA-3-Samhita(vistrata).html) |
 | [ಮಂಡಲ-4](Kannada/SamhitaPatha/Mandala/RVM-4-Samhita(sarala).html) [ಅಷ್ಟಕ-4](Kannada/SamhitaPatha/Ashtaka/RVA-4-Samhita(sarala).html) | [ಮಂಡಲ-4](Kannada/SamhitaPatha/Mandala/RVM-4-Samhita(vistrata).html) [ಅಷ್ಟಕ-4](Kannada/SamhitaPatha/Ashtaka/RVA-4-Samhita(vistrata).html) |
