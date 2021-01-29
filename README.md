@@ -74,10 +74,12 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 | ಅಷ್ಟಕ ವಿಂಗಡಣಾ ಕ್ರಮ | ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ  |
 | ----------- | ----------- |
 | [ಅಷ್ಟಕ-1](Kannada/PadaPatha/Ashtaka/RVA-1-PadaPatha.html) | [ಅಷ್ಟಕ-1](Kannada/PadaPatha/Mandala/RVA-1-PadaPatha.html) |
-ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಸದ್ಯದಲ್ಲೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ 
+ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಸದ್ಯದಲ್ಲೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ
+
 ---
 
 ## ಸದಾ ಪ್ರಗತಿಯಲ್ಲಿರುವ ಕೆಲಸಗಳು  (Regular in progress tasks)
+
 1. ಪ್ರತಿಯೊಂದು ಸೂಕ್ತದ ಮೊದಲು ಇರುವ ಮಂತ್ರ ಸಂಖ್ಯೆ, ಋಷಿ, ದೇವತಾ ಹಾಗು ಛಂದಸ್ಸುಗಳ ಉಚ್ಚಾರವನ್ನು ನಿರಂತರವಾಗಿ ಸರಿಪಡಿಸುತ್ತಿರುತ್ತೇನೆ 
 2. ಕೆಲವು ಮಂತ್ರಗಳಲ್ಲಿರುವ ಉದ್ದ ಹಾಗು ಕ್ಲಿಷ್ಟಕರವಾದ ಪದಗಳನ್ನು ವ್ಯಾಕರಣ ರೀತ್ಯಾ ಛೇದಿಸಿ ಬರೆಯುತ್ತಿರುತ್ತೇನೆ. ಇದರಿಂದ ಕಲಿಯುವರಿಗೆ ಸುಲಭವಾಗಿ ಹಾಗು ಹೆಚ್ಚು ವೇಗವಾಗಿ ಪಠಿಸಲು ಸಾಧ್ಯ. ಇದಕ್ಕಾಗಿ ನಾನು ಅಂತರ್ಜಾಲದಲ್ಲಿರುವ ಹಲವು ಸಂಸ್ಕ್ರತ ಋಗ್ವೇದದ ಪುಟಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಆದಷ್ಟು ತಪ್ಪಾಗದಂತೆ ಬದಲಾಯಿಸಲು  ಪ್ರಯತ್ನಿಸುತ್ತೇನೆ. 
 ನನ್ನ ಈ ಪ್ರಯತ್ನವು ಅಂತ್ಯವಲ್ಲ, ಆರಂಭವಷ್ಟೆ ಇಲ್ಲಿ ನಾನು ನಿರಂತರವಾಗಿ ತಪ್ಪುಗಳನ್ನು ಸರಿಪಡಿಸುತ್ತಾ, ಓದುಗರ ಅನುಕೂಲಕ್ಕಾಗಿ ಪುಟಗಳನ್ನು ನವೀಕರಿಸುತ್ತಿರುತ್ತೇನೆ.
@@ -92,12 +94,14 @@ Feel free to reach out to me for any corrections/feedback via email which is men
 ---
 
 ## Process followed, Credits and acknowledgement
+
 I started off my work to include dIrgha swaritas to the source iTRANS (ITX) files from <https://sanskritdocuments.org/sanskrit/veda/> and doing proofreading and corrections. Later at some point, identified a common pattern and worked upon coming up with pattern recognition algorithm to automate some of the manual work. Referred to Samhita online books from Maharishi University <https://vedicreserve.miu.edu/>, <http://sanskritacademy.delhi.gov.in/>, <http://sanskritacademy.delhi.gov.in> and other sources widely available over the internet to prepare the details for each sUktas (Rishi, Devata, Chandas, numerings) and made corrections and enhancements to simplify for chanters. Primarily, I have used <http://aksharamukha.appspot.com/converter> and other similar websites for Kannada transliteration which helped me in proofreading/correction process. As I mentioned earlier, this is still in work-in-progress and I will continue to make corrections and improvements.
 **Thanks to all the volunteers and people who worked behind in preserving and sharing the precious vedic literature the public in digital format.
 
 ---
 
 ## This work would not have accomplished without valuable inputs and blessings from the below people
+
 1. My Veda teacher Shri Subramanya Bhat, Chikmagalur, Karnataka, India
 2. Inspired by writings of Hemanth Kumar G <https://www.vedavidhya.com> & <http://veda-vijnana.blogspot.com/>
 3. Valuable inputs and encouragements from P R Iyer <iyerpr49@gmail.com>
@@ -106,6 +110,7 @@ I started off my work to include dIrgha swaritas to the source iTRANS (ITX) file
 ---
 
 ## ಓದುಗರಲ್ಲಿ ಒಂದು ಕೋರಿಕೆ:
+
 ಿಕ್ಷಣದಲ್ಲಿ ವ್ಯಾಪಾರ ಮನೋಭಾವನೆಯು ದುರಾದ್ರಷ್ಟಕರ. ಒಂದು ಕಾಲದಲ್ಲಿ ನಮ್ಮ ದೇಶದ ಆರ್ಥಿಕ ಪರಿಸ್ಥಿತಿ ಹದಗೆಟ್ಟಿದ್ದಾಗ ವೇದಶಿಕ್ಷಕರು ಜೀವನ ನಿರ್ವಹಣೆಗಾಗಿ ವೇದಪಾಠವನ್ನು ಹೇಳಿಕೊಟ್ಟು ವಿದ್ಯಾರ್ಥಿಗಳಿಂದ ಪಡೆಯುವ ಶುಲ್ಕವನ್ನು ಅವಲಂಬಿಸಿರುತ್ತಿದ್ದರು. ಆದರೆ ಇತ್ತೀಚೆಗೆ ಹೆಚ್ಚಿನ ಜನರ ಆರ್ಥಿಕ ಸಮಸ್ಯೆಯು ದೂರವಾಗಿದ್ದು ವೇದಪಾಠವನ್ನೊಂದೇ ನಂಬಿಕೊಳ್ಳುವ ಪರಿಸ್ಥಿತಿ ಬಹಳ ವಿರಳ. ವೇದಶಿಕ್ಷಕರಲ್ಲಿ ನನ್ನ ಮನವಿಯೇನೆಂದರೆ ನಿಮಗೆ ಸಾಧ್ಯವಾದರೆ ವೇದಪಾಠವನ್ನು ಉಚಿತವಾಗಿ ಹೇಳಿಕೊಟ್ಟು ನಿಗಧಿತ ಶುಲ್ಕದ ಬದಲಾಗಿ ಪೂರ್ವಾಪೇಕ್ಷೆಯಿಲ್ಲದೆ ಗುರುದಕ್ಷಿಣೆ ಪಡೆದು ಶಿಕ್ಷಕಸ್ಥಾನದಿಂದ ಗುರುಸ್ಥಾನದತ್ತ ಪ್ರಗತಿಹೊಂದಲು ಪ್ರಯತ್ನಿಸಿ. ಕಲಿಯುವ ವಿದ್ಯಾರ್ಥಿಗಳು ಕೂಡ ತಮ್ಮ ಯಥಾನುಶಕ್ತಿಯಾಗಿ ಹೃತ್ಪೂರ್ವಕವಾಗಿ ದಕ್ಷಿಣೆಯನ್ನು ಗುರುಗಳಿಗೆ ನೀಡಿ ಹಣವನ್ನು ಸದುಪಯೋಗ ಮಾಡಿಕೊಳ್ಳಿ. ಈ ವ್ಯವಸ್ಥೆಯಿಂದ ಹೆಚ್ಚು ಜನರನ್ನು ವೇದಾಧ್ಯಯನಕ್ಕೆ ಆಕರ್ಷಿಸಿ, ಗುರು-ಶಿಷ್ಯರ ಸಂಬಂಧವು ದೈವಿಕವಾಗಿಯೂ, ಪವಿತ್ರವಾಗಿಯೂ ಹಾಗು ಭಾವನಾತ್ಮಕವಾಗಿ ಮಾರ್ಪಾಡಾಗಿ ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆಯತ್ತ ಮತ್ತೆ ನಮ್ಮ ದೇಶ ಮುನ್ನಡೆಯಲು ಸಾಧ್ಯ
 
 ---
