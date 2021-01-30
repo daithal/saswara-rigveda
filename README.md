@@ -35,7 +35,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 #### ಸಂಹಿತಾ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ (Samhita Patha, Ashtaka and Mandala Classification)
 ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ. ಪೇಜುಗಳನ್ನು ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ ಸೇವ್ ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!
 
-|            ಸರಳ ಮಂತ್ರ ಪುಟಗಳು                                            | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು                                                      |  ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು                                                   |
+|            ಸರಳ ಮಂತ್ರ ಪುಟಗಳು <colspan="2">                                            | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು <colspan="2"> |
 | ----------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html) |
 | [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(sarala).html) | [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(vistrata).html) | [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(vistrata).html) |
@@ -45,8 +45,8 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 | [ಮಂಡಲ-6](Kannada/SamhitaPatha/Mandala/RVM-6-Samhita(sarala).html) | [ಅಷ್ಟಕ-6](Kannada/SamhitaPatha/Ashtaka/RVA-6-Samhita(sarala).html) | [ಮಂಡಲ-6](Kannada/SamhitaPatha/Mandala/RVM-6-Samhita(vistrata).html) | [ಅಷ್ಟಕ-6](Kannada/SamhitaPatha/Ashtaka/RVA-6-Samhita(vistrata).html) |
 | [ಮಂಡಲ-7](Kannada/SamhitaPatha/Mandala/RVM-7-Samhita(sarala).html) | [ಅಷ್ಟಕ-7](Kannada/SamhitaPatha/Ashtaka/RVA-7-Samhita(sarala).html) | [ಮಂಡಲ-7](Kannada/SamhitaPatha/Mandala/RVM-7-Samhita(vistrata).html) | [ಅಷ್ಟಕ-7](Kannada/SamhitaPatha/Ashtaka/RVA-7-Samhita(vistrata).html) |
 | [ಮಂಡಲ-8](Kannada/SamhitaPatha/Mandala/RVM-8-Samhita(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/SamhitaPatha/Ashtaka/RVA-8-Samhita(sarala).html) | [ಮಂಡಲ-8](Kannada/SamhitaPatha/Mandala/RVM-8-Samhita(vistrata).html) | [ಅಷ್ಟಕ-8](Kannada/SamhitaPatha/Ashtaka/RVA-8-Samhita(vistrata).html) |
-| [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(sarala).html) | | [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(vistrata).html) |
-| [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(sarala).html) | | [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(vistrata).html) |
+| [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(sarala).html) <colspan="2"> | [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(vistrata).html) |
+| [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(sarala).html) <colspan="2"> | [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(vistrata).html) |
 
 ### 2.2 ಪದ ಪಾಠ 
 
