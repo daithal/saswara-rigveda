@@ -10,7 +10,7 @@
 ## ಋಗ್ವೇದಾಧ್ಯಾಯಿಗಳಿಗೆ ನನ್ನ ಕಿರು ಸೇವೆಗಳು  (minor contributions to the Rigvedic community)
 
 ## 1. ನಿತ್ಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಬರುವ ಋಗ್ವೇದ ಮಂತ್ರಗಳು
-ಬ್ರಹ್ಮೋಪದೇಶ ಪಡೆದ ಪ್ರತಿಯೊಬ್ಬರೂ ವೇದಾಧ್ಯಯನದ ಮೊದಲು ಮಾಡಬೇಕಾದ ನಿತ್ಯಕರ್ಮಗಳಲ್ಲಿ ಸಂಧ್ಯಾವಂದನೆಯು ಅತಿ ಪ್ರಮುಖವಾದದ್ದು, ಋಗ್ವೇದೀಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಬರುವ ಆಯ್ದ ಋಗ್ವೇದ ಮಂತ್ರಗಳನ್ನು ಸ್ವರ ಸಮೇತವಾಗಿ ಒಂದೇ ಕಡೆ ಸಿಗುವಂತೆ ಮಾಡಿದರೆ ಕಲಿಯುವರಿಗೆ ಅನುಕೂಲವೆಂದು ಅರಿತು ಈ ಒಂದು ವೆಬ್ ಪೇಜನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಈ ಕೆಳಗಿನ ಲಿಂಕ್ ನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮಂತ್ರಗಳನ್ನು ಉಚ್ಚರಿಸುವ ಕ್ರಮವನ್ನು ಕಲಿತುಕೊಂಡು ನಿತ್ಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಅಳವಡಿಸಿಕೊಳ್ಳಿ 
+ಬ್ರಹ್ಮೋಪದೇಶ ಪಡೆದ ಪ್ರತಿಯೊಬ್ಬರೂ ವೇದಾಧ್ಯಯನದ ಮೊದಲು ಮಾಡಬೇಕಾದ ನಿತ್ಯಕರ್ಮಗಳಲ್ಲಿ ಸಂಧ್ಯಾವಂದನೆಯು ಅತಿ ಪ್ರಮುಖವಾದದ್ದು. ಋಗ್ವೇದೀಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಬರುವ ಆಯ್ದ ಋಗ್ವೇದ ಮಂತ್ರಗಳನ್ನು ಸ್ವರ ಸಮೇತವಾಗಿ ಒಂದೇ ಕಡೆ ಸಿಗುವಂತೆ ಮಾಡಿದರೆ ಕಲಿಯುವರಿಗೆ ಅನುಕೂಲವೆಂದು ಅರಿತು ಈ ಒಂದು ವೆಬ್ ಪೇಜನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಈ ಕೆಳಗಿನ ಲಿಂಕ್ ನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮಂತ್ರಗಳನ್ನು ಉಚ್ಚರಿಸುವ ಕ್ರಮವನ್ನು ಕಲಿತುಕೊಂಡು ನಿತ್ಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಅಳವಡಿಸಿಕೊಳ್ಳಿ 
 
 [ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿರುವ ಋಗ್ವೇದ ಮಂತ್ರಗಳು](Kannada/SandhyaVandane/SandhyaVandane-RigMantras.html)
 
@@ -25,6 +25,9 @@
 
 ನಿಮ್ಮ ಸ್ವಶಾಖಾ ರೀತ್ಯಾ ಕ್ರಮವನ್ನು ಆಯ್ದುಕೊಂಡು ವೇದವನ್ನು ಅಭ್ಯಸಿಸಿ ಭಗವಂತನ ದಿವ್ಯಫಲಗಳನ್ನು ಅನುಭವಿಸಿ ಸಾರ್ಥಕ ಜನ್ಮ ಸಾಧಿಸಿರೆಂದು ಹಾರೈಸುತ್ತೇನೆ
 
+[ Source: Wikipedia. The various pathas or recitation styles are designed to allow the complete and perfect memorization of the text and its pronunciation, including the Vedic pitch accent. Eleven such ways of reciting the Vedas were designed – Samhita, Pada, Krama, Jata, Maalaa, Sikha, Rekha, Dhwaja, Danda, Rathaa, Ghana, of which Ghana is usually considered the most difficult.
+The students are first taught to memorize the Vedas using simpler methods like continuous recitation (samhita patha), word by word recitation (pada patha) in which compounds (sandhi) are dissolved and krama patha (words are arranged in the pattern of ab bc cd ...); before teaching them the eight complex recitation styles.]
+
 For Rigveda chanters, the importance of mantras with accurate swara markings are extremely useful for their daily practice or Parayanams or Yaagas. I have observed that among the Vedic literature resources currently available, except few books there isn't anything available in online for the Rigveda Samhita mantras with accurate swara indicators. Hence, I have made an attempt to apply all the swara markings (swarita, deergha swarita, udatta and anudatta) to all the Suktas of Rigveda Samhita and made them available for free in Kannada language in this website. In addition to the swaras, I have also included details like Rishi, Devata, Chandas for all the Sookthas of Rigveda.
 
 To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having details at each mantra levels.
@@ -33,8 +36,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವಿಂಗಡಣಾ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಕನಿಷ್ಠ ವಿಷಯವಿದ್ದು ನಿತ್ಯ ಪಠಣೆಗಾಗಿ ಸರಳರೀತಿಯಲ್ಲಿ ಕೇವಲ ಮಂತ್ರಗಳನ್ನು ಮಾತ್ರ ಸೇರಿಸಿದ್ದೇನೆ. ಇನ್ನೊಂದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಕ್ಕೂ ಆದಷ್ಟು ಹೆಚ್ಚಿನ ವಿಷಯಗಳನ್ನು ತುಂಬಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
 
 #### ಸಂಹಿತಾ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ (Samhita Patha, Ashtaka and Mandala Classification)
-ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ. ಪೇಜುಗಳನ್ನು ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ ಸೇವ್ ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!
-
+**ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ. ಪೇಜುಗಳನ್ನು ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ ಸೇವ್ ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!**
 
 <table>
 <thead>
@@ -100,22 +102,8 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
     <td colspan="2"><a href="./Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(sarala).html"> ಮಂಡಲ-10 </a></td>
     <td colspan="2"><a href="./Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(vistrata).html"> ಮಂಡಲ-10 </a></td>
   </tr>
-
 </tbody>
 </table>  
-
-|            ಸರಳ ಮಂತ್ರ ಪುಟಗಳು                                            | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು                                                      |  ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು                                                   |
-| ----------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html) |
-| [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(sarala).html) | [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(vistrata).html) | [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(vistrata).html) |
-| [ಮಂಡಲ-3](Kannada/SamhitaPatha/Mandala/RVM-3-Samhita(sarala).html) | [ಅಷ್ಟಕ-3](Kannada/SamhitaPatha/Ashtaka/RVA-3-Samhita(sarala).html) | [ಮಂಡಲ-3](Kannada/SamhitaPatha/Mandala/RVM-3-Samhita(vistrata).html) | [ಅಷ್ಟಕ-3](Kannada/SamhitaPatha/Ashtaka/RVA-3-Samhita(vistrata).html) |
-| [ಮಂಡಲ-4](Kannada/SamhitaPatha/Mandala/RVM-4-Samhita(sarala).html) | [ಅಷ್ಟಕ-4](Kannada/SamhitaPatha/Ashtaka/RVA-4-Samhita(sarala).html) | [ಮಂಡಲ-4](Kannada/SamhitaPatha/Mandala/RVM-4-Samhita(vistrata).html) | [ಅಷ್ಟಕ-4](Kannada/SamhitaPatha/Ashtaka/RVA-4-Samhita(vistrata).html) |
-| [ಮಂಡಲ-5](Kannada/SamhitaPatha/Mandala/RVM-5-Samhita(sarala).html) | [ಅಷ್ಟಕ-5](Kannada/SamhitaPatha/Ashtaka/RVA-5-Samhita(sarala).html) | [ಮಂಡಲ-5](Kannada/SamhitaPatha/Mandala/RVM-5-Samhita(vistrata).html) | [ಅಷ್ಟಕ-5](Kannada/SamhitaPatha/Ashtaka/RVA-5-Samhita(vistrata).html) |
-| [ಮಂಡಲ-6](Kannada/SamhitaPatha/Mandala/RVM-6-Samhita(sarala).html) | [ಅಷ್ಟಕ-6](Kannada/SamhitaPatha/Ashtaka/RVA-6-Samhita(sarala).html) | [ಮಂಡಲ-6](Kannada/SamhitaPatha/Mandala/RVM-6-Samhita(vistrata).html) | [ಅಷ್ಟಕ-6](Kannada/SamhitaPatha/Ashtaka/RVA-6-Samhita(vistrata).html) |
-| [ಮಂಡಲ-7](Kannada/SamhitaPatha/Mandala/RVM-7-Samhita(sarala).html) | [ಅಷ್ಟಕ-7](Kannada/SamhitaPatha/Ashtaka/RVA-7-Samhita(sarala).html) | [ಮಂಡಲ-7](Kannada/SamhitaPatha/Mandala/RVM-7-Samhita(vistrata).html) | [ಅಷ್ಟಕ-7](Kannada/SamhitaPatha/Ashtaka/RVA-7-Samhita(vistrata).html) |
-| [ಮಂಡಲ-8](Kannada/SamhitaPatha/Mandala/RVM-8-Samhita(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/SamhitaPatha/Ashtaka/RVA-8-Samhita(sarala).html) | [ಮಂಡಲ-8](Kannada/SamhitaPatha/Mandala/RVM-8-Samhita(vistrata).html) | [ಅಷ್ಟಕ-8](Kannada/SamhitaPatha/Ashtaka/RVA-8-Samhita(vistrata).html) |
-| [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(sarala).html) | | [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(vistrata).html) |
-| [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(sarala).html) | | [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(vistrata).html) |
 
 ### 2.2 ಪದ ಪಾಠ 
 
@@ -126,11 +114,8 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 | ----------- | ----------- |
 | [ಅಷ್ಟಕ-1](Kannada/PadaPatha/Ashtaka/RVA-1-PadaPatha.html) | [ಮಂಡಲ-1](Kannada/PadaPatha/Mandala/RVA-1-PadaPatha.html) |
 
-**ಪದ ಪಾಠದ ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಶೀಘ್ರದಲ್ಲಿಯೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ**
-
----
-
-### ಋಗ್ವೇದದ ಉಳಿದ ಪ್ರಕೃತಿ ಮತ್ತು ವಿಕೃತಿ ಪಾಠಗಳನ್ನು ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್ ಮೂಲಕ ಪ್ರಕಟಿಸುವ ಮಹತ್ತರ ಯೋಜನೆಯೊಂದರಲ್ಲಿ ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ. ಅದಕ್ಕಾಗಿ ವೇದ ವ್ಯಾಕರಣವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ. ಈ ಬೃಹತ್ ಕಾರ್ಯವು ದೇವರ ಕೃಪೆಯಿಂದ ಪೂರ್ಣಗೊಂಡರೆ, ಸಮಸ್ತ ವೈದಿಕ ಕನ್ನಡ ಭಾಷಿಕರಿಗೆ ಅರ್ಪಿಸಿದ ಈ ಸೇವೆ ಸಾರ್ಥಕವಾಗುತ್ತದೆ ಎಂದು ನನ್ನ ಭಾವನೆ 
+**ಪದ ಪಾಠದ ಉಳಿದ ಅಷ್ಟಕ ಹಾಗು ಮಂಡಲದ ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಶೀಘ್ರದಲ್ಲಿಯೇ ಪ್ರಕಟಿಸುತ್ತೇನೆ.**
+**ಋಗ್ವೇದದ ಉಳಿದ ಪ್ರಕೃತಿ ಮತ್ತು ವಿಕೃತಿ ಪಾಠಗಳನ್ನು ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್ ಮೂಲಕ ಪ್ರಕಟಿಸುವ ಮಹತ್ತರ ಯೋಜನೆಯೊಂದರಲ್ಲಿ ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ.  ಈ ನನ್ನ ಬೃಹತ್ ಕಾರ್ಯವು ದೇವರ ಕೃಪೆಯಿಂದ ಪೂರ್ಣಗೊಂಡರೆ, ಸಮಸ್ತ ಕನ್ನಡಿಗರಿಗೆ ಅರ್ಪಿಸಿದ ಈ ಸೇವೆ ಸಾರ್ಥಕವಾಗುತ್ತದೆ ಎಂದು ನನ್ನ ಭಾವನೆ. ಇಂತಹ ಒಂದು ಜ್ಞಾನಯಜ್ಞದಲ್ಲಿ ನೀವೂ ಭಾಗಿಯಾಗಲು ಬಯಸಿದರೆ, ನನ್ನನ್ನು email ಮೂಲಕ ಸಂಪರ್ಕಿಸಿ. ನನ್ನ ಯೋಜನೆಯ ಕಲ್ಪನೆ ಮತ್ತು ರೂಪು ರೇಷೆಗಳ ಬಗ್ಗೆ ಹೆಚ್ಚು ಜನ ಕೈಗೂಡಿಸಿದರೆ ಇದನ್ನು ಸಾರ್ಥಕವಾಗಿ ಅನುಷ್ಠಾನಕ್ಕೆ ತರಬಹುದು**
 
 ---
 
