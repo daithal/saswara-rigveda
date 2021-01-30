@@ -39,16 +39,16 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 <table>
 <thead>
   <tr>
-    <th colspan="2"></th>
-    <th colspan="2"></th>
+    <th colspan="2">ಸರಳ ಮಂತ್ರ ಪುಟಗಳು</th>
+    <th colspan="2">ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html">ಮಂಡಲ-1</a></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಮಂಡಲ-1 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html"> ಅಷ್ಟಕ-1 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html"> ಮಂಡಲ-1 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html"> ಅಷ್ಟಕ-1 </a></td>
   </tr>
   <tr>
     <td></td>
