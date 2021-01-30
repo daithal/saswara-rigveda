@@ -7,18 +7,10 @@
 
 ---
 
-## ನನ್ನ ಸಣ್ಣ  ಪರಿಚಯ  (self introduction)
-ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ, ನನ್ನ ಹೆಸರು ದಯಾನಂದ ಐತಾಳ್, ಇರುವ ಸ್ಥಳ ಪಿಯೋರಿಯಾ, ಅರಿಜೋನ. ವೃತ್ತಿಯಲ್ಲಿ ಸಾಫ್ಟವೇರ್ ಕನ್ಸಲ್ಟೆಂಟ್. ಕಳೆದ ಕೆಲವು ತಿಂಗಳಿಂದ ಸ್ವಶಾಖೆಯಾದ ಋಗ್ವೇದ ಸಂಹಿತಾಧ್ಯಯನವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ
+## ಋಗ್ವೇದಾಧ್ಯಾಯಿಗಳಿಗೆ ನನ್ನ ಕಿರು ಸೇವೆಗಳು  (minor contributions to the Rigvedic community)
 
-Dear friends, my name is Dayananda Aithal born and raised in Bangalore, IT consulant by profession and living in Peoria, AZ USA. I have been practicing Rigveda Samhita chanting (shaakala shaaka) over the past few months. 
-
----
-
-## ವೇದಾಧ್ಯಾಯಿಗಳಿಗೆ ಹಾಗು ವೇದಾಸಕ್ತರಿಗೆ  ನನ್ನ ಕಿರು ಕಾಣಿಕೆಗಳು  (A small contribution to the Rigvedic community)
-
-
-## 1. ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿರುವ ಋಗ್ವೇದ ಮಂತ್ರಗಳು
-ವೇದಾಧ್ಯಯನದ ಮೊದಲು ಪ್ರತಿಯೊಬ್ಬ ಬ್ರಾಹ್ಮಣನೂ ಬ್ರಹ್ಮೋಪದೇಶದನಂತರ ಮಾಡಬೇಕಾದ ನಿತ್ಯಕರ್ಮಗಳಲ್ಲಿ ಸಂಧ್ಯಾವಂದನೆಯು ಅತಿ ಪ್ರಮುಖವಾದದ್ದು, ಋಗ್ವೇದೀಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಬರುವ ಆಯ್ದ ಸಸ್ವರ ಋಗ್ವೇದ ಮಂತ್ರಗಳನ್ನು ಒಂದೇ ಕಡೆ ಸಿಗುವಂತೆ ಮಾಡಿದರೆ ಕಲಿಯುವರಿಗೆ ಉಚ್ಚರಿಸಲು ಅನುಕೂಲವೆಂದು ಅರಿತು ಈ ಒಂದು ವೆಬ್ ಪೇಜನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಈ ಕೆಳಗಿನ ಲಿಂಕ್ ನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ 
+## 1. ನಿತ್ಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಬರುವ ಋಗ್ವೇದ ಮಂತ್ರಗಳು
+ಬ್ರಹ್ಮೋಪದೇಶ ಪಡೆದ ಪ್ರತಿಯೊಬ್ಬರೂ ವೇದಾಧ್ಯಯನದ ಮೊದಲು ಮಾಡಬೇಕಾದ ನಿತ್ಯಕರ್ಮಗಳಲ್ಲಿ ಸಂಧ್ಯಾವಂದನೆಯು ಅತಿ ಪ್ರಮುಖವಾದದ್ದು, ಋಗ್ವೇದೀಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಬರುವ ಆಯ್ದ ಋಗ್ವೇದ ಮಂತ್ರಗಳನ್ನು ಸ್ವರ ಸಮೇತವಾಗಿ ಒಂದೇ ಕಡೆ ಸಿಗುವಂತೆ ಮಾಡಿದರೆ ಕಲಿಯುವರಿಗೆ ಅನುಕೂಲವೆಂದು ಅರಿತು ಈ ಒಂದು ವೆಬ್ ಪೇಜನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಈ ಕೆಳಗಿನ ಲಿಂಕ್ ನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮಂತ್ರಗಳನ್ನು ಉಚ್ಚರಿಸುವ ಕ್ರಮವನ್ನು ಕಲಿತುಕೊಂಡು ನಿತ್ಯ ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿ ಅಳವಡಿಸಿಕೊಳ್ಳಿ 
 
 [ಸಂಧ್ಯಾವಂದನೆಯಲ್ಲಿರುವ ಋಗ್ವೇದ ಮಂತ್ರಗಳು](Kannada/SandhyaVandane/SandhyaVandane-RigMantras.html)
 
@@ -43,7 +35,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 #### ಸಂಹಿತಾ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ (Samhita Patha, Ashtaka and Mandala Classification)
 ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ. ಪೇಜುಗಳನ್ನು ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ ಸೇವ್ ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!
 
-|            ಸರಳ ಮಂತ್ರ ಪುಟಗಳು                                          |    ಸರಳ ಮಂತ್ರ ಪುಟಗಳು                                                | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು                                                      |  ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು                                                   |
+|            ಸರಳ ಮಂತ್ರ ಪುಟಗಳು                                            | ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು                                                      |  ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು                                                   |
 | ----------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html) |
 | [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(sarala).html) | [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(vistrata).html) | [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(vistrata).html) |
@@ -53,8 +45,8 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 | [ಮಂಡಲ-6](Kannada/SamhitaPatha/Mandala/RVM-6-Samhita(sarala).html) | [ಅಷ್ಟಕ-6](Kannada/SamhitaPatha/Ashtaka/RVA-6-Samhita(sarala).html) | [ಮಂಡಲ-6](Kannada/SamhitaPatha/Mandala/RVM-6-Samhita(vistrata).html) | [ಅಷ್ಟಕ-6](Kannada/SamhitaPatha/Ashtaka/RVA-6-Samhita(vistrata).html) |
 | [ಮಂಡಲ-7](Kannada/SamhitaPatha/Mandala/RVM-7-Samhita(sarala).html) | [ಅಷ್ಟಕ-7](Kannada/SamhitaPatha/Ashtaka/RVA-7-Samhita(sarala).html) | [ಮಂಡಲ-7](Kannada/SamhitaPatha/Mandala/RVM-7-Samhita(vistrata).html) | [ಅಷ್ಟಕ-7](Kannada/SamhitaPatha/Ashtaka/RVA-7-Samhita(vistrata).html) |
 | [ಮಂಡಲ-8](Kannada/SamhitaPatha/Mandala/RVM-8-Samhita(sarala).html) | [ಅಷ್ಟಕ-8](Kannada/SamhitaPatha/Ashtaka/RVA-8-Samhita(sarala).html) | [ಮಂಡಲ-8](Kannada/SamhitaPatha/Mandala/RVM-8-Samhita(vistrata).html) | [ಅಷ್ಟಕ-8](Kannada/SamhitaPatha/Ashtaka/RVA-8-Samhita(vistrata).html) |
-| [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(sarala).html) |                                                                    |[ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(vistrata).html)                                                                 |
-| [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(sarala).html) |                                                                    |[ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(vistrata).html)                                                                 |
+| [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(sarala).html) | | [ಮಂಡಲ-9](Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(vistrata).html) |
+| [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(sarala).html) | | [ಮಂಡಲ-10](Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(vistrata).html) |
 
 ### 2.2 ಪದ ಪಾಠ 
 
@@ -69,7 +61,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 
 ---
 
-### ಋಗ್ವೇದದ ಉಳಿದ ಪ್ರಕೃತಿ ಮತ್ತು ವಿಕೃತಿ ಪಾಠಗಳನ್ನು ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಕಂಪ್ಯೂಟರ್ ಮೂಲಕ ಪ್ರಕಟಿಸುವ ಮಹತ್ತರ ಯೋಜನೆಯೊಂದರಲ್ಲಿ ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ. ಅದಕ್ಕಾಗಿ ವೇದ ವ್ಯಾಕರಣವನ್ನು ಅಧ್ಯಯನ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಈ ಬೃಹತ್ ಕಾರ್ಯವು ದೇವರ ಕೃಪೆಯಿಂದ ಪೂರ್ಣಗೊಂಡರೆ, ಸಮಸ್ತ ವೈದಿಕ ಕನ್ನಡ ಭಾಷಿಕರಿಗೆ ಅರ್ಪಿಸಿದ ಈ ಸೇವೆ ಸಾರ್ಥಕವಾಗುತ್ತದೆ ಎಂದು ನನ್ನ ಭಾವನೆ 
+### ಋಗ್ವೇದದ ಉಳಿದ ಪ್ರಕೃತಿ ಮತ್ತು ವಿಕೃತಿ ಪಾಠಗಳನ್ನು ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್ ಮೂಲಕ ಪ್ರಕಟಿಸುವ ಮಹತ್ತರ ಯೋಜನೆಯೊಂದರಲ್ಲಿ ಕಾರ್ಯನಿರತನಾಗಿದ್ದೇನೆ. ಅದಕ್ಕಾಗಿ ವೇದ ವ್ಯಾಕರಣವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ. ಈ ಬೃಹತ್ ಕಾರ್ಯವು ದೇವರ ಕೃಪೆಯಿಂದ ಪೂರ್ಣಗೊಂಡರೆ, ಸಮಸ್ತ ವೈದಿಕ ಕನ್ನಡ ಭಾಷಿಕರಿಗೆ ಅರ್ಪಿಸಿದ ಈ ಸೇವೆ ಸಾರ್ಥಕವಾಗುತ್ತದೆ ಎಂದು ನನ್ನ ಭಾವನೆ 
 
 ---
 
@@ -96,7 +88,12 @@ I started off my work to include dIrgha swaritas to the source iTRANS (ITX) file
 
 ---
 
-## ನಿಮ್ಮ ಅನಿಸಿಕೆಗಳು, ಸಲಹೆಗಳು ಅತ್ಯಮೂಲ್ಯವಾದದ್ದು ಹಾಗು ಅವುಗಳನ್ನು ಗೌರವದಿಂದ ಸ್ವೀಕರಿಸಲು ನನಗೆ ಇಮೇಲ್ <dithal29@gmail.com> ಮೂಲಕ ಸಂಪರ್ಕಿಸಬಹುದು 
+## ನನ್ನ ಸಣ್ಣ  ಪರಿಚಯ  (self introduction)
+ನಮಸ್ಕಾರ ಸ್ನೇಹಿತರೆ, ನನ್ನ ಹೆಸರು ದಯಾನಂದ ಐತಾಳ್, ವಾಸಿಸುವ ಸ್ಥಳ ಅರಿಝೋನಾ, ಯುಎಸ್ಎ ವೃತ್ತಿಯಲ್ಲಿ ಸಾಫ್ಟವೇರ್ ಕನ್ಸಲ್ಟೆಂಟ್. ಕಳೆದ ಕೆಲವು ತಿಂಗಳಿಂದ ಸ್ವಶಾಖೆಯಾದ ಋಗ್ವೇದ ಸಂಹಿತಾಧ್ಯಯನವನ್ನು ಮಾಡುತ್ತಿದ್ದೇನೆ
+
+Dear friends, my name is Dayananda Aithal born and raised in Bangalore, IT consulant by profession and living in Peoria, AZ USA. I have been practicing Rigveda Samhita chanting (shaakala shaaka) over the past few months. 
+
+ನಿಮ್ಮ ಅನಿಸಿಕೆಗಳು, ಸಲಹೆಗಳು ಅತ್ಯಮೂಲ್ಯವಾದದ್ದು ಹಾಗು ಅವುಗಳನ್ನು ಗೌರವದಿಂದ ಸ್ವೀಕರಿಸಲು ನನಗೆ ಇಮೇಲ್ <dithal29@gmail.com> ಮೂಲಕ ಸಂಪರ್ಕಿಸಬಹುದು 
 
 ---
 
