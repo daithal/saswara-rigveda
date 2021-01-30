@@ -35,7 +35,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 #### ಸಂಹಿತಾ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ (Samhita Patha, Ashtaka and Mandala Classification)
 ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ. ಪೇಜುಗಳನ್ನು ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ ಸೇವ್ ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!
 
-|            <tr colspan="2" > ಸರಳ ಮಂತ್ರ ಪುಟಗಳು </td>                                            | <tr colspan="2" > ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು </td> |
+|            <tr colspan="2" > ಸರಳ ಮಂತ್ರ ಪುಟಗಳು </tr>                                            | <tr colspan="2" > ವಿಸ್ತೃತ ಮಂತ್ರ ಪುಟಗಳು </tr> |
 | ----------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(sarala).html) | [ಮಂಡಲ-1](Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(vistrata).html) | [ಅಷ್ಟಕ-1](Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html) |
 | [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(sarala).html) | [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(sarala).html) | [ಮಂಡಲ-2](Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(vistrata).html) | [ಅಷ್ಟಕ-2](Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(vistrata).html) |
