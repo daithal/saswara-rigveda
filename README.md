@@ -32,10 +32,9 @@ For Rigveda chanters, the importance of mantras with accurate swara markings are
 
 To benefit the chanters, you can choose either Mandala or Ashtaka methods for your practice and get blessings from Veda purusha. To further benefit chanters, I have created separate pages, ones with minimum details and others having details at each mantra levels.
 
-### 2.1 ಸಂಹಿತಾ ಪಾಠ
-ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವಿಂಗಡಣಾ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಕನಿಷ್ಠ ವಿಷಯವಿದ್ದು ನಿತ್ಯ ಪಠಣೆಗಾಗಿ ಸರಳರೀತಿಯಲ್ಲಿ ಕೇವಲ ಮಂತ್ರಗಳನ್ನು ಮಾತ್ರ ಸೇರಿಸಿದ್ದೇನೆ. ಇನ್ನೊಂದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಕ್ಕೂ ಆದಷ್ಟು ಹೆಚ್ಚಿನ ವಿಷಯಗಳನ್ನು ತುಂಬಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
+### 2.1 ಸಂಹಿತಾ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ  (Samhita Patha, Ashtaka and Mandala classification)
 
-#### ಸಂಹಿತಾ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ ವಿಂಗಡಣಾ ಕ್ರಮ (Samhita Patha, Ashtaka and Mandala classification)
+ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವಿಂಗಡಣಾ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಕನಿಷ್ಠ ವಿಷಯವಿದ್ದು ನಿತ್ಯ ಪಠಣೆಗಾಗಿ ಸರಳರೀತಿಯಲ್ಲಿ ಕೇವಲ ಮಂತ್ರಗಳನ್ನು ಮಾತ್ರ ಸೇರಿಸಿದ್ದೇನೆ. ಇನ್ನೊಂದರಲ್ಲಿ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಕ್ಕೂ ಆದಷ್ಟು ಹೆಚ್ಚಿನ ವಿಷಯಗಳನ್ನು ತುಂಬಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
 
 <table>
 <thead>
@@ -102,11 +101,10 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
     <td colspan="2"><a href="./Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(vistrata).html"> ಮಂಡಲ-10 </a></td>
   </tr>
 </tbody>
-</table>  
+</table>
 
-### 2.2 ಪದ ಪಾಠ 
 
-#### ಪದ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ  ವಿಂಗಡಣಾ ಕ್ರಮ (Pada Path, Ashtaka and Mandala classification)
+### 2.2 ಪದ ಪಾಠ, ಅಷ್ಟಕ ಮತ್ತು ಮಂಡಲ  ವಿಂಗಡಣಾ ಕ್ರಮ (Pada Patha, Ashtaka and Mandala classification)
 
 <table>
 <thead>
