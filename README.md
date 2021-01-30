@@ -51,53 +51,56 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
     <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-1-Samhita(vistrata).html"> ಅಷ್ಟಕ-1 </a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(sarala).html"> ಮಂಡಲ-2 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(sarala).html"> ಅಷ್ಟಕ-2 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-2-Samhita(vistrata).html"> ಮಂಡಲ-2 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-2-Samhita(vistrata).html"> ಅಷ್ಟಕ-2 </a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-3-Samhita(sarala).html"> ಮಂಡಲ-3 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-3-Samhita(sarala).html"> ಅಷ್ಟಕ-3 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-3-Samhita(vistrata).html"> ಮಂಡಲ-3 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-3-Samhita(vistrata).html"> ಅಷ್ಟಕ-3 </a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-4-Samhita(sarala).html"> ಮಂಡಲ-4 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-4-Samhita(sarala).html"> ಅಷ್ಟಕ-4 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-4-Samhita(vistrata).html"> ಮಂಡಲ-4 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-4-Samhita(vistrata).html"> ಅಷ್ಟಕ-4 </a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-5-Samhita(sarala).html"> ಮಂಡಲ-5 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-5-Samhita(sarala).html"> ಅಷ್ಟಕ-5 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-5-Samhita(vistrata).html"> ಮಂಡಲ-5 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-5-Samhita(vistrata).html"> ಅಷ್ಟಕ-5 </a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-6-Samhita(sarala).html"> ಮಂಡಲ-6 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-6-Samhita(sarala).html"> ಅಷ್ಟಕ-6 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-6-Samhita(vistrata).html"> ಮಂಡಲ-6 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-6-Samhita(vistrata).html"> ಅಷ್ಟಕ-6 </a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-7-Samhita(sarala).html"> ಮಂಡಲ-7 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-7-Samhita(sarala).html"> ಅಷ್ಟಕ-7 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-7-Samhita(vistrata).html"> ಮಂಡಲ-7 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-7-Samhita(vistrata).html"> ಅಷ್ಟಕ-7 </a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-8-Samhita(sarala).html"> ಮಂಡಲ-8 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-8-Samhita(sarala).html"> ಅಷ್ಟಕ-8 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-8-Samhita(vistrata).html"> ಮಂಡಲ-8 </a></td>
+    <td><a href="./Kannada/SamhitaPatha/Ashtaka/RVA-8-Samhita(vistrata).html"> ಅಷ್ಟಕ-8 </a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="2"><a href="./Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(sarala).html"> ಮಂಡಲ-9 </a></td>
+    <td colspan="2"><a href="./Kannada/SamhitaPatha/Mandala/RVM-9-Samhita(vistrata).html"> ಮಂಡಲ-9 </a></td>
   </tr>
+  <tr>
+    <td colspan="2"><a href="./Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(sarala).html"> ಮಂಡಲ-10 </a></td>
+    <td colspan="2"><a href="./Kannada/SamhitaPatha/Mandala/RVM-10-Samhita(vistrata).html"> ಮಂಡಲ-10 </a></td>
+  </tr>
+
 </tbody>
 </table>  
 
