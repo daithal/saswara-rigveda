@@ -45,7 +45,7 @@ To benefit the chanters, you can choose either Mandala or Ashtaka methods for yo
 </thead>
 <tbody>
   <tr>
-    <td><a href="/Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html">ಮಂಡಲ-1</a></td>
+    <td><a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html">ಮಂಡಲ-1</a></td>
     <td></td>
     <td></td>
     <td></td>
