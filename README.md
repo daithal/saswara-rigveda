@@ -10,7 +10,7 @@
 
 ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವಿಂಗಡಣಾ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ವಿಂಗಡಿಸಿ, ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಇನ್ನೂ ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ನಾನು ಎರಡು ರೀತಿ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಒಂದರಲ್ಲಿ ಇತ್ತೀಚಿಗೆ ಪುಸ್ತಕಗಳಲ್ಲಿ ಇರುವಂತೆ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ ಸ್ವರ ಸಹಿತವಾಗಿ ರಚಿಸಿದ್ದೇನೆ. ಮತ್ತೊಂದರಲ್ಲಿ ಹಳೆಯ ಶೈಲಿಯ ರೀತಿ ಎಲ್ಲ ಪದಗಳನ್ನೂ ಸೇರಿಸಿ ಹಾಗು ಪ್ರತೀ ಪದಗಳಿಗೆ ಪ್ರತ್ಯೇಕ ಬಣ್ಣಗಳನ್ನು ಸೇರಿಸಿ ತಯಾರಿಸಿದ್ದೇನೆ
 
-ಇತ್ತೀಚಿಗೆ ನಾನು sanskritdocuments.org ಸಂಸ್ಥೆಗೆ volunteer ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಅವರ ಜಾಲತಾಣದಲ್ಲಿ ನನ್ನ ಈ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು host ಮಾಡಿದ್ದೇನೆ . ಇದಕ್ಕಾಗಿ ಅವರಿಗೆ ನಾನು ಚಿರಋಣಿ.
+ಇತ್ತೀಚಿಗೆ ನಾನು sanskritdocuments.org ಸಂಸ್ಥೆಗೆ volunteer ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಅವರ ಜಾಲತಾಣದಲ್ಲಿ ನನ್ನ ಈ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು host ಮಾಡಿದ್ದೇನೆ. ಇದಕ್ಕಾಗಿ ಅವರಿಗೆ ನಾನು ಚಿರಋಣಿ.
 
 <table>
 <thead>
@@ -23,21 +23,31 @@
   <tr>
     <td>
 		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">ಅಷ್ಟಕ-೧ (ಶೈಲಿ-೧)</a><br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">ಅಷ್ಟಕ-೧ (ಶೈಲಿ-೨)</a><br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVAKF2-1.html">ಅಷ್ಟಕ-೧ (ಶೈಲಿ-೨)</a><br>
 	</td>
     <td>
-		<a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಮಂಡಲ-೧ ಶೈಲಿ-೧</a>
-		<a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಮಂಡಲ-೧ ಶೈಲಿ-೨</a>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-1.html">ಮಂಡಲ-೧ (ಶೈಲಿ-೧)</a><br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-1.html">ಮಂಡಲ-೧ (ಶೈಲಿ-೨)</a><br>
 	</td>
   </tr>
   <tr>
     <td>
-		<a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಅಷ್ಟಕ-೩ ಶೈಲಿ-೧</a>
-		<a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಅಷ್ಟಕ-೩ ಶೈಲಿ-೨</a>
+		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-2.html">ಅಷ್ಟಕ-೨ (ಶೈಲಿ-೧)</a><br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVAKF2-2.html">ಅಷ್ಟಕ-೨ (ಶೈಲಿ-೨)</a><br>
 	</td>
     <td>
-		<a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಮಂಡಲ-೩ ಶೈಲಿ-೧</a>
-		<a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಮಂಡಲ-೩ ಶೈಲಿ-೨</a>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-2.html">ಮಂಡಲ-೨ (ಶೈಲಿ-೧)</a><br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-2.html">ಮಂಡಲ-೨ (ಶೈಲಿ-೨)</a><br>
+	</td>
+  </tr>
+  <tr>
+    <td>
+		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-3.html">ಅಷ್ಟಕ-೩ (ಶೈಲಿ-೧)</a><br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVA-3-Samhita.html">ಅಷ್ಟಕ-೩ (ಶೈಲಿ-೨)</a><br>
+	</td>
+    <td>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-3.html">ಮಂಡಲ-೩ (ಶೈಲಿ-೧)</a><br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-3.html">ಮಂಡಲ-೩ (ಶೈಲಿ-೨)</a><br>
 	</td>
   </tr>
 </tbody>
