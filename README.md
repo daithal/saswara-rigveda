@@ -12,48 +12,9 @@
 
 ಇತ್ತೀಚಿಗೆ ನಾನು sanskritdocuments.org ಸಂಸ್ಥೆಗೆ volunteer ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಅವರ ಜಾಲತಾಣದಲ್ಲಿ ನನ್ನ ಈ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು host ಮಾಡಿದ್ದೇನೆ. ಇದಕ್ಕಾಗಿ ಅವರಿಗೆ ನಾನು ಚಿರಋಣಿ.
 
-|           ಅಷ್ಟಕ    				       |           ಮಂಡಲ           |
-|:---------------------------:|:---------------------------:|
-| Ashtaka-೧ <br> [ಶೈಲಿ-೧] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-೧ <br> [ಶೈಲಿ-೧] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
-| Ashtaka-೨ <br> [ಶೈಲಿ-೧] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-೨ <br> [ಶೈಲಿ-೧] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
-| Ashtaka-೩ <br> [ಶೈಲಿ-೧]  (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨] (https://sanskritdocuments.org/doc_veda/RVA-3-Samhita.html) | Mandala-೩ <br> [ಶೈಲಿ-೧] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨] (https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
+ಸಂಪೂರ್ಣ ಋಗ್ವೇದ ಸಂಹಿತಾ ಪುಟಗಳಿಗೆ ಈ ಕೆಳಗಿನ link ಒತ್ತಿ 
 
-<table>
-<thead>
-  <tr>
-    <td>ಅಷ್ಟಕ</td>
-    <td>ಮಂಡಲ</td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>ಅಷ್ಟಕ-೧<br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">(ಶೈಲಿ-೧)</a>
-		<a href="https://sanskritdocuments.org/doc_veda/RVAKF2-1.html">(ಶೈಲಿ-೨)</a>
-	</td>
-    <td>ಮಂಡಲ-೧<br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-1.html">(ಶೈಲಿ-೧)</a>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-1.html">(ಶೈಲಿ-೨)</a>
-	</td>	
-  </tr>
-  <tr>
-    <td>ಅಷ್ಟಕ-೨<br>
-	</td>
-    <td>ಮಂಡಲ-೨<br>
-	</td>	
-  </tr>
-  <tr>
-    <td>ಅಷ್ಟಕ-೩<br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-3.html">(ಶೈಲಿ-೧)</a>
-		<a href="https://sanskritdocuments.org/doc_veda/RVA-3-Samhita.html">(ಶೈಲಿ-೨)</a>
-	</td>
-    <td>ಮಂಡಲ-೩<br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-3.html">(ಶೈಲಿ-೧)</a>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-3.html">(ಶೈಲಿ-೨)</a>
-	</td>	
-  </tr>
-</tbody>
-</table>
+[ಸಸ್ವರ ಕನ್ನಡ ಋಗ್ವೇದ] (https://sanskritdocuments.org/kannada/)
 
 - **ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ. ಪೇಜುಗಳನ್ನು ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ ಸೇವ್ ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!**
 
@@ -69,5 +30,5 @@ Ongoing work
 1.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to Rigveda Samhita Damodar Satavalekar and few Kannada Rigveda Samhita books and few based on my own experience while learning.
 2.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by Maharishi Mahesh Yogi
 3.	including sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
-4.	Proof reading and enhancements. For any questions, suggestions, or participation in the project, contact Dayanand Aithal (dithal@gmail.com) or write to sanskrit@cheerful.com.
+4.	Proof reading and enhancements. For any questions, suggestions, or participation in the project, contact Dayanand Aithal (dithal@gmail.com)
 
