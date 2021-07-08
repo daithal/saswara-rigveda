@@ -22,8 +22,8 @@
 <tbody>
   <tr>
     <td>
-		<a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಅಷ್ಟಕ-೧ ಶೈಲಿ-೧</a>
-		<a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಅಷ್ಟಕ-೧ ಶೈಲಿ-೨</a>
+		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">ಅಷ್ಟಕ-೧ (ಶೈಲಿ-೧)</a><br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">ಅಷ್ಟಕ-೧ (ಶೈಲಿ-೨)</a><br>
 	</td>
     <td>
 		<a href="./Kannada/SamhitaPatha/Mandala/RVM-1-Samhita(sarala).html"> ಮಂಡಲ-೧ ಶೈಲಿ-೧</a>
