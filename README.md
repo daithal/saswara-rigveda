@@ -25,30 +25,26 @@
 		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">(ಶೈಲಿ-೧)</a>
 		<a href="https://sanskritdocuments.org/doc_veda/RVAKF2-1.html">(ಶೈಲಿ-೨)</a>
 	</td>
-    <td>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-1.html">ಮಂಡಲ-೧ (ಶೈಲಿ-೧)</a><br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-1.html">ಮಂಡಲ-೧ (ಶೈಲಿ-೨)</a><br>
-	</td>
+    <td>ಮಂಡಲ-೧<br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-1.html">(ಶೈಲಿ-೧)</a>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-1.html">(ಶೈಲಿ-೨)</a>
+	</td>	
   </tr>
   <tr>
-    <td>
-		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-2.html">ಅಷ್ಟಕ-೨ (ಶೈಲಿ-೧)</a><br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVAKF2-2.html">ಅಷ್ಟಕ-೨ (ಶೈಲಿ-೨)</a><br>
+    <td>ಅಷ್ಟಕ-೨<br>
 	</td>
-    <td>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-2.html">ಮಂಡಲ-೨ (ಶೈಲಿ-೧)</a><br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-2.html">ಮಂಡಲ-೨ (ಶೈಲಿ-೨)</a><br>
-	</td>
+    <td>ಮಂಡಲ-೨<br>
+	</td>	
   </tr>
   <tr>
-    <td>
-		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-3.html">ಅಷ್ಟಕ-೩ (ಶೈಲಿ-೧)</a><br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVA-3-Samhita.html">ಅಷ್ಟಕ-೩ (ಶೈಲಿ-೨)</a><br>
+    <td>ಅಷ್ಟಕ-೩<br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVAKF1-3.html">(ಶೈಲಿ-೧)</a>
+		<a href="https://sanskritdocuments.org/doc_veda/RVA-3-Samhita.html">(ಶೈಲಿ-೨)</a>
 	</td>
-    <td>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-3.html">ಮಂಡಲ-೩ (ಶೈಲಿ-೧)</a><br>
-		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-3.html">ಮಂಡಲ-೩ (ಶೈಲಿ-೨)</a><br>
-	</td>
+    <td>ಮಂಡಲ-೩<br>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF1-3.html">(ಶೈಲಿ-೧)</a>
+		<a href="https://sanskritdocuments.org/doc_veda/RVMKF2-3.html">(ಶೈಲಿ-೨)</a>
+	</td>	
   </tr>
 </tbody>
 </table>
