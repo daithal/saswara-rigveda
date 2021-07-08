@@ -12,10 +12,11 @@
 
 ಇತ್ತೀಚಿಗೆ ನಾನು sanskritdocuments.org ಸಂಸ್ಥೆಗೆ volunteer ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಅವರ ಜಾಲತಾಣದಲ್ಲಿ ನನ್ನ ಈ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು host ಮಾಡಿದ್ದೇನೆ. ಇದಕ್ಕಾಗಿ ಅವರಿಗೆ ನಾನು ಚಿರಋಣಿ.
 
-|           Ashtaka           |           Mandala           |
+|           ಅಷ್ಟಕ    				       |           ಮಂಡಲ           |
 |:---------------------------:|:---------------------------:|
-| Ashtaka-1 [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-1 [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
-| Ashtaka-2 [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)           | Mandal [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)                  |
+| Ashtaka-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
+| Ashtaka-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
+| Ashtaka-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
 
 <table>
 <thead>
