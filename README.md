@@ -14,9 +14,9 @@
 
 |           ಅಷ್ಟಕ    				       |           ಮಂಡಲ           |
 |:---------------------------:|:---------------------------:|
-| Ashtaka-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
-| Ashtaka-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
-| Ashtaka-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-1 <br> [ಶೈಲಿ-೧)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)]( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
+| Ashtaka-೧ <br> [ಶೈಲಿ-೧)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-೧ <br> [ಶೈಲಿ-೧)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
+| Ashtaka-೨ <br> [ಶೈಲಿ-೧)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) | Mandala-೨ <br> [ಶೈಲಿ-೧)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
+| Ashtaka-೩ <br> [ಶೈಲಿ-೧)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)( https://sanskritdocuments.org/doc_veda/RVA-3-Samhita.html) | Mandala-೩ <br> [ಶೈಲಿ-೧)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html) <br> [ಶೈಲಿ-೨)( https://sanskritdocuments.org/doc_veda/RVAKF1-1.html)|
 
 <table>
 <thead>
