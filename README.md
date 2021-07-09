@@ -18,12 +18,12 @@
 **ದಯಾನಂದ ಐತಾಳ್ <dithal29@gmail.com>**
 
 ### Rigveda Text Enhancement
-** Completed work **
+**Completed work**
 1.	Programatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files
 2.	In order to maintain the word clarity, programmatically enhanced each Richas with alternate color coding of words
 3.	To preserve the traditional Samhita literature (NirnaySagar and source-2) style, added avagrahAs, removed spaces between words and presented as Format-2
 
-** Ongoing work **
+**Ongoing work**
 1.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to Rigveda Samhita Damodar Satavalekar and few Kannada Rigveda Samhita books and few based on my own experience while learning.
 2.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by Maharishi Mahesh Yogi
 3.	including sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
