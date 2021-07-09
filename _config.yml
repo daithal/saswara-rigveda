@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 title: [ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ]
 description: [ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ]
-show_downloads: [false]
 
 github:
   is_project_page: false
