@@ -2,7 +2,7 @@
 ---
 ## ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ ಈ ಲಿಂಕ್ ನ್ನು ಒತ್ತಿ  [ಸಸ್ವರ ಕನ್ನಡ ಋಗ್ವೇದ](https://sanskritdocuments.org/kannada/)
 
-<center><h2>ಅಥವಾ ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಒತ್ತಿ </h1></center>
+<center><h2>ಅಥವಾ ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಒತ್ತಿ</h2></center>
 
 <table style="width:80%">
 <tr valign="top">
@@ -25,64 +25,64 @@
     <th>ಶೈಲಿ-2</th>
   </tr>
   <tr>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">RVAKF1-1</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-1.html">RVAKF2-1</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-1.html">RVMKF1-1</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-1.html">RVMKF2-1</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">ಅಷ್ಟಕ-1</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-1.html">ಅಷ್ಟಕ-1</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-1.html">ಮಂಡಲ-1</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-1.html">ಮಂಡಲ-1</a></td>
   </tr>
   <tr>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-2.html">RVAKF1-2</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-2.html">RVAKF2-2</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-2.html">RVMKF1-2</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-2.html">RVMKF2-2</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-2.html">ಅಷ್ಟಕ-2</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-2.html">ಅಷ್ಟಕ-2</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-2.html">ಮಂಡಲ-2</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-2.html">ಮಂಡಲ-2</a></td>
   </tr>
   <tr>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-3.html">RVAKF1-3</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-3.html">RVAKF2-3</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-3.html">RVMKF1-3</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-3.html">RVMKF2-3</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-3.html">ಅಷ್ಟಕ-3</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-3.html">ಅಷ್ಟಕ-3</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-3.html">ಮಂಡಲ-3</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-3.html">ಮಂಡಲ-3</a></td>
   </tr>
   <tr>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-4.html">RVAKF1-4</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-4.html">RVAKF2-4</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-4.html">RVMKF1-4</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-4.html">RVMKF2-4</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-4.html">ಅಷ್ಟಕ-4</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-4.html">ಅಷ್ಟಕ-4</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-4.html">ಮಂಡಲ-4</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-4.html">ಮಂಡಲ-4</a></td>
   </tr>
   <tr>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-5.html">RVAKF1-5</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-5.html">RVAKF2-5</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-5.html">RVMKF1-5</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-5.html">RVMKF2-5</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-5.html">ಅಷ್ಟಕ-5</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-5.html">ಅಷ್ಟಕ-5</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-5.html">ಮಂಡಲ-5</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-5.html">ಮಂಡಲ-5</a></td>
   </tr>
   <tr>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-6.html">RVAKF1-6</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-6.html">RVAKF2-6</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-6.html">RVMKF1-6</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-6.html">RVMKF2-6</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-6.html">ಅಷ್ಟಕ-6</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-6.html">ಅಷ್ಟಕ-6</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-6.html">ಮಂಡಲ-6</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-6.html">ಮಂಡಲ-6</a></td>
   </tr>
   <tr>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-7.html">RVAKF1-7</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-7.html">RVAKF2-7</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-7.html">RVMKF1-7</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-7.html">RVMKF2-7</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-7.html">ಅಷ್ಟಕ-7</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-7.html">ಅಷ್ಟಕ-7</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-7.html">ಮಂಡಲ-7</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-7.html">ಮಂಡಲ-7</a></td>
   </tr>
   <tr>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-8.html">RVAKF1-8</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-8.html">RVAKF2-8</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-8.html">RVMKF1-8</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-8.html">RVMKF2-8</a></td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td>-</td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-9.html">RVMKF1-9</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-9.html">RVMKF2-9</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-8.html">ಅಷ್ಟಕ-8</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-8.html">ಅಷ್ಟಕ-8</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-8.html">ಮಂಡಲ-8</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-8.html">ಮಂಡಲ-8</a></td>
   </tr>
   <tr>
     <td>-</td>
     <td>-</td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-10.html">RVMKF1-10</a></td>
-    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-10.html">RVMKF2-10</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-9.html">ಮಂಡಲ-9</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-9.html">ಮಂಡಲ-9</a></td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-10.html">ಮಂಡಲ-10</a></td>
+    <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-10.html">ಮಂಡಲ-10</a></td>
   </tr>
 </table>
 
