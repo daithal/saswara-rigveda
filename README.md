@@ -109,7 +109,7 @@
 
 ### Rigveda Text Enhancement
 **Completed work**
-1.	Programatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files
+1.	Programatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
 2.	In order to maintain the word clarity, programmatically enhanced each Richas with alternate color coding of words
 3.	To preserve the traditional Samhita literature ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)) style, added avagrahAs, removed spaces between words and presented as Format-2
 
