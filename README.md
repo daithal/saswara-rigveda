@@ -15,6 +15,8 @@
 
 ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವು ನನಗೆ ಬಹಳ ಮುಖ್ಯ. ನಿಮ್ಮ ಅನಿಸಿಕೆಗಳನ್ನು ನನಗೆ ಇಮೇಲ್ ಮಾಡಿರಿ
 
+ದಯಾನಂದ ಐತಾಳ್ <dithal29@gmail.com>
+
 ### Rigveda Text Enhancement
 Completed work
 1.	Programatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files
