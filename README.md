@@ -1,11 +1,9 @@
 <center> <h1>|| ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||</h1> </center>
-
 ---
-
-
-
 ### ಇತ್ತೀಚಿಗೆ ನಾನು (https://sanskritdocuments.org/kannada/) ಸಂಸ್ಥೆಗೆ volunteer ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಅವರ ಜಾಲತಾಣದಲ್ಲಿ ನನ್ನ ಈ ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು host ಮಾಡಿದ್ದೇನೆ. ಇದಕ್ಕಾಗಿ ಅವರಿಗೆ ನಾನು ಚಿರಋಣಿ. <br>
 ### ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ ಈ ಲಿಂಕ್ ನ್ನು ಒತ್ತಿ  [ಸಸ್ವರ ಕನ್ನಡ ಋಗ್ವೇದ](https://sanskritdocuments.org/kannada/)
+
+### ಋಗ್ವೇದ ಮಂತ್ರಗಳ ಪರಿಷ್ಕರಣೆಯ ವಿವರಗಳು
 
 ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ವರ ಸಹಿತವಾದ (ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಗುರುತುಗಳಿರುವ ವೇದಮಂತ್ರವು ಉಚ್ಛಾರಕ್ಕೆ ಬಹಳ ಉಪಯುಕ್ತರವಾಗಿದ್ದು ಅದು ಇತ್ತೀಚಿನವರೆಗೂ ಕೇವಲ ಪುಸ್ತಕದ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಸಿಗುತ್ತಿದ್ದು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರಸಹಿತವಾದ ಋಗ್ವೇದವು ಎಲ್ಲಿಯೂ ಲಭ್ಯವಿಲ್ಲ. ಹಾಗಾಗಿ ಸಧ್ಯ ಚಾಲ್ತಿಯಲ್ಲಿರುವ ಗಣಕೀಕೃತ ಋಗ್ವೇದ ಸಂಹಿತ ಮಂತ್ರಗಳಿಗೆ ಪ್ರೋಗ್ರಾಮ್ ಮೂಲಕ ಸಂಪೂರ್ಣ ಸ್ವರ ಗುರುತುಗಳನ್ನು ನಮೂದಿಸಿದ್ದೇನೆ.
 
@@ -34,4 +32,3 @@
 2.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
 3.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
 4.	Proof reading and enhancements. For any questions, suggestions, or participation in the project, contact Dayananda Aithal (dithal29@gmail.com)
-
