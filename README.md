@@ -14,22 +14,22 @@
 <table style="width:80%">
 <tr valign="top">
 	<td colspan="4">
-	<p align="center"><font size="2" style="font-size: 14pt"><b>Kannada</b></font></p>
+	<p align="center"><font size="2" style="font-size: 14pt"><b>ಕನ್ನಡ </b></font></p>
 		</td>
 	</tr>
 <tr valign="top">
 	<td colspan="2">
-	<p align="center"><font size="2" style="font-size: 14pt"><b>aShTaka</b></font></p>
+	<p align="center"><font size="2" style="font-size: 14pt"><b>ಅಷ್ಟಕ</b></font></p>
 	</td>
 	<td colspan="2">
-	<p align="center"><font size="2" style="font-size: 14pt"><b>maNDala</b></font></p>
+	<p align="center"><font size="2" style="font-size: 14pt"><b>ಮಂಡಲ</b></font></p>
 		</td>
 	</tr>
   <tr>
-    <th>padachCheda</th> 
-    <th>saMyukta</th>
-    <th>padachCheda</th> 
-    <th>saMyukta</th>
+    <th>ಶೈಲಿ-೧</th> 
+    <th>ಶೈಲಿ-೨</th>
+    <th>ಶೈಲಿ-೧</th> 
+    <th>ಶೈಲಿ-೨</th>
   </tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">RVAKF1-1</a></td>
@@ -96,22 +96,22 @@
 <table style="width:80%">
 <tr valign="top">
 	<td colspan="4">
-	<p align="center"><font size="2" style="font-size: 14pt"><b>Devanagari</b></font></p>
+	<p align="center"><font size="2" style="font-size: 14pt"><b>ದೇವನಾಗರಿ</b></font></p>
 	</td>
 	</tr>
 <tr valign="top">
 	<td colspan="2">
-	<p align="center"><font size="2" style="font-size: 14pt"><b>aShTaka</b></font></p>
+	<p align="center"><font size="2" style="font-size: 14pt"><b>ಅಷ್ಟಕ</b></font></p>
 	</td>
 	<td colspan="2">
-	<p align="center"><font size="2" style="font-size: 14pt"><b>maNDala</b></font></p>
+	<p align="center"><font size="2" style="font-size: 14pt"><b>ಮಂಡಲ</b></font></p>
 		</td>
 	</tr>
   <tr>
-    <th>padachCheda</th> 
-    <th>saMyukta</th>
-    <th>padachCheda</th> 
-    <th>saMyukta</th>
+    <th>ಶೈಲಿ-೧</th> 
+    <th>ಶೈಲಿ-೨</th>
+    <th>ಶೈಲಿ-೧</th> 
+    <th>ಶೈಲಿ-೨</th>
   </tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVADF1-1.html">RVADF1-1</a></td>
