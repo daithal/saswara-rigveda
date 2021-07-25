@@ -6,26 +6,26 @@
 
 <table style="width:80%">
 <tr valign="top">
-	<td colspan="4">
-	<p align="center"><font size="2" style="font-size: 14pt"><b>ಕನ್ನಡ</b></font></p>
-		</td>
-	</tr>
-<tr valign="top">
-	<td colspan="2">
-	<p align="center"><font size="2" style="font-size: 14pt"><b>ಅಷ್ಟಕ ವರ್ಗೀಕರಣ</b></font></p>
+	<td colspan="6">
+		<p align="center"><font size="2" style="font-size: 14pt"><b>ಕನ್ನಡ</b></font></p>
 	</td>
-	<td colspan="2">
-	<p align="center"><font size="2" style="font-size: 14pt"><b>ಮಂಡಲ ವರ್ಗೀಕರಣ</b></font></p>
-		</td>
-	</tr>
-  <tr>
-    <th>ಶೈಲಿ-1</th> 
-    <th>ಶೈಲಿ-2</th>
+</tr>
+<tr valign="top">
+	<td colspan="3">
+		<p align="center"><font size="2" style="font-size: 14pt"><b>ಅಷ್ಟಕ ವರ್ಗೀಕರಣ</b></font></p>
+	</td>
+	<td colspan="3">
+		<p align="center"><font size="2" style="font-size: 14pt"><b>ಮಂಡಲ ವರ್ಗೀಕರಣ</b></font></p>
+	</td>
+</tr>
+<tr>
+	<th>ಶೈಲಿ-1</th> 
+	<th>ಶೈಲಿ-2</th>
 	<th>ಶೈಲಿ-3</th>
-    <th>ಶೈಲಿ-1</th> 
-    <th>ಶೈಲಿ-2</th>
-    <th>ಶೈಲಿ-3</th> 
-  </tr>
+	<th>ಶೈಲಿ-1</th> 
+	<th>ಶೈಲಿ-2</th>
+	<th>ಶೈಲಿ-3</th> 
+</tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">ಅಷ್ಟಕ-1</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-1.html">ಅಷ್ಟಕ-1</a></td>
@@ -37,8 +37,10 @@
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-2.html">ಅಷ್ಟಕ-2</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-2.html">ಅಷ್ಟಕ-2</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-2.html">ಮಂಡಲ-2</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-2.html">ಮಂಡಲ-2</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
   </tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-3.html">ಅಷ್ಟಕ-3</a></td>
