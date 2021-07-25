@@ -4,7 +4,7 @@
 
 <center><h2>ಅಥವಾ ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಒತ್ತಿ</h2></center>
 
-<table style="width:80%">
+<table style="width:100%">
 <tr valign="top">
 	<td colspan="6">
 		<p align="center"><font size="2" style="font-size: 14pt"><b>ಕನ್ನಡ</b></font></p>
