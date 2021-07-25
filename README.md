@@ -45,50 +45,66 @@
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-3.html">ಅಷ್ಟಕ-3</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-3.html">ಅಷ್ಟಕ-3</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-3.html">ಮಂಡಲ-3</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-3.html">ಮಂಡಲ-3</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
   </tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-4.html">ಅಷ್ಟಕ-4</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-4.html">ಅಷ್ಟಕ-4</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-4.html">ಮಂಡಲ-4</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-4.html">ಮಂಡಲ-4</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
   </tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-5.html">ಅಷ್ಟಕ-5</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-5.html">ಅಷ್ಟಕ-5</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-5.html">ಮಂಡಲ-5</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-5.html">ಮಂಡಲ-5</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
   </tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-6.html">ಅಷ್ಟಕ-6</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-6.html">ಅಷ್ಟಕ-6</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-6.html">ಮಂಡಲ-6</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-6.html">ಮಂಡಲ-6</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
   </tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-7.html">ಅಷ್ಟಕ-7</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-7.html">ಅಷ್ಟಕ-7</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-7.html">ಮಂಡಲ-7</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-7.html">ಮಂಡಲ-7</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
   </tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-8.html">ಅಷ್ಟಕ-8</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF2-8.html">ಅಷ್ಟಕ-8</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-8.html">ಮಂಡಲ-8</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-8.html">ಮಂಡಲ-8</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
   </tr>
   <tr>
     <td>-</td>
     <td>-</td>
+	<td>-</td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-9.html">ಮಂಡಲ-9</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-9.html">ಮಂಡಲ-9</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
   </tr>
   <tr>
     <td>-</td>
     <td>-</td>
+	<td>-</td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF1-10.html">ಮಂಡಲ-10</a></td>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVMKF2-10.html">ಮಂಡಲ-10</a></td>
+	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
   </tr>
 </table>
 
