@@ -21,10 +21,10 @@
   <tr>
     <th>ಶೈಲಿ-1</th> 
     <th>ಶೈಲಿ-2</th>
+	<th>ಶೈಲಿ-3</th>
     <th>ಶೈಲಿ-1</th> 
     <th>ಶೈಲಿ-2</th>
-    <th>ಶೈಲಿ-1</th> 
-    <th>ಶೈಲಿ-2</th>
+    <th>ಶೈಲಿ-3</th> 
   </tr>
   <tr>
     <td><a href="https://sanskritdocuments.org/doc_veda/RVAKF1-1.html">ಅಷ್ಟಕ-1</a></td>
