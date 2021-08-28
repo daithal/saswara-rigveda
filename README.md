@@ -35,58 +35,58 @@
   <tr>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-2.html">ಅಷ್ಟಕ-2</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-2.html">ಅಷ್ಟಕ-2</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-2.html">ಅಷ್ಟಕ-2</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-2.html">ಮಂಡಲ-2</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-2.html">ಮಂಡಲ-2</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-2.html">ಮಂಡಲ-2</a></td>
   </tr>
   <tr>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-3.html">ಅಷ್ಟಕ-3</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-3.html">ಅಷ್ಟಕ-3</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-3.html">ಅಷ್ಟಕ-3</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-3.html">ಮಂಡಲ-3</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-3.html">ಮಂಡಲ-3</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-3.html">ಮಂಡಲ-3</a></td>
   </tr>
   <tr>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-4.html">ಅಷ್ಟಕ-4</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-4.html">ಅಷ್ಟಕ-4</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-4.html">ಅಷ್ಟಕ-4</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-4.html">ಮಂಡಲ-4</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-4.html">ಮಂಡಲ-4</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-4.html">ಮಂಡಲ-4</a></td>
   </tr>
   <tr>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-5.html">ಅಷ್ಟಕ-5</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-5.html">ಅಷ್ಟಕ-5</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-5.html">ಅಷ್ಟಕ-5</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-5.html">ಮಂಡಲ-5</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-5.html">ಮಂಡಲ-5</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-5.html">ಮಂಡಲ-5</a></td>
   </tr>
   <tr>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-6.html">ಅಷ್ಟಕ-6</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-6.html">ಅಷ್ಟಕ-6</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-6.html">ಅಷ್ಟಕ-6</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-6.html">ಮಂಡಲ-6</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-6.html">ಮಂಡಲ-6</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-6.html">ಮಂಡಲ-6</a></td>
   </tr>
   <tr>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-7.html">ಅಷ್ಟಕ-7</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-7.html">ಅಷ್ಟಕ-7</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-7.html">ಅಷ್ಟಕ-7</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-7.html">ಮಂಡಲ-7</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-7.html">ಮಂಡಲ-7</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-7.html">ಮಂಡಲ-7</a></td>
   </tr>
   <tr>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-8.html">ಅಷ್ಟಕ-8</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-8.html">ಅಷ್ಟಕ-8</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-8.html">ಅಷ್ಟಕ-8</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-8.html">ಮಂಡಲ-8</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-8.html">ಮಂಡಲ-8</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-8.html">ಮಂಡಲ-8</a></td>
   </tr>
   <tr>
     <td>-</td>
@@ -94,7 +94,7 @@
 	<td>-</td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-9.html">ಮಂಡಲ-9</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-9.html">ಮಂಡಲ-9</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-9.html">ಮಂಡಲ-9</a></td>
   </tr>
   <tr>
     <td>-</td>
@@ -102,7 +102,7 @@
 	<td>-</td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-10.html">ಮಂಡಲ-10</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-10.html">ಮಂಡಲ-10</a></td>
-	<td>ಕೆಲಸ ಪ್ರಗತಿಯಲ್ಲಿದೆ</td>
+	<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-10.html">ಮಂಡಲ-10</a></td>
   </tr>
 </table>
 
