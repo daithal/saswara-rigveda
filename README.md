@@ -127,8 +127,6 @@
 
 ### ಈ ಎಲ್ಲ ಪರಿಷ್ಕರಣೆಗಳಿಗೂ ಮೂಲ ಗಣಕೀಕೃತ  ITRANS ಫೈಲ್ ಗಳಿಗೆ ([ಇಲ್ಲಿ ನೋಡಿ ](https://sanskritdocuments.org/doc_veda)) programming ಮೂಲಕ ದೀರ್ಘ ಸ್ವರಿತ ಗಳನ್ನು ನಮೂದಿಸಿ ಕನ್ನಡ  ಹಾಗು ದೇವನಾಗರಿ ಭಾಷೆಗೆ transliterate ಮಾಡಿದ್ದೇನೆ.  ಈ ಪರಿಷ್ಕರಣೆಯ ಕೆಲಸಗಳಲ್ಲಿ ಕೆಲವನ್ನು computer programming ಮೂಲಕವೂ ಹಾಗು ಕೆಲವೊಂದನ್ನು type ಮಾಡಿ ಪ್ರಕಾಶನ ಮಾಡಬೇಕಾಗಿದೆ. ಇದು ನಿರಂತರ ನಡೆಯುವ ಕೆಲಸವಾಗಿರುತ್ತದೆ. ಇದರಲ್ಲಿ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವು ನನಗೆ ಬಹಳ ಮುಖ್ಯ. ನಿಮ್ಮ ಅನಿಸಿಕೆ ಅಭಿಪ್ರಾಯಗಳನ್ನು ನನಗೆ ಇಮೇಲ್ ಮೂಲಕ ತಿಳಿಸಿ.
 
-**ದಯಾನಂದ ಐತಾಳ್ <dithal29@gmail.com>**
-
 ### Rigveda Text Enhancement
 **Completed work**
 1.	Programatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
@@ -141,6 +139,7 @@
 3.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
 4.	Proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email (dithal29@gmail.com)
 
-ಓಂ ಸ್ವಸ್ತಿ
-ದಯಾನಂದ ಐತಾಳ 
-DAYANANDA AITHAL, USA
+<center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
+**ದಯಾನಂದ ಐತಾಳ 
+**<dithal29@gmail.com>
+**DAYANANDA AITHAL, USA
