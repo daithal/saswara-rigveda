@@ -137,9 +137,10 @@
 1.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to [Rigveda Samhita Damodar Satavalekar](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar) and few Kannada Rigveda Samhita books and few based on my own convinience while learning.
 2.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
 3.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
-4.	Proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below
+4.	Proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
 
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
-**ದಯಾನಂದ ಐತಾಳ 
+
+** ದಯಾನಂದ ಐತಾಳ 
 **<dithal29@gmail.com>
 **DAYANANDA AITHAL, USA
