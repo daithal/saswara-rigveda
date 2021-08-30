@@ -142,5 +142,4 @@
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
 
 ** ದಯಾನಂದ ಐತಾಳ 
-**<dithal29@gmail.com>
-**DAYANANDA AITHAL, USA
+**DAYANANDA AITHAL, USA <dithal29@gmail.com>
