@@ -113,7 +113,7 @@
 ## ಋಗ್ವೇದ ಮಂತ್ರಗಳ ಪರಿಷ್ಕರಣೆಯ ವಿವರಗಳು
 ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಮಂತ್ರ ಪುಟಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿದ್ದೇನೆ. ಇನ್ನೂ ಹೆಚ್ಚಿನ ಅನುಕೂಲಕ್ಕಾಗಿ ಮೂರು ಶೈಲಿಗಳಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ.
 
-ಶೈಲಿ-೧ ರಲ್ಲಿ ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿ ಇರುವಂತೆ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ ಸ್ವರ ಸಹಿತವಾಗಿ ರಚಿಸಿದ್ದೇನೆ.
+ಶೈಲಿ-೧ ರಲ್ಲಿ ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿ ಇರುವಂತೆ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ ಸ್ವರ ಸಹಿತವಾಗಿ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ರಚಿಸಿದ್ದೇನೆ.
 
 ಶೈಲಿ-೨ ರಲ್ಲಿ ಮೂಲ ಋಗ್ವೇದ ಸಂಹಿತೆ ಪತ್ರಾವಳಿ ಯಾ ತಾಳೆಗರಿಯಲ್ಲಿರುವಂತೆ ಪ್ರತಿಯೊಂದು ಋಕ್ಕಿನಲ್ಲೂ ಪದಗಳನ್ನು ಒಟ್ಟಾಗಿಸಿ ಮತ್ತು ಸರಿಯಾದ ಪದಗಳ ಮಧ್ಯೆ ಅವಗ್ರಹ (S ಚಿಹ್ನೆ) ಗಳನ್ನೂ ಸೇರಿಸಿ ತೋರಿಸುವ ಪ್ರಯತ್ನ ಮಾಡಿದ್ದೇನೆ. ಪರಂಪರಾಗತವಾಗಿ ಬಂದ ಈ ಶೈಲಿಯನ್ನು ಮುಂದುವರೆಸಿಕೊಂಡು ಹೋಗುವ ಉದ್ದೇಶದಿಂದ ಮಂತ್ರಗಳನ್ನು ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದೇನೆ. ಇದು ವೇದ ಕಲಿಯುವವರಿಗೆ ಅನುಕೂಲವಾಗುತ್ತದೆಂದು ನನ್ನ ಅಭಿಪ್ರಾಯ. ಈ ಕೆಲಸಕ್ಕೆ ನಾನು ಪರಿಶೀಲಿಸಿದ ಪುಸ್ತಕಗಳು [ಋಕ್ಸಂಹಿತೆ ನಿರ್ಣಯ ಸಾಗರ್ ಪ್ರೆಸ್ಸ್](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) ಮತ್ತು [ವಿದ್ವದ್‌ಭ್ಯರ್ಥನಂ](https://archive.org/details/in.ernet.dli.2015.406020)) ಈ ಕ್ರಮದಿಂದ ಪದಗಳ ಪರಿಚಯ ತಪ್ಪುವ ಸಾಧ್ಯತೆ ಇರುವುದರಿಂದ, ಪರ್ಯಾಯ ಪದಗಳನ್ನು ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಅಕ್ಷರದಲ್ಲಿ ತೋರಿಸಿದ್ದೇನೆ. ಇದನ್ನು ಋಗ್ವೇದದ ಪದಪಾಠಕ್ಕೆ ಹೋಲಿಕೆ ಮಾಡಿಕೊಳ್ಳಬೇಡಿ.
 
@@ -133,11 +133,14 @@
 **Completed work**
 1.	Programatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
 2.	In order to maintain the word clarity, programmatically enhanced each Richas with alternate color coding of words
-3.	To preserve the traditional Samhita literature ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)) style, added avagrahAs, removed spaces between words and presented as Format-2
+3.	To preserve the traditional Samhita literature style ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), removed spaces between words and added avagrahAs
 
 **Ongoing work**
-1.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to [Rigveda Samhita Damodar Satavalekar](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar) and few Kannada Rigveda Samhita books and few based on my own experience while learning.
+1.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to [Rigveda Samhita Damodar Satavalekar](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar) and few Kannada Rigveda Samhita books and few based on my own convinience while learning.
 2.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
 3.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
-4.	Adding "svAhA" at the end of each mantra to benefit during agni mukha prayoga
-5.	Proof reading and enhancements. For any questions, suggestions, or participation in the project, contact Dayananda Aithal (dithal29@gmail.com)
+4.	Proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email (dithal29@gmail.com)
+
+ಓಂ ಸ್ವಸ್ತಿ
+ದಯಾನಂದ ಐತಾಳ 
+DAYANANDA AITHAL, USA
