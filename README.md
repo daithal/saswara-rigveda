@@ -139,7 +139,7 @@
 3.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
 4.	Proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
 
-<center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
-
 **ದಯಾನಂದ ಐತಾಳ 
 **DAYANANDA AITHAL, USA <dithal29@gmail.com>
+
+<center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
