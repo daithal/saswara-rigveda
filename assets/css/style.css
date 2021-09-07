@@ -2,7 +2,7 @@
 @font-face {
 Font-family: 'Noto Sans Kannada';
 src: url('https://cdn.jsdelivr.net/gh/googlei18n/noto-fonts/unhinted/otf/NotoSansKannada/NotoSansKannada-Regular.otf')}
-h1,h2,h3,h4,h5,h6 {
+h2 {
   font-family: 'Noto Sans Kannada' !important}
 }
 </style>
