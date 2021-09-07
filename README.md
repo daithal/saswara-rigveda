@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="/mile-stone-one/css/style.css">
+
 <center><h1>|| ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||</h1></center>
 ---
 <h2>ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ  ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಗೆ ಭೇಟಿ ಕೊಡಿ</h2>
