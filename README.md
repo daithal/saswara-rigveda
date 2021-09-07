@@ -4,11 +4,6 @@
 
 <table style="width:100%">
 <tr valign="top">
-	<td colspan="6">
-		<h2>ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ (ಕನ್ನಡ)</h2>
-	</td>
-</tr>
-<tr valign="top">
 	<td colspan="3">
 		<h3>ಅಷ್ಟಕ ವರ್ಗೀಕರಣ</h3>
 	</td>
