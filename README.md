@@ -5,15 +5,15 @@
 <table style="width:100%">
 <tr valign="top">
 	<td colspan="6">
-		<p align="center"><font size="2" style="font-size: 14pt"><b>ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ (ಕನ್ನಡ)</b></font></p>
+		<h2>ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ (ಕನ್ನಡ)</h2>
 	</td>
 </tr>
 <tr valign="top">
 	<td colspan="3">
-		<h2>ಅಷ್ಟಕ ವರ್ಗೀಕರಣ</h2>
+		<h3>ಅಷ್ಟಕ ವರ್ಗೀಕರಣ</h3>
 	</td>
 	<td colspan="3">
-		<h2>ಮಂಡಲ ವರ್ಗೀಕರಣ</h2>
+		<h3>ಮಂಡಲ ವರ್ಗೀಕರಣ</h3>
 	</td>
 </tr>
 <tr>
