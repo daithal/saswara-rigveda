@@ -10,10 +10,10 @@
 </tr>
 <tr valign="top">
 	<td colspan="3">
-		<p align="center"><font size="2" style="font-size: 14pt"><b>ಅಷ್ಟಕ ವರ್ಗೀಕರಣ</b></font></p>
+		<h2>ಅಷ್ಟಕ ವರ್ಗೀಕರಣ</h2>
 	</td>
 	<td colspan="3">
-		<p align="center"><font size="2" style="font-size: 14pt"><b>ಮಂಡಲ ವರ್ಗೀಕರಣ</b></font></p>
+		<h2>ಮಂಡಲ ವರ್ಗೀಕರಣ</h2>
 	</td>
 </tr>
 <tr>
