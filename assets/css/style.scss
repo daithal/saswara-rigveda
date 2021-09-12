@@ -2,17 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-<style>
-@font-face {
-Font-family: 'Noto Sans Kannada';
-src: url('https://cdn.jsdelivr.net/gh/googlei18n/noto-fonts/unhinted/otf/NotoSansKannada/NotoSansKannada-Regular.otf')}
-.Kannada {
-font-family: 'Noto Sans Kannada' !important}
-.KannadaText {
-font-family: 'Noto Sans Kannada';
-border: 1px solid black;
-padding: 4px;
-margin: 2px;
-background-color: #ffcc99;
-font-size: 130%}
-</style>
