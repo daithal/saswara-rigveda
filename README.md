@@ -14,13 +14,12 @@
 	</td>
 </tr>
 <tr>
-	<th>ಶೈಲಿ-1</th> 
-	<th>ಶೈಲಿ-2</th>
-	<th>ಶೈಲಿ-3</th>
-	<th>ಶೈಲಿ-1</th> 
-	<th>ಶೈಲಿ-2</th>
-	<th>ಶೈಲಿ-3</th> 
-</tr>
+	<th>ಶೈಲಿ-1<br>ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿರುವಂತದ್ದು</th> 
+	<th>ಶೈಲಿ-2<br>ಪರಿಷ್ಕರಿಸಿದ್ದು</th>
+	<th>ಶೈಲಿ-3<br>ಸ್ವಾಹಾಕಾರಯುಕ್ತ</th>
+	<th>ಶೈಲಿ-1<br>ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿರುವಂತದ್ದು</th> 
+	<th>ಶೈಲಿ-2<br>ಪರಿಷ್ಕರಿಸಿದ್ದು</th>
+	<th>ಶೈಲಿ-3<br>ಸ್ವಾಹಾಕಾರಯುಕ್ತ</th></tr>
   <tr>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-1.html">ಅಷ್ಟಕ-1</a></td>
     <td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-1.html">ಅಷ್ಟಕ-1</a></td>
