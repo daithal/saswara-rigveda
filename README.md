@@ -153,14 +153,15 @@
 
 **ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ.  ಈ ಪೇಜ್ ಗಳನ್ನು ವೀಕ್ಷಿಸುವಾಗ internet connection ಇರಲೇಬೇಕು . ಈ HTML ಫೈಲ್ ಗಳನ್ನು  ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ save ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!**
 
-** ಇತ್ತೀಚಿಗೆ ನಾನು [sanskritdocuments](https://sanskritdocuments.org/kannada/) ಸಂಸ್ಥೆಗೆ volunteer ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಅವರ ಜಾಲತಾಣದಲ್ಲಿ ಕೂಡ ಈ  ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು host ಮಾಡಿದ್ದೇನೆ. ಇದಕ್ಕಾಗಿ ಅವರಿಗೆ ನನ್ನ ಕೃತಜ್ಞತೆಗಳು.**
+**ಇತ್ತೀಚಿಗೆ ನಾನು [sanskritdocuments](https://sanskritdocuments.org/kannada/) ಸಂಸ್ಥೆಗೆ volunteer ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಅವರ ಜಾಲತಾಣದಲ್ಲಿ ಕೂಡ ಈ  ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು host ಮಾಡಿದ್ದೇನೆ. ಇದಕ್ಕಾಗಿ ಅವರಿಗೆ ನನ್ನ ಕೃತಜ್ಞತೆಗಳು.**
 
 **ಈ ಎಲ್ಲ ಪರಿಷ್ಕರಣೆಗಳಿಗೂ ಮೂಲ ಗಣಕೀಕೃತ  ITRANS ಫೈಲ್ ಗಳಿಗೆ ([ಇಲ್ಲಿ ನೋಡಿ ](https://sanskritdocuments.org/doc_veda)) programming ಮೂಲಕ ದೀರ್ಘ ಸ್ವರಿತ ಗಳನ್ನು ನಮೂದಿಸಿ ಕನ್ನಡ  ಹಾಗು ದೇವನಾಗರಿ ಭಾಷೆಗೆ transliterate ಮಾಡಿದ್ದೇನೆ.  ಈ ಪರಿಷ್ಕರಣೆಯ ಕೆಲಸಗಳಲ್ಲಿ ಕೆಲವನ್ನು computer programming ಮೂಲಕವೂ ಹಾಗು ಕೆಲವೊಂದನ್ನು type ಮಾಡಿ ಪ್ರಕಾಶನ ಮಾಡಬೇಕಾಗಿದೆ. ಇದು ನಿರಂತರ ನಡೆಯುವ ಕೆಲಸವಾಗಿರುತ್ತದೆ. ಇದರಲ್ಲಿ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವು ನನಗೆ ಬಹಳ ಮುಖ್ಯ. ನಿಮ್ಮ ಅನಿಸಿಕೆ ಅಭಿಪ್ರಾಯಗಳನ್ನು ನನಗೆ ಇಮೇಲ್ ಮೂಲಕ ತಿಳಿಸಿ.**
 
 **ಈ ಕೆಲಸಕ್ಕೆ ನಾನು ಪರಿಶೀಲಿಸಿದ ಪುಸ್ತಕಗಳು**
-[ಋಕ್ಸಂಹಿತೆ ನಿರ್ಣಯ ಸಾಗರ್ ಪ್ರೆಸ್ಸ್](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) ಮತ್ತು [ವಿದ್ವದ್‌ಭ್ಯರ್ಥನಂ](https://archive.org/details/in.ernet.dli.2015.406020)) 
-[ಋಗ್ವೇದ ಸಂಹಿತಾ ದಾಮೋದರ ಸಾತ್ವಳೇಕರ್](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar)
-[ಮಹರ್ಷಿ ಮಹೇಶ್ ಯೋಗಿ ಋಗ್ವೇದ ](http://vedicreserve.miu.edu/rk_veda.htm)
+1.	[ಋಕ್ಸಂಹಿತೆ ನಿರ್ಣಯ ಸಾಗರ್ ಪ್ರೆಸ್ಸ್](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) 
+2.	[ವಿದ್ವದ್‌ಭ್ಯರ್ಥನಂ](https://archive.org/details/in.ernet.dli.2015.406020)) 
+3.	[ಋಗ್ವೇದ ಸಂಹಿತಾ ದಾಮೋದರ ಸಾತ್ವಳೇಕರ್](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar)
+4.	[ಮಹರ್ಷಿ ಮಹೇಶ್ ಯೋಗಿ ಋಗ್ವೇದ ](http://vedicreserve.miu.edu/rk_veda.htm)
 
 ### Rigveda Text Enhancement
 **Completed work**
