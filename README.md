@@ -1,17 +1,17 @@
 <center><h1 class="KannadaText">|| ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||</h1></center>
 ---
 ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ವರ ಸಹಿತವಾದ (ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಗುರುತುಗಳಿರುವ ವೇದಮಂತ್ರವು ಉಚ್ಛಾರಕ್ಕೆ ಬಹಳ ಉಪಯುಕ್ತರವಾಗಿದ್ದು ಅದು ಇತ್ತೀಚಿನವರೆಗೂ ಕೇವಲ ಪುಸ್ತಕದ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಸಿಗುತ್ತಿದ್ದು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರಸಹಿತವಾದ ಸಂಪೂರ್ಣ ಋಗ್ವೇದ ಸಂಹಿತೆಯು ಎಲ್ಲಿಯೂ ಲಭ್ಯವಿಲ್ಲ. ಪುಸ್ತಕಗಳನ್ನು ಸದಾ ನಮ್ಮ ಜೊತೆ ಕಷ್ಟವಾಗಬಹುದೆಂದು ಮನಗಂಡು, ಸಂಹಿತಾ ಮಂತ್ರಗಳು ಡಿಜಿಟಲ್ ಮಾಧ್ಯಮದ ಮೂಲಕ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಎಲ್ಲರಿಗೂ ಎಲ್ಲ ಕಡೆಯಲ್ಲಿ ಸುಲಭವಾಗಿಯೂ ಉಚಿತವಾಗಿಯೂ ದೊರಕುವಂತೆ ಮಾಡಿದ ನನ್ನ ಈ ಸಣ್ಣ ಪ್ರಯತ್ನದ ಫಲವೇ ಈ ಜಾಲತಾಣ.
+ವ್ಯಾಕರಣ ಸಂಧಿರೀತ್ಯಾ ಕ್ಲಿಷ್ಟಕರವಾದ ಪದಗಳನ್ನು ಬಿಡಿಸಿ, ಸ್ವರ ಮತ್ತು ಲಯಬದ್ಧವಾಗಿ ಉಚ್ಚರಿಸಲು ಸಹಾಯವಾಗುವಂತೆ ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್ ಮೂಲಕ ಸರಳೀಕರಿಸಿ ನಾಲ್ಕು ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಪುಟಗಳನ್ನು ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಹಾಗೂ ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಚಾಲ್ತಿಯಲ್ಲಿರುವಂತೆ ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
 
 ## ಋಗ್ವೇದ ಮಂತ್ರಗಳ ಪರಿಷ್ಕರಣೆಯ ವಿವರಗಳು
-ಕಲಿಯುವರ ಅನುಕೂಲಕ್ಕಾಗಿ ಇಲ್ಲಿ ನಾನು ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಗಣಕೀಕೃತವಾಗಿ ನಾಲ್ಕು ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಪುಟಗಳನ್ನು ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ.
 
-<b>ಶೈಲಿ-೧:</b> ಇದರಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿ ಇರುವಂತೆ ಮಂತ್ರಗಳಲ್ಲಿನ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ, ಅಕ್ಷರಗಳಿಗೆ ಗಣಕೀಕೃತವಾಗಿ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ರಚಿಸಿದ್ದೇನೆ.
+<b>ಶೈಲಿ-೧:</b> ಈ ಶೈಲಿಯಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿ ಇರುವಂತೆ ಮಂತ್ರಗಳಲ್ಲಿನ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ, ಅಕ್ಷರಗಳಿಗೆ ಗಣಕೀಕೃತವಾಗಿ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ರಚಿಸಿದ್ದೇನೆ.
 
-<b>ಶೈಲಿ-೨:</b> ಇಲ್ಲಿ ಮೂಲ ಋಗ್ವೇದ ಸಂಹಿತೆ ಪತ್ರಾವಳಿ ಯಾ ತಾಳೆಗರಿಯಲ್ಲಿರುವಂತೆ ಪ್ರತಿಯೊಂದು ಋಕ್ಕಿನ ಪದಗಳನ್ನು ಒಟ್ಟಾಗಿಸಿ, ಅಕ್ಷರಗಳಿಗೆ ಗಣಕೀಕೃತವಾಗಿ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಪರಂಪರಾಗತವಾಗಿ ಬಂದ ಈ ಕ್ರಮವನ್ನು ಸಂರಕ್ಷಿಸುವ ದ್ರಷ್ಟಿಯಿಂದ ಮಂತ್ರಗಳನ್ನು ಈ ಶೈಲಿಯಲ್ಲಿ ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದೇನೆ.
+<b>ಶೈಲಿ-೨:</b> ಮೂಲ ಋಗ್ವೇದ ಸಂಹಿತೆ ಪತ್ರಾವಳಿ ಯಾ ತಾಳೆಗರಿಯಲ್ಲಿರುವಂತೆ ಪ್ರತಿಯೊಂದು ಋಕ್ಕಿನ ಪದಗಳನ್ನು ಒಟ್ಟಾಗಿಸಿ, ಅಕ್ಷರಗಳಿಗೆ ಗಣಕೀಕೃತವಾಗಿ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಪರಂಪರಾಗತವಾಗಿ ಬಂದ ಈ ಕ್ರಮವನ್ನು ಸಂರಕ್ಷಿಸುವ ದ್ರಷ್ಟಿಯಿಂದ ಮಂತ್ರಗಳನ್ನು ಈ ಶೈಲಿಯಲ್ಲಿ ಪ್ರಕಾಶಿಸುತ್ತಿದ್ದೇನೆ.
 
 <b>ಶೈಲಿ-೩:</b> ಪ್ರಾಯೋಗಿಕವಾಗಿ ಮೊತ್ತ ಮೊದಲ ಬಾರಿಗೆ ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗದಲ್ಲಿ ಉಪಯೋಗಕ್ಕೆ ಬರಬಹುದೆನ್ನುವ ಉದ್ದೇಶದಿಂದ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಾಂತ್ಯದಲ್ಲೂ ಸ್ವಾಹಾಕಾರ ವನ್ನು ಸೇರಿಸಿ ಮೂರನೇ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ರಚಿಸಿ ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ. ಇದಕ್ಕೆ ನಾನು ಶ್ರೀಯುತ ಕೌಂಜೂರು ಚಂದ್ರಶೇಖರ ಅಡಿಗರು ತಮ್ಮ ಋಗ್ವೇದ ಸಂಹಿತಾ ಪುಸ್ತದಲ್ಲಿ ಬರೆದ ಸೂತ್ರಗಳನ್ನು computer programming ಮೂಲಕ ರಚಿಸಿ ಸ್ವಾಹಾಕಾರವನ್ನು ಸೇರಿಸಿದ್ದೇನೆ.
 
-<b>ಶೈಲಿ-೪:</b>ಈ ಶೈಲಿಯಲ್ಲಿ ಪ್ರಯೋಗದ ದ್ರಷ್ಟಿಯಿಂದ ಸ್ವರಬದ್ದವಾಗಿ ಉಚ್ಚರಿಸಲು ಅನುಕೂಲವಾಗುವಂತೆ ಅಕ್ಷರಗಳನ್ನು ಗುಂಪಾಗಿಸಿ ಅವುಗಳನ್ನು ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಬಣ್ಣಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸಿದ್ದೇನೆ. ಈ ಮೂಲಕ ಸ್ವರಯುಕ್ತವಾದ ಉಚ್ಚಾರದ ಗತಿಯೂ ಹಾಗು ಅಕ್ಷರಜೋಡಣೆಯ ಗುಂಪೂ ಒಂದೇ ರೀತಿ ಇರುವುದರಿಂದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಲಿಯುವ ವೇಗ ಹೆಚ್ಚಾಗಬಹುದೆಂದು ನನ್ನ ನಂಬಿಕೆ.
+<b>ಶೈಲಿ-೪:</b> ಈ ಶೈಲಿಯಲ್ಲಿ ಪ್ರಯೋಗದ ದ್ರಷ್ಟಿಯಿಂದ ಸ್ವರಬದ್ದವಾಗಿ ಉಚ್ಚರಿಸಲು ಅನುಕೂಲವಾಗುವಂತೆ ಅಕ್ಷರಗಳನ್ನು ಗುಂಪಾಗಿಸಿ ಅವುಗಳನ್ನು ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಬಣ್ಣಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸಿದ್ದೇನೆ. ಈ ಮೂಲಕ ಸ್ವರಯುಕ್ತವಾದ ಉಚ್ಚಾರದ ಗತಿಯೂ ಹಾಗು ಅಕ್ಷರಜೋಡಣೆಯ ಗುಂಪೂ ಒಂದೇ ರೀತಿ ಇರುವುದರಿಂದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಲಿಯುವ ವೇಗ ಹೆಚ್ಚಾಗಬಹುದೆಂದು ನನ್ನ ನಂಬಿಕೆ.
 
 ## ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ  ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಗೆ ಭೇಟಿ ಕೊಡಿ
 
@@ -155,26 +155,22 @@
 
 **ಇತ್ತೀಚಿಗೆ ನಾನು [sanskritdocuments](https://sanskritdocuments.org/kannada/) ಸಂಸ್ಥೆಗೆ volunteer ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಅವರ ಜಾಲತಾಣದಲ್ಲಿ ಕೂಡ ಈ  ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು host ಮಾಡಿದ್ದೇನೆ. ಇದಕ್ಕಾಗಿ ಅವರಿಗೆ ನನ್ನ ಕೃತಜ್ಞತೆಗಳು.**
 
-**ಈ ಎಲ್ಲ ಪರಿಷ್ಕರಣೆಗಳಿಗೂ ಮೂಲ ಗಣಕೀಕೃತ  ITRANS ಫೈಲ್ ಗಳಿಗೆ ([ಇಲ್ಲಿ ನೋಡಿ ](https://sanskritdocuments.org/doc_veda)) programming ಮೂಲಕ ದೀರ್ಘ ಸ್ವರಿತ ಗಳನ್ನು ನಮೂದಿಸಿ ಕನ್ನಡ  ಹಾಗು ದೇವನಾಗರಿ ಭಾಷೆಗೆ transliterate ಮಾಡಿದ್ದೇನೆ.  ಈ ಪರಿಷ್ಕರಣೆಯ ಕೆಲಸಗಳಲ್ಲಿ ಕೆಲವನ್ನು computer programming ಮೂಲಕವೂ ಹಾಗು ಕೆಲವೊಂದನ್ನು type ಮಾಡಿ ಪ್ರಕಾಶನ ಮಾಡಬೇಕಾಗಿದೆ. ಇದು ನಿರಂತರ ನಡೆಯುವ ಕೆಲಸವಾಗಿರುತ್ತದೆ. ಇದರಲ್ಲಿ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವು ನನಗೆ ಬಹಳ ಮುಖ್ಯ. ನಿಮ್ಮ ಅನಿಸಿಕೆ ಅಭಿಪ್ರಾಯಗಳನ್ನು ನನಗೆ ಇಮೇಲ್ ಮೂಲಕ ತಿಳಿಸಿ.**
+**ಈ ಎಲ್ಲ ಪರಿಷ್ಕರಣೆಗಳಿಗೂ ಮೂಲ ಗಣಕೀಕೃತ  ITRANS ಫೈಲ್ ಗಳಿಗೆ ([ಇಲ್ಲಿ ನೋಡಿ ](https://sanskritdocuments.org/doc_veda)) programming ಮೂಲಕ ಪರಿಷ್ಕರಿಸಿ  ಕನ್ನಡ  ಹಾಗು ದೇವನಾಗರಿ ಭಾಷೆಗೆ transliterate ಮಾಡಿದ್ದೇನೆ.  ಈ  ಕೆಲಸದಲ್ಲಿ ಕೆಲವನ್ನು computer programming ಮೂಲಕವೂ ಹಾಗು ಕೆಲವೊಂದನ್ನು type ಮಾಡಿ ಪ್ರಕಾಶನ ಮಾಡಬೇಕಾಗಿದೆ. ಇದು ನಿರಂತರ ನಡೆಯುವ ಕೆಲಸವಾಗಿರುತ್ತದೆ. ಇದರಲ್ಲಿ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವು ನನಗೆ ಬಹಳ ಮುಖ್ಯ. ನಿಮ್ಮ ಅನಿಸಿಕೆ ಅಭಿಪ್ರಾಯಗಳನ್ನು ನನಗೆ ಇಮೇಲ್ ಮೂಲಕ ತಿಳಿಸಿ.**
 
 **ಈ ಕೆಲಸಕ್ಕೆ ನಾನು ಪರಿಶೀಲಿಸಿದ ಪುಸ್ತಕಗಳು**
 1.	[ಋಕ್ಸಂಹಿತೆ ನಿರ್ಣಯ ಸಾಗರ್ ಪ್ರೆಸ್ಸ್](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) 
-2.	[ವಿದ್ವದ್‌ಭ್ಯರ್ಥನಂ](https://archive.org/details/in.ernet.dli.2015.406020)) 
+2.	[ವಿದ್ವದ್‌ಭ್ಯರ್ಥನಂ](https://archive.org/details/in.ernet.dli.2015.406020)
 3.	[ಋಗ್ವೇದ ಸಂಹಿತಾ ದಾಮೋದರ ಸಾತ್ವಳೇಕರ್](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar)
 4.	[ಮಹರ್ಷಿ ಮಹೇಶ್ ಯೋಗಿ ಋಗ್ವೇದ ](http://vedicreserve.miu.edu/rk_veda.htm)
 
 ### Rigveda Text Enhancement
-**Completed work**
-1.	Programatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
-2.	In order to maintain the word clarity, programmatically enhanced each Richas with alternate color coding of words
-3.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. Ref to boooks ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), 
-
-**Ongoing work**
-1.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to [Rigveda Samhita Damodar Satavalekar](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar) and few Kannada Rigveda Samhita books and few based on my own convinience while learning.
-2.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
-3.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
-4.	In order to ease the chanting, the words are grouped and color coded. I found this extremely useful to speed up the learning process   
-5.	Proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
+1.	Programmatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
+2.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to [Rigveda Samhita Damodar Satavalekar](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar) and few Kannada Rigveda Samhita books and few based on my own convenience while learning.
+3.	In order to maintain the word clarity and ease of chanting maintaining accurate swara and Laya, programmatically enhanced each Richas with alternate color coding of relevant words
+4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. Ref to books ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), 
+5.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
+6.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
+7.	Ongoing work involves continuous improvement, proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
 
 **ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, USA <dithal29@gmail.com>**
 
