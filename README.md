@@ -11,7 +11,7 @@
 
 <b>ಶೈಲಿ-೩:</b> ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗದಲ್ಲಿ ಉಪಯೋಗಕ್ಕೆ ಬರಬಹುದೆನ್ನುವ ಉದ್ದೇಶದಿಂದ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಾಂತ್ಯದಲ್ಲೂ ಸ್ವಾಹಾಕಾರ ವನ್ನು ಸೇರಿಸಿ ಮೂರನೇ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ರಚಿಸಿ ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ. ಇದಕ್ಕೆ ನಾನು ಶ್ರೀಯುತ ಕೌಂಜೂರು ಚಂದ್ರಶೇಖರ ಅಡಿಗರು ತಮ್ಮ ಋಗ್ವೇದ ಸಂಹಿತಾ ಪುಸ್ತದಲ್ಲಿ ಬರೆದ ಸೂತ್ರಗಳನ್ನು computer programming ಮೂಲಕ ರಚಿಸಿ ಸ್ವಾಹಾಕಾರವನ್ನು ಸೇರಿಸಿದ್ದೇನೆ.
 
-<b>ಶೈಲಿ-೪:</b> ಪ್ರಾಯೋಗಿಕವಾಗಿ ಮೊತ್ತ ಮೊದಲ ಬಾರಿಗೆ ಮಂತ್ರಗಳಲ್ಲಿನ ಅಕ್ಷರಗಳನ್ನು ಸ್ವರಬದ್ದವಾಗಿ ಉಚ್ಚರಿಸುವ ಧಾಟಿಯಲ್ಲೇ ಗುಂಪು ಗುಂಪಾಗಿಸಿ, ಅವುಗಳನ್ನು ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಬಣ್ಣಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸಿದ್ದೇನೆ. ಈ ಮೂಲಕ ಸ್ವರಯುಕ್ತವಾದ ಉಚ್ಚಾರದ ಗತಿಯೂ ಹಾಗು ಅಕ್ಷರಜೋಡಣೆಯ ಗುಂಪೂ ಒಂದೇ ರೀತಿ ಇರುವುದರಿಂದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಲಿಯುವ ವೇಗ ಹೆಚ್ಚಾಗಬಹುದೆಂದು ನನ್ನ ನಂಬಿಕೆ. ನನ್ನ ಹೆಚ್ಚಿನ ಕೆಲಸವೂ ಇಲ್ಲಿ ನಡೆಯುತ್ತಿರುತ್ತದೆ. ಸ್ವತಃ ವೇದ ವಿದ್ಯಾರ್ಥಿಯಾದ ನಾನು, ಸೂಕ್ತಗಳನ್ನು ಕಲಿಯುತ್ತಾ ಮಂತ್ರಗಳ ಪರಿಷ್ಕರಿಸಿ ಇಲ್ಲಿ ಅಪ್ಲೋಡ್ ಮಾಡುತ್ತಿರುತ್ತೇನೆ
+<b>ಶೈಲಿ-೪:</b> ಪ್ರಾಯೋಗಿಕವಾಗಿ ಮೊತ್ತ ಮೊದಲ ಬಾರಿಗೆ ಸಂಹಿತಾ ಮಂತ್ರಗಳಲ್ಲಿನ ಪದಗಳನ್ನು ಸ್ವರಬದ್ದವಾಗಿ ಉಚ್ಚರಿಸುವ ಧಾಟಿಯಲ್ಲೇ ಗುಂಪಾಗಿಸಿ, ಅವುಗಳನ್ನು ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಬಣ್ಣಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸಿದ್ದೇನೆ. ಈ ಮೂಲಕ ಸ್ವರಯುಕ್ತವಾದ ಉಚ್ಚಾರದ ಗತಿಯೂ ಹಾಗು ಅಕ್ಷರಜೋಡಣೆಯ ಗುಂಪೂ ಒಂದೇ ರೀತಿ ಇರುವುದರಿಂದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಲಿಯುವ ವೇಗ ಹೆಚ್ಚಾಗಬಹುದೆಂದು ನನ್ನ ನಂಬಿಕೆ. ನನ್ನ ಹೆಚ್ಚಿನ ಕೆಲಸವು ಇಲ್ಲಿ ನಡೆಯುತ್ತಿರುತ್ತದೆ. ಸ್ವತಃ ವೇದ ವಿದ್ಯಾರ್ಥಿಯಾದ ನಾನು, ಸೂಕ್ತಗಳನ್ನು ಕಲಿಯುತ್ತಾ ಮಂತ್ರಗಳನ್ನು ಪರಿಷ್ಕರಿಸಿ ಇಲ್ಲಿ ಅಪ್ಲೋಡ್ ಮಾಡುತ್ತಿರುತ್ತೇನೆ.
 
 ## ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ  ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಗೆ ಭೇಟಿ ಕೊಡಿ
 
@@ -166,7 +166,7 @@
 ### Rigveda Text Enhancement
 1.	Programmatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
 2.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to [Rigveda Samhita Damodar Satavalekar](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar) and few Kannada Rigveda Samhita books and few based on my own convenience while learning.
-3.	In order to maintain the word clarity and ease of chanting maintaining accurate swara and Laya, programmatically enhanced each Richas with alternate color coding of relevant words
+3.	To maintain the word clarity and ease of chanting while preserving the accuracy of the swara and the laya, programmatically enhanced each Richas with alternate color coding of relevant words. Being a student of rigveda, I am constantly implementing this new method of "colored word grouping" as I progress through in my learning.
 4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. Ref to books ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), 
 5.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
 6.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
