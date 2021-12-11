@@ -144,11 +144,10 @@
 ### Rigveda Text Enhancement
 1.	Programmatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
 2.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to [Rigveda Samhita Damodar Satavalekar](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar) and few Kannada Rigveda Samhita books and few based on my own convenience while learning.
-3.	To maintain the word clarity and ease of chanting while preserving the accuracy of the swara and the laya, programmatically enhanced each Richas with alternate color coding of relevant words. Being a student of rigveda, I am constantly implementing this new method of "colored word grouping" as I progress through in my learning.
-4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. Ref to books ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), 
-5.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
-6.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
-7.	Ongoing work involves continuous improvement, proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
+3.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. Ref to books ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), 
+4.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
+5.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
+6.	Ongoing work involves continuous improvement, proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
 
 **ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, USA <dithal29@gmail.com>**
 
