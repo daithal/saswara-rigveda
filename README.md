@@ -1,7 +1,7 @@
 <center><h1 class="KannadaText">|| ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||</h1></center>
 ---
 ವೇದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸ್ವರ ಸಹಿತವಾದ (ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಗುರುತುಗಳಿರುವ ವೇದಮಂತ್ರವು ಉಚ್ಛಾರಕ್ಕೆ ಬಹಳ ಉಪಯುಕ್ತರವಾಗಿದ್ದು ಅದು ಇತ್ತೀಚಿನವರೆಗೂ ಕೇವಲ ಪುಸ್ತಕದ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಸಿಗುತ್ತಿದ್ದು ಅಂತರ್ಜಾಲದಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸ್ವರಸಹಿತವಾದ ಸಂಪೂರ್ಣ ಋಗ್ವೇದ ಸಂಹಿತೆಯು ಎಲ್ಲಿಯೂ ಲಭ್ಯವಿಲ್ಲ. ಸಂಹಿತಾ ಮಂತ್ರಗಳನ್ನು  ಡಿಜಿಟಲ್ ಮಾಧ್ಯಮದ ಮೂಲಕ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಎಲ್ಲರಿಗೂ ಎಲ್ಲ ಕಡೆಯಲ್ಲಿ ಸುಲಭವಾಗಿಯೂ ಉಚಿತವಾಗಿಯೂ ದೊರಕುವಂತೆ ಮಾಡಿದ ನನ್ನ ಈ ಸಣ್ಣ ಪ್ರಯತ್ನದ ಫಲವೇ ಈ ಜಾಲತಾಣ.
-ವ್ಯಾಕರಣ ಸಂಧಿರೀತ್ಯಾ ಕ್ಲಿಷ್ಟಕರವಾದ ಪದಗಳನ್ನು ಬಿಡಿಸಿ, ಸ್ವರ ಮತ್ತು ಲಯಬದ್ಧವಾಗಿ ಉಚ್ಚರಿಸಲು ಸಹಾಯವಾಗುವಂತೆ ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್ ಮೂಲಕ ಸರಳೀಕರಿಸಿ ಮೂರು ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಪುಟಗಳನ್ನು ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಹಾಗೂ ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಚಾಲ್ತಿಯಲ್ಲಿರುವಂತೆ ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
+ವ್ಯಾಕರಣ ಸಂಧಿರೀತ್ಯಾ ಕ್ಲಿಷ್ಟಕರವಾದ ಪದಗಳನ್ನು ಬಿಡಿಸಿ, ಸ್ವರ ಮತ್ತು ಲಯಬದ್ಧವಾಗಿ ಉಚ್ಚರಿಸಲು ಸಹಾಯವಾಗುವಂತೆ ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್ ಮೂಲಕ ಸರಳೀಕರಿಸಿ ನಾಲ್ಕು ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಪುಟಗಳನ್ನು ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಹಾಗೂ ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಚಾಲ್ತಿಯಲ್ಲಿರುವಂತೆ ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಪುಟಗಳನ್ನು ರಚಿಸಿದ್ದೇನೆ
 
 ## ಋಗ್ವೇದ ಮಂತ್ರಗಳ ಪರಿಷ್ಕರಣೆಯ ವಿವರಗಳು
 
@@ -11,11 +11,13 @@
 
 <b>ಶೈಲಿ-೩:</b> ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗದಲ್ಲಿ ಉಪಯೋಗಕ್ಕೆ ಬರಬಹುದೆನ್ನುವ ಉದ್ದೇಶದಿಂದ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಾಂತ್ಯದಲ್ಲೂ ಸ್ವಾಹಾಕಾರ ವನ್ನು ಸೇರಿಸಿ ಮೂರನೇ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ರಚಿಸಿ ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ. ಇದಕ್ಕೆ ನಾನು ಶ್ರೀಯುತ ಕೌಂಜೂರು ಚಂದ್ರಶೇಖರ ಅಡಿಗರು ತಮ್ಮ ಋಗ್ವೇದ ಸಂಹಿತಾ ಪುಸ್ತದಲ್ಲಿ ಬರೆದ ಸೂತ್ರಗಳನ್ನು computer programming ಮೂಲಕ ರಚಿಸಿ ಸ್ವಾಹಾಕಾರವನ್ನು ಸೇರಿಸಿದ್ದೇನೆ.
 
+<b>ಶೈಲಿ-೪:</b> ಪ್ರಾಯೋಗಿಕವಾಗಿ ಮೊತ್ತ ಮೊದಲ ಬಾರಿಗೆ ಸಂಹಿತಾ ಮಂತ್ರಗಳಲ್ಲಿನ ಪದಗಳನ್ನು ಸ್ವರಬದ್ದವಾಗಿ ಉಚ್ಚರಿಸುವ ಧಾಟಿಯಲ್ಲೇ ಗುಂಪಾಗಿಸಿ, ಅವುಗಳನ್ನು ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಬಣ್ಣಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸಿದ್ದೇನೆ. ಈ ಮೂಲಕ ಸ್ವರಯುಕ್ತವಾದ ಉಚ್ಚಾರದ ಗತಿಯೂ ಹಾಗು ಅಕ್ಷರಜೋಡಣೆಯ ಗುಂಪೂ ಒಂದೇ ರೀತಿ ಇರುವುದರಿಂದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಲಿಯುವ ವೇಗ ಹೆಚ್ಚಾಗಬಹುದೆಂದು ನನ್ನ ನಂಬಿಕೆ. ಸದ್ಯಕ್ಕೆ ೧ನೇ ಹಾಗೂ ೩ನೇ ಮಂಡಲದ ಮಂತ್ರಗಳಿಗೆ ಮಾತ್ರ ಈ ರೀತಿಯ ಪರಿಷ್ಕರಣೆ ಮಾಡಿದ್ದೇನೆ. ಆಸಕ್ತರ ಅಭಿಪ್ರಾಯದ ಮೇಲೆ ಉಳಿದ ಮಂಡಲಗಳಿಗೂ ಭವಿಷ್ಯದಲ್ಲಿ ಇದನ್ನು ವಿಸ್ತರಿಸುತ್ತೇನೆ 
+
 ## ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ  ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಗೆ ಭೇಟಿ ಕೊಡಿ
 
 <table style="width:100%">
 	<tr valign="top">
-		<td colspan="3">
+		<td colspan="4">
 			<h2>ಅಷ್ಟಕ ವರ್ಗೀಕರಣ</h2>
 		</td>
 	</tr>
@@ -23,52 +25,61 @@
 		<th>ಶೈಲಿ-1<br>(ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿರುವಂತದ್ದು)</th>
 		<th>ಶೈಲಿ-2<br>(ತಾಳೆಗರಿ/ಪತ್ರಾವಳಿ ರೀತಿ)</th>
 		<th>ಶೈಲಿ-3<br>(ಸ್ವಾಹಾಕಾರಯುಕ್ತ)</th>
+		<th>ಶೈಲಿ-4<br>(ಪರಿಷ್ಕರಿಸಿದ್ದು)</th>		
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-1.html">ಅಷ್ಟಕ-1</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-1.html">ಅಷ್ಟಕ-1</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-1.html">ಅಷ್ಟಕ-1</a></td>
+		<td>ಅಷ್ಟಕ-1</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-2.html">ಅಷ್ಟಕ-2</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-2.html">ಅಷ್ಟಕ-2</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-2.html">ಅಷ್ಟಕ-2</a></td>
+		<td>ಅಷ್ಟಕ-2</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-3.html">ಅಷ್ಟಕ-3</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-3.html">ಅಷ್ಟಕ-3</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-3.html">ಅಷ್ಟಕ-3</a></td>
+		<td>ಅಷ್ಟಕ-3</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-4.html">ಅಷ್ಟಕ-4</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-4.html">ಅಷ್ಟಕ-4</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-4.html">ಅಷ್ಟಕ-4</a></td>
+		<td>ಅಷ್ಟಕ-4</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-5.html">ಅಷ್ಟಕ-5</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-5.html">ಅಷ್ಟಕ-5</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-5.html">ಅಷ್ಟಕ-5</a></td>
+		<td>ಅಷ್ಟಕ-5</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-6.html">ಅಷ್ಟಕ-6</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-6.html">ಅಷ್ಟಕ-6</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-6.html">ಅಷ್ಟಕ-6</a></td>
+		<td>ಅಷ್ಟಕ-6</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-7.html">ಅಷ್ಟಕ-7</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-7.html">ಅಷ್ಟಕ-7</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-7.html">ಅಷ್ಟಕ-7</a></td>
+		<td>ಅಷ್ಟಕ-7</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-8.html">ಅಷ್ಟಕ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-8.html">ಅಷ್ಟಕ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-8.html">ಅಷ್ಟಕ-8</a></td>
+		<td>ಅಷ್ಟಕ-8</td>
 	</tr>
 </table>
 
 <table style="width:100%">
 	<tr valign="top">
-		<td colspan="3">
+		<td colspan="4">
 			<h2>ಮಂಡಲ ವರ್ಗೀಕರಣ</h2>
 		</td>
 	</tr>
@@ -76,56 +87,67 @@
 		<th>ಶೈಲಿ-1<br>(ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿರುವಂತದ್ದು)</th>
 		<th>ಶೈಲಿ-2<br>(ತಾಳೆಗರಿ/ಪತ್ರಾವಳಿ ರೀತಿ)</th>
 		<th>ಶೈಲಿ-3<br>(ಸ್ವಾಹಾಕಾರಯುಕ್ತ)</th>
+		<th>ಶೈಲಿ-4<br>(ಪರಿಷ್ಕರಿಸಿದ್ದು)</th>	
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-1.html">ಮಂಡಲ-1</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-1.html">ಮಂಡಲ-1</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-1.html">ಮಂಡಲ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-1.html">ಮಂಡಲ-1</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-2.html">ಮಂಡಲ-2</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-2.html">ಮಂಡಲ-2</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-2.html">ಮಂಡಲ-2</a></td>
+		<td>ಮಂಡಲ-2</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-3.html">ಮಂಡಲ-3</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-3.html">ಮಂಡಲ-3</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-3.html">ಮಂಡಲ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-3.html">ಮಂಡಲ-3</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-4.html">ಮಂಡಲ-4</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-4.html">ಮಂಡಲ-4</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-4.html">ಮಂಡಲ-4</a></td>
+		<td>ಮಂಡಲ-4</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-5.html">ಮಂಡಲ-5</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-5.html">ಮಂಡಲ-5</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-5.html">ಮಂಡಲ-5</a></td>
+		<td>ಮಂಡಲ-5</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-6.html">ಮಂಡಲ-6</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-6.html">ಮಂಡಲ-6</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-6.html">ಮಂಡಲ-6</a></td>
+		<td>ಮಂಡಲ-6</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-7.html">ಮಂಡಲ-7</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-7.html">ಮಂಡಲ-7</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-7.html">ಮಂಡಲ-7</a></td>
+		<td>ಮಂಡಲ-7</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-8.html">ಮಂಡಲ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-8.html">ಮಂಡಲ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-8.html">ಮಂಡಲ-8</a></td>
+		<td>ಮಂಡಲ-8</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-9.html">ಮಂಡಲ-9</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-9.html">ಮಂಡಲ-9</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-9.html">ಮಂಡಲ-9</a></td>
+		<td>ಮಂಡಲ-9</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-10.html">ಮಂಡಲ-10</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-10.html">ಮಂಡಲ-10</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-10.html">ಮಂಡಲ-10</a></td>
+		<td>ಮಂಡಲ-10</td>
 	</tr>
 </table>
 
@@ -144,10 +166,11 @@
 ### Rigveda Text Enhancement
 1.	Programmatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
 2.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to [Rigveda Samhita Damodar Satavalekar](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar) and few Kannada Rigveda Samhita books and few based on my own convenience while learning.
-3.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. Ref to books ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), 
-4.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
-5.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
-6.	Ongoing work involves continuous improvement, proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
+3.	To maintain the word clarity and ease of chanting while preserving the accuracy of the swara and the laya, programmatically enhanced each Richas with alternate color coding of relevant words. Being a student of rigveda, I am constantly implementing this new method of "colored word grouping" as I progress through in my learning.
+4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. Ref to books ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), 
+5.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
+6.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
+7.	Ongoing work involves continuous improvement, proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
 
 **ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, USA <dithal29@gmail.com>**
 
