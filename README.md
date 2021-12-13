@@ -11,7 +11,8 @@
 
 <b>ಶೈಲಿ-೩:</b> ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗದಲ್ಲಿ ಉಪಯೋಗಕ್ಕೆ ಬರಬಹುದೆನ್ನುವ ಉದ್ದೇಶದಿಂದ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಾಂತ್ಯದಲ್ಲೂ ಸ್ವಾಹಾಕಾರ ವನ್ನು ಸೇರಿಸಿ ಮೂರನೇ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ರಚಿಸಿ ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ. ಇದಕ್ಕೆ ನಾನು ಶ್ರೀಯುತ ಕೌಂಜೂರು ಚಂದ್ರಶೇಖರ ಅಡಿಗರು ತಮ್ಮ ಋಗ್ವೇದ ಸಂಹಿತಾ ಪುಸ್ತದಲ್ಲಿ ಬರೆದ ಸೂತ್ರಗಳನ್ನು computer programming ಮೂಲಕ ರಚಿಸಿ ಸ್ವಾಹಾಕಾರವನ್ನು ಸೇರಿಸಿದ್ದೇನೆ.
 
-<b>ಶೈಲಿ-೪:</b> ಪ್ರಾಯೋಗಿಕವಾಗಿ ಮೊತ್ತ ಮೊದಲ ಬಾರಿಗೆ ಸಂಹಿತಾ ಮಂತ್ರಗಳಲ್ಲಿನ ಪದಗಳನ್ನು ಸ್ವರಬದ್ದವಾಗಿ ಉಚ್ಚರಿಸುವ ಧಾಟಿಯಲ್ಲೇ ಗುಂಪಾಗಿಸಿ, ಅವುಗಳನ್ನು ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಬಣ್ಣಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸಿದ್ದೇನೆ. ಈ ಮೂಲಕ ಸ್ವರಯುಕ್ತವಾದ ಉಚ್ಚಾರದ ಗತಿಯೂ ಹಾಗು ಅಕ್ಷರಜೋಡಣೆಯ ಗುಂಪೂ ಒಂದೇ ರೀತಿ ಇರುವುದರಿಂದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಲಿಯುವ ವೇಗ ಹೆಚ್ಚಾಗಬಹುದೆಂದು ನನ್ನ ನಂಬಿಕೆ. ಸದ್ಯಕ್ಕೆ ೧ನೇ ಹಾಗೂ ೩ನೇ ಮಂಡಲದ ಮಂತ್ರಗಳಿಗೆ ಮಾತ್ರ ಈ ರೀತಿಯ ಪರಿಷ್ಕರಣೆ ಮಾಡಿದ್ದೇನೆ. ಆಸಕ್ತರ ಅಭಿಪ್ರಾಯದ ಮೇಲೆ ಉಳಿದ ಮಂಡಲಗಳಿಗೂ ಭವಿಷ್ಯದಲ್ಲಿ ಇದನ್ನು ವಿಸ್ತರಿಸುತ್ತೇನೆ 
+<b>ಶೈಲಿ-೪:</b> ವೇದೋಚ್ಚಾರಣೆ ಮಾಡುವಾಗ ಗಮನಿಸಿರಬಹುದು, ಕ್ಲಿಷ್ಟಕರವಾದ ಅಥವಾ ಹೆಚ್ಚು ಅಕ್ಷರಗಳುಳ್ಳ ಮಂತ್ರಗಳನ್ನು ಉಚ್ಚರಿಸುವ ಸಂದರ್ಭದಲ್ಲಿ, ಸ್ವರ ಮತ್ತು ಲಯಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಅಕ್ಷರಗಳನ್ನು ಒಮ್ಮೊಮ್ಮೆ ಬೇರ್ಪಡಿಸಿ ಹಾಗೂ ಕೆಲವೊಮ್ಮೆ ಪದಸಂಯೋಜಿಸಿ ಒಂದು ಗತಿಯಲ್ಲಿ ಹೇಳುತ್ತಿರುತ್ತಾರೆ. ಪ್ರಸಕ್ತ ವೇದ ಪುಸ್ತದಲ್ಲಿಯಾಗಲಿ ಅಥವಾ  ತಾಳೇಗರಿಗಳಲ್ಲಾಗಲೀ ಈ ವಿವರಗಳು ಲಭ್ಯವಿಲ್ಲ ಹಾಗಾಗಿ ಇವುಗಳನ್ನು ನೋಡಿ ಕಲಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಕಲಿಯುವವರು ಗುರುಮುಖೇನ ಕಠಿಣ ಪರಿಶ್ರಮದಿಂದ ಹಲವು ಕಾಲ ಮೇಲಿಂದ ಮೇಲೆ ಉಚ್ಛರಿಸುತ್ತಾ ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊಳ್ಳುತ್ತಾರೆ. 
+ಪ್ರಾಯೋಗಿಕವಾಗಿ ಸಂಹಿತಾ ಮಂತ್ರಗಳಲ್ಲಿನ ಪದಗಳನ್ನು ಸ್ವರಬದ್ದವಾಗಿ ಉಚ್ಚರಿಸುವ ಧಾಟಿಯಲ್ಲೇ ಗುಂಪಾಗಿಸಿ, ಅವುಗಳನ್ನು ಕಪ್ಪು ಮತ್ತು ಕೆಂಪು ಬಣ್ಣಗಳಿಂದ ಪ್ರತ್ಯೇಕಿಸಿ ತೋರಿಸುವ ಒಂದು ಪ್ರಯತ್ನವನ್ನು ನಾನು ಇಲ್ಲಿ ಮಾಡಿದ್ದೇನೆ. ಈ ಮೂಲಕ ಸ್ವರಯುಕ್ತವಾದ ಉಚ್ಚಾರದ ಗತಿಯೂ ಹಾಗು ಅಕ್ಷರಜೋಡಣೆಯ ಗುಂಪೂ ಒಂದೇ ರೀತಿ ಇರುವುದರಿಂದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಕಲಿಯುವ ವೇಗ ಹೆಚ್ಚಾಗಬಹುದೆಂದು ನನ್ನ ನಂಬಿಕೆ. ಗುರುಮುಖೇನ ಕಲಿಯುವಾಗ ಸ್ವರ ಜ್ಞಾನ ಅರಿತು ಒಂದು ಹಂತ ತಲುಪಿದ ಮೇಲೆ ಈ ಶೈಲಿಯನ್ನು ನೋಡಿದರೆ ಹೆಚ್ಚು ಪರಿಶ್ರಮವಿಲ್ಲದೆ ಕಲಿಯಬಹುದು ಎಂದು ನನ್ನ ಅನಿಸಿಕೆ. ಸದ್ಯಕ್ಕೆ ೧ನೇ ಹಾಗೂ ೩ನೇ ಮಂಡಲದ ಮಂತ್ರಗಳಿಗೆ ಮಾತ್ರ ಈ ರೀತಿಯ ಪರಿಷ್ಕರಣೆ ಮಾಡಿದ್ದೇನೆ. ಆಸಕ್ತರ ಅಭಿಪ್ರಾಯದ ಮೇಲೆ ಉಳಿದ ಮಂಡಲಗಳಿಗೂ ಭವಿಷ್ಯದಲ್ಲಿ ಇದನ್ನು ವಿಸ್ತರಿಸುತ್ತೇನೆ.
 
 ## ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ  ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಗೆ ಭೇಟಿ ಕೊಡಿ
 
@@ -31,7 +32,7 @@
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-1.html">ಅಷ್ಟಕ-1</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-1.html">ಅಷ್ಟಕ-1</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-1.html">ಅಷ್ಟಕ-1</a></td>
-		<td>ಅಷ್ಟಕ-1</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-1.html">ಅಷ್ಟಕ-1</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-2.html">ಅಷ್ಟಕ-2</a></td>
@@ -43,7 +44,7 @@
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-3.html">ಅಷ್ಟಕ-3</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-3.html">ಅಷ್ಟಕ-3</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-3.html">ಅಷ್ಟಕ-3</a></td>
-		<td>ಅಷ್ಟಕ-3</a></td>
+		<td>ಅಷ್ಟಕ-3</td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-4.html">ಅಷ್ಟಕ-4</a></td>
@@ -166,10 +167,10 @@
 ### Rigveda Text Enhancement
 1.	Programmatically added dIrghasvarita to the [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
 2.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters. For this I am referring to [Rigveda Samhita Damodar Satavalekar](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar) and few Kannada Rigveda Samhita books and few based on my own convenience while learning.
-3.	To maintain the word clarity and ease of chanting while preserving the accuracy of the swara and the laya, programmatically enhanced each Richas with alternate color coding of relevant words. Being a student of rigveda, I am constantly implementing this new method of "colored word grouping" as I progress through in my learning.
-4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. Ref to books ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), 
-5.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
-6.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
+3.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. Ref to books ([NirnaySagar](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) and [source-2](https://archive.org/details/in.ernet.dli.2015.406020)), 
+4.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective. For this I am referring to Rigveda source by [Maharishi Mahesh Yogi](http://vedicreserve.miu.edu/rk_veda.htm)
+5.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
+6.	Vedic students may have noticed during chanting complex letter and words are separated and combined in a specific pattern to match the swara and laya. Currently none of the Vedic books or manuscripts clearly specify this notation and it takes long time for students to figure out and learn. As an experiment, in order to speed up the learning process, I have implemented a method to group and display the words in the mantra exactly in a manner as they are being chanted while preserving the accuracy of the swara and the laya. To distinguish the words, alternate words colored in black and red. As the ultimate objective is to quicky learn and memorize the mantras, I am assuming this will greatly increase the overall time taken by the students to learn and chant the mantras. Please note this is still work in progress and I have applied this method for Mandala 1 and 3 showing in the column #4 in the above table.
 7.	Ongoing work involves continuous improvement, proof reading and enhancements. For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
 
 **ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, USA <dithal29@gmail.com>**
