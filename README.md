@@ -11,7 +11,7 @@
 
 <b>ಶೈಲಿ-೩:</b> ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗದಲ್ಲಿ ಉಪಯೋಗಕ್ಕೆ ಬರಬಹುದೆನ್ನುವ ಉದ್ದೇಶದಿಂದ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಾಂತ್ಯದಲ್ಲೂ ಸ್ವಾಹಾಕಾರ ವನ್ನು ಸೇರಿಸಿ ಮೂರನೇ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ರಚಿಸಿ ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ. ಇದಕ್ಕೆ ನಾನು ಶ್ರೀಯುತ ಕೌಂಜೂರು ಚಂದ್ರಶೇಖರ ಅಡಿಗರು ತಮ್ಮ ಋಗ್ವೇದ ಸಂಹಿತಾ ಪುಸ್ತದಲ್ಲಿ ಬರೆದ ಸೂತ್ರಗಳನ್ನು computer programming ಮೂಲಕ ರಚಿಸಿ ಸ್ವಾಹಾಕಾರವನ್ನು ಸೇರಿಸಿದ್ದೇನೆ.
 
-<b>ಶೈಲಿ-೪:</b> ಕಲಿಯುವರಿಗಾಗಿ ಈ ಶೈಲಿಯನ್ನು ರಚಿಸಿದ್ದೇನೆ
+<b>ಶೈಲಿ-೪:</b> ಕಲಿಯುವರಿಗಾಗಿ ಈ ಶೈಲಿಯನ್ನು ರಚಿಸಿದ್ದೇನೆ.
 
 ## ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಸಂಪೂರ್ಣ ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ  ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಗೆ ಭೇಟಿ ಕೊಡಿ
 
@@ -25,7 +25,7 @@
 		<th>ಶೈಲಿ-1<br>(ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿರುವಂತದ್ದು)</th>
 		<th>ಶೈಲಿ-2<br>(ತಾಳೆಗರಿ/ಪತ್ರಾವಳಿ ರೀತಿ)</th>
 		<th>ಶೈಲಿ-3<br>(ಸ್ವಾಹಾಕಾರಯುಕ್ತ)</th>
-		<th>ಶೈಲಿ-4<br>(ಪರಿಷ್ಕರಿಸಿದ್ದು)</th>		
+		<th>ಶೈಲಿ-4<br>(ಕಲಿಯುವರಿಗಾಗಿ)</th>		
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-1.html">ಅಷ್ಟಕ-1</a></td>
@@ -37,43 +37,43 @@
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-2.html">ಅಷ್ಟಕ-2</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-2.html">ಅಷ್ಟಕ-2</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-2.html">ಅಷ್ಟಕ-2</a></td>
-		<td>ಅಷ್ಟಕ-2</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-2.html">ಅಷ್ಟಕ-2</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-3.html">ಅಷ್ಟಕ-3</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-3.html">ಅಷ್ಟಕ-3</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-3.html">ಅಷ್ಟಕ-3</a></td>
-		<td>ಅಷ್ಟಕ-3</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-3.html">ಅಷ್ಟಕ-3</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-4.html">ಅಷ್ಟಕ-4</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-4.html">ಅಷ್ಟಕ-4</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-4.html">ಅಷ್ಟಕ-4</a></td>
-		<td>ಅಷ್ಟಕ-4</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-4.html">ಅಷ್ಟಕ-4</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-5.html">ಅಷ್ಟಕ-5</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-5.html">ಅಷ್ಟಕ-5</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-5.html">ಅಷ್ಟಕ-5</a></td>
-		<td>ಅಷ್ಟಕ-5</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-5.html">ಅಷ್ಟಕ-5</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-6.html">ಅಷ್ಟಕ-6</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-6.html">ಅಷ್ಟಕ-6</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-6.html">ಅಷ್ಟಕ-6</a></td>
-		<td>ಅಷ್ಟಕ-6</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-6.html">ಅಷ್ಟಕ-6</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-7.html">ಅಷ್ಟಕ-7</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-7.html">ಅಷ್ಟಕ-7</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-7.html">ಅಷ್ಟಕ-7</a></td>
-		<td>ಅಷ್ಟಕ-7</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-7.html">ಅಷ್ಟಕ-7</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-8.html">ಅಷ್ಟಕ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-8.html">ಅಷ್ಟಕ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-8.html">ಅಷ್ಟಕ-8</a></td>
-		<td>ಅಷ್ಟಕ-8</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-8.html">ಅಷ್ಟಕ-8</a></td>
 	</tr>
 </table>
 
@@ -87,7 +87,7 @@
 		<th>ಶೈಲಿ-1<br>(ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿರುವಂತದ್ದು)</th>
 		<th>ಶೈಲಿ-2<br>(ತಾಳೆಗರಿ/ಪತ್ರಾವಳಿ ರೀತಿ)</th>
 		<th>ಶೈಲಿ-3<br>(ಸ್ವಾಹಾಕಾರಯುಕ್ತ)</th>
-		<th>ಶೈಲಿ-4<br>(ಪರಿಷ್ಕರಿಸಿದ್ದು)</th>	
+		<th>ಶೈಲಿ-4<br>(ಕಲಿಯುವರಿಗಾಗಿ)</th>	
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-1.html">ಮಂಡಲ-1</a></td>
@@ -99,7 +99,7 @@
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-2.html">ಮಂಡಲ-2</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-2.html">ಮಂಡಲ-2</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-2.html">ಮಂಡಲ-2</a></td>
-		<td>ಮಂಡಲ-2</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-2.html">ಮಂಡಲ-2</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-3.html">ಮಂಡಲ-3</a></td>
@@ -111,45 +111,46 @@
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-4.html">ಮಂಡಲ-4</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-4.html">ಮಂಡಲ-4</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-4.html">ಮಂಡಲ-4</a></td>
-		<td>ಮಂಡಲ-4</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-4.html">ಮಂಡಲ-4</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-5.html">ಮಂಡಲ-5</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-5.html">ಮಂಡಲ-5</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-5.html">ಮಂಡಲ-5</a></td>
-		<td>ಮಂಡಲ-5</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-5.html">ಮಂಡಲ-5</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-6.html">ಮಂಡಲ-6</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-6.html">ಮಂಡಲ-6</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-6.html">ಮಂಡಲ-6</a></td>
-		<td>ಮಂಡಲ-6</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-6.html">ಮಂಡಲ-6</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-7.html">ಮಂಡಲ-7</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-7.html">ಮಂಡಲ-7</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-7.html">ಮಂಡಲ-7</a></td>
-		<td>ಮಂಡಲ-7</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-7.html">ಮಂಡಲ-7</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-8.html">ಮಂಡಲ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-8.html">ಮಂಡಲ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-8.html">ಮಂಡಲ-8</a></td>
-		<td>ಮಂಡಲ-8</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-8.html">ಮಂಡಲ-8</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-9.html">ಮಂಡಲ-9</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-9.html">ಮಂಡಲ-9</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-9.html">ಮಂಡಲ-9</a></td>
-		<td>ಮಂಡಲ-9</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-9.html">ಮಂಡಲ-9</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-10.html">ಮಂಡಲ-10</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-10.html">ಮಂಡಲ-10</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-10.html">ಮಂಡಲ-10</a></td>
-		<td>ಮಂಡಲ-10</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-10.html">ಮಂಡಲ-10</a></td>
 	</tr>
 </table>
+
 
 **ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ.  ಈ ಪೇಜ್ ಗಳನ್ನು ವೀಕ್ಷಿಸುವಾಗ internet connection ಇರಲೇಬೇಕು . ಈ HTML ಫೈಲ್ ಗಳನ್ನು  ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ save ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!**
 
