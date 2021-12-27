@@ -177,8 +177,8 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 **ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, USA <dithal29@gmail.com>**
 
 ## ಆಯ್ದ ಸಸ್ವರ ಋಗ್ವೇದ ಸೂಕ್ತಗಳು
-1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruShasUkta.html">ಪುರುಷ ಸೂಕ್ತ</a>
-2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshasUkta.html">ಗಣೇಶ ಸೂಕ್ತ</a>
+1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta.html">ಪುರುಷ ಸೂಕ್ತ</a>
+2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta.html">ಗಣೇಶ ಸೂಕ್ತ</a>
 3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta.html">ವಿಷ್ಣು ಸೂಕ್ತ</a>
 4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta.html">ಪಂಚರುದ್ರ ಸೂಕ್ತ</a>
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta.html">ದೇವೀ ಸೂಕ್ತ</a>
