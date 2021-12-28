@@ -176,7 +176,7 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 
 **ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, USA <dithal29@gmail.com>**
 
-## ಆಯ್ದ ಸಸ್ವರ ಋಗ್ವೇದ ಸೂಕ್ತಗಳು
+## ಆಯ್ದ ಸಸ್ವರ ಋಗ್ವೇದ ಮಂತ್ರಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta.html">ಪುರುಷ ಸೂಕ್ತ</a>
 2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta.html">ಗಣೇಶ ಸೂಕ್ತ</a>
 3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta.html">ವಿಷ್ಣು ಸೂಕ್ತ</a>
@@ -184,5 +184,6 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta.html">ದೇವೀ ಸೂಕ್ತ</a>
 6.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
 7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
+8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನ ಋಕ್ ಮಂತ್ರಗಳು</a>
 
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
