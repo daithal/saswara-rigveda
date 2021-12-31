@@ -1,6 +1,6 @@
 <center><h1 class="KannadaText">|| ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||</h1></center>
 ---
-ಸ್ವರ ಸಹಿತವಾದ (ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಸಂಹಿತಾ ಮಂತ್ರಗಳನ್ನು ಡಿಜಿಟಲ್ ಮಾಧ್ಯಮದ ಮೂಲಕ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಎಲ್ಲರಿಗೂ ಎಲ್ಲ ಕಡೆಯಲ್ಲಿ ಸುಲಭವಾಗಿಯೂ ಉಚಿತವಾಗಿಯೂ ದೊರಕುವಂತೆ ಮಾಡಿದ ನನ್ನ ಈ ಸಣ್ಣ ಪ್ರಯತ್ನದ ಫಲವೇ ಈ ಜಾಲತಾಣ. ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಚಾಲ್ತಿಯಲ್ಲಿರುವಂತೆ ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಗಣಕೀಕೃತವಾಗಿ (ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್) ಮೂಲಕ ಅಕ್ಷರಗಳಿಗೆ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ನಾಲ್ಕು ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಪುಟಗಳನ್ನು ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ.
+ಸ್ವರ ಸಹಿತವಾದ (ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಸಂಹಿತಾ ಮಂತ್ರಗಳನ್ನು ಡಿಜಿಟಲ್ ಮಾಧ್ಯಮದ ಮೂಲಕ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಎಲ್ಲರಿಗೂ ದೊರಕುವಂತೆ ಮಾಡಿದ ನನ್ನ ಪ್ರಯತ್ನವೇ ಈ ಜಾಲತಾಣ. ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಚಾಲ್ತಿಯಲ್ಲಿರುವಂತೆ ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಗಣಕೀಕೃತವಾಗಿ (ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್) ಮೂಲಕ ಅಕ್ಷರಗಳಿಗೆ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ನಾಲ್ಕು ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಪುಟಗಳನ್ನು ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ.
 
 ## ಋಗ್ವೇದ ಮಂತ್ರಗಳ ಪರಿಷ್ಕರಣೆಯ ವಿವರಗಳು
 
@@ -165,11 +165,11 @@
 6.	ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ, ರಾಮಕೃಷ್ಣ ಮಠ, ಬೆಂಗಳೂರು
 
 ### Rigveda Text Enhancement
-1.	Programmatically added dIrghasvarita to the ITRANS [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari
+1.	Programmatically added dIrghasvarita to the ITRANS [ITX](https://sanskritdocuments.org/doc_veda/) files and transliterated to Kannada and Devanagari.
 2.	Splitting few lengthy compound words based on Sandhi rules to make it easier for chanters.
-3.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs. 
+3.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs.
 4.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective.
-5.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas
+5.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas.
 6.	Ongoing work involves continuous improvement, proof reading and enhancements. 
 
 For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
@@ -184,6 +184,6 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta.html">ದೇವೀ ಸೂಕ್ತ</a>
 6.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
 7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
-8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನ ಋಕ್ ಮಂತ್ರಗಳು</a>
+8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
 
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
