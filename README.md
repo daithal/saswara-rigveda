@@ -156,7 +156,7 @@
 
 **ಈ ಎಲ್ಲ ಪರಿಷ್ಕರಣೆಗಳಿಗೂ ಮೂಲ ಗಣಕೀಕೃತ  ITRANS ಫೈಲ್ ಗಳಿಗೆ ([ಇಲ್ಲಿ ನೋಡಿ ](https://sanskritdocuments.org/doc_veda)) programming ಮೂಲಕ ಪರಿಷ್ಕರಿಸಿ  ಕನ್ನಡ  ಹಾಗು ದೇವನಾಗರಿ ಭಾಷೆಗೆ transliterate ಮಾಡಿದ್ದೇನೆ.  ಈ  ಕೆಲಸದಲ್ಲಿ ಕೆಲವನ್ನು computer programming ಮೂಲಕವೂ ಹಾಗು ಕೆಲವೊಂದನ್ನು type ಮಾಡಿ ಪ್ರಕಾಶನ ಮಾಡಬೇಕಾಗಿದೆ. ಇದು ನಿರಂತರ ನಡೆಯುವ ಕೆಲಸವಾಗಿರುತ್ತದೆ. ಇದರಲ್ಲಿ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವು ನನಗೆ ಬಹಳ ಮುಖ್ಯ. ನಿಮ್ಮ ಅನಿಸಿಕೆ ಅಭಿಪ್ರಾಯಗಳನ್ನು ನನಗೆ ಇಮೇಲ್ ಮೂಲಕ ತಿಳಿಸಿ.**
 
-**ಈ ಎಲ್ಲಾ ಕಾರ್ಯಗಳಿಗೆ  ನಾನು ಪರಿಶೀಲಿಸಿದ ಪುಸ್ತಕಗಳು (References) **
+**ಈ ಎಲ್ಲಾ ಕಾರ್ಯಗಳಿಗೆ  ನಾನು ಪರಿಶೀಲಿಸಿದ ಪುಸ್ತಕಗಳು (References)**
 1.	[ಋಕ್ಸಂಹಿತೆ ನಿರ್ಣಯ ಸಾಗರ್ ಪ್ರೆಸ್ಸ್](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) 
 2.	[ವಿದ್ವದ್‌ಭ್ಯರ್ಥನಂ](https://archive.org/details/in.ernet.dli.2015.406020)
 3.	[ಋಗ್ವೇದ ಸಂಹಿತಾ ದಾಮೋದರ ಸಾತ್ವಳೇಕರ್](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar)
