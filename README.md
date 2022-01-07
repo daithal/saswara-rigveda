@@ -159,7 +159,7 @@
 
 ### ಈ ಎಲ್ಲಾ ಕಾರ್ಯಗಳಿಗೆ  ನಾನು ಪರಿಶೀಲಿಸಿದ ಪುಸ್ತಕಗಳು (References)
 1.	[ಋಕ್ಸಂಹಿತೆ ನಿರ್ಣಯ ಸಾಗರ್ ಪ್ರೆಸ್ಸ್](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) 
-2.	[ವಿದ್ವದ್‌ಭ್ಯರ್ಥನಂ](https://archive.org/details/in.ernet.dli.2015.406020)
+2.	[ಋಗ್ವೇದಸಂಹಿತಾ (ವಿದ್ವಧ್ಬ್ಯರ್ಥನಂ)](https://archive.org/details/in.ernet.dli.2015.406020)
 3.	[ಋಗ್ವೇದ ಸಂಹಿತಾ ದಾಮೋದರ ಸಾತ್ವಳೇಕರ್](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar)
 4.	[ಮಹರ್ಷಿ ಮಹೇಶ್ ಯೋಗಿ ಋಗ್ವೇದ ](http://vedicreserve.miu.edu/rk_veda.htm)
 5.	ಋಗ್ವೇದಸಂಹಿತಾ (ಶಾಕಲಶಾಖೀಯಾ) ಶ್ರೀಯುತ ಕೌಂಜೂರು ಚಂದ್ರಶೇಖರ ಅಡಿಗರು
