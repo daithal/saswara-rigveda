@@ -155,8 +155,6 @@
 
 **ಇತ್ತೀಚಿಗೆ ನಾನು [sanskritdocuments](https://sanskritdocuments.org/kannada/) ಸಂಸ್ಥೆಗೆ volunteer ಆಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾ ಅವರ ಜಾಲತಾಣದಲ್ಲಿ ಕೂಡ ಈ  ವೆಬ್ ಪೇಜ್ ಗಳನ್ನು host ಮಾಡಿದ್ದೇನೆ. ಇದಕ್ಕಾಗಿ ಅವರಿಗೆ ನನ್ನ ಕೃತಜ್ಞತೆಗಳು.**
 
-**ಈ ಎಲ್ಲ ಪರಿಷ್ಕರಣೆಗಳಿಗೂ ಮೂಲ ಗಣಕೀಕೃತ  ITRANS ಫೈಲ್ ಗಳಿಗೆ ([ಇಲ್ಲಿ ನೋಡಿ ](https://sanskritdocuments.org/doc_veda)) programming ಮೂಲಕ ಪರಿಷ್ಕರಿಸಿ  ಕನ್ನಡ  ಹಾಗು ದೇವನಾಗರಿ ಭಾಷೆಗೆ transliterate ಮಾಡಿದ್ದೇನೆ.  ಈ  ಕೆಲಸದಲ್ಲಿ ಕೆಲವನ್ನು computer programming ಮೂಲಕವೂ ಹಾಗು ಕೆಲವೊಂದನ್ನು type ಮಾಡಿ ಪ್ರಕಾಶನ ಮಾಡಬೇಕಾಗಿದೆ. ಇದು ನಿರಂತರ ನಡೆಯುವ ಕೆಲಸವಾಗಿರುತ್ತದೆ. ಇದರಲ್ಲಿ ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವು ನನಗೆ ಬಹಳ ಮುಖ್ಯ. ನಿಮ್ಮ ಅನಿಸಿಕೆ ಅಭಿಪ್ರಾಯಗಳನ್ನು ನನಗೆ ಇಮೇಲ್ ಮೂಲಕ ತಿಳಿಸಿ.**
-
 ### ಈ ಎಲ್ಲಾ ಕಾರ್ಯಗಳಿಗೆ  ನಾನು ಪರಿಶೀಲಿಸಿದ ಪುಸ್ತಕಗಳು (References)
 1.	[ಋಕ್ಸಂಹಿತೆ ನಿರ್ಣಯ ಸಾಗರ್ ಪ್ರೆಸ್ಸ್](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) 
 2.	[ಋಗ್ವೇದಸಂಹಿತಾ (ವಿದ್ವಧ್ಬ್ಯರ್ಥನಂ)](https://archive.org/details/in.ernet.dli.2015.406020)
