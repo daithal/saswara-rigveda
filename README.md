@@ -183,7 +183,7 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta.html">ದೇವೀ ಸೂಕ್ತ</a>
 6.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
 7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(kannada).html">ಶ್ರೀ ಸೂಕ್ತ</a>
-8	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
+8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
 9.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
 10.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/Panchayatana(Kannada).html">ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
 
