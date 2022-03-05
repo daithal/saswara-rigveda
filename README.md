@@ -158,7 +158,7 @@
 ### ಈ ಎಲ್ಲಾ ಕಾರ್ಯಗಳಿಗೆ  ನಾನು ಪರಿಶೀಲಿಸಿದ ಪುಸ್ತಕಗಳು (References)
 1.	[ಋಕ್ಸಂಹಿತೆ ನಿರ್ಣಯ ಸಾಗರ್ ಪ್ರೆಸ್ಸ್](https://archive.org/details/RikSamhitaDamagedAndTornNirnayaSagarPress/page/n115/mode/2up) 
 2.	[ಋಗ್ವೇದಸಂಹಿತಾ (ವಿದ್ವಧ್ಬ್ಯರ್ಥನಂ)](https://archive.org/details/in.ernet.dli.2015.406020)
-3.	[ಋಗ್ವೇದ ಸಂಹಿತಾ ದಾಮೋದರ ಸಾತ್ವಳೇಕರ್](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar)
+3.	[ಋಗ್ವೇದ ಸಂಹಿತಾ ದಾಮೋದರ  ಸಾತ್ವಾಳೇಕರ್](https://archive.org/details/OhON_rigveda-samhita-damodar-satavalekar)
 4.	[ಮಹರ್ಷಿ ಮಹೇಶ್ ಯೋಗಿ ಋಗ್ವೇದ ](http://vedicreserve.miu.edu/rk_veda.htm)
 5.	ಋಗ್ವೇದಸಂಹಿತಾ (ಶಾಕಲಶಾಖೀಯಾ) ಶ್ರೀಯುತ ಕೌಂಜೂರು ಚಂದ್ರಶೇಖರ ಅಡಿಗರು
 6.	ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ, ರಾಮಕೃಷ್ಣ ಮಠ, ಬೆಂಗಳೂರು
@@ -182,7 +182,9 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta.html">ಪಂಚರುದ್ರ ಸೂಕ್ತ</a>
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta.html">ದೇವೀ ಸೂಕ್ತ</a>
 6.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
-7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
-8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
+7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(kannada).html">ಶ್ರೀ ಸೂಕ್ತ</a>
+8	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
+9.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
+10.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/Panchayatana(Kannada).html">ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
 
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
