@@ -185,9 +185,9 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(kannada).html">ಶ್ರೀ ಸೂಕ್ತ</a>
 8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
 9.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
-10.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/Panchayatana(Kannada).html">ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
 
 ## ಕೆಲವು ಉಪಯುಕ್ತ ಮಂತ್ರಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Kannada).html">ಗಣೇಶಾಥರ್ವಶೀರ್ಷ‌ಮ್</a>
+2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/Panchayatana(Kannada).html">ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
 
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
