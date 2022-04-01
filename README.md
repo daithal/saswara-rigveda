@@ -189,5 +189,7 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 ## ಕೆಲವು ಉಪಯುಕ್ತ ಮಂತ್ರಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Kannada).html">ಗಣೇಶಾಥರ್ವಶೀರ್ಷ‌ಮ್</a>
 2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/Panchayatana(Kannada).html">ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/taittarIyopaniShat(Kannada).html">ತೈತ್ತರೀಯೋಪನಿಷತ್</a>
+4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/trichakalpasUryanamaskAra(Kannada).html">ತೃಚಕಲ್ಪ ಸೂರ್ಯನಮಸ್ಕಾರ</a>
 
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
