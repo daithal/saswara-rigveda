@@ -191,5 +191,6 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/Panchayatana(Kannada).html">ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
 3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/taittarIyopaniShat(Kannada).html">ತೈತ್ತರೀಯೋಪನಿಷತ್</a>
 4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/trichakalpasUryanamaskAra(Kannada).html">ತೃಚಕಲ್ಪ ಸೂರ್ಯನಮಸ್ಕಾರ</a>
+5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/trisuparNamantraH(Kannada).html">ತ್ರಿಸುಪರ್ಣಮಂತ್ರಃ</a>
 
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
