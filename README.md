@@ -184,7 +184,8 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 6.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
 7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(kannada).html">ಶ್ರೀ ಸೂಕ್ತ</a>
 8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
-9.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
+9.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Kannada)">ನವಗ್ರಹ ಮಂತ್ರಗಳು</a>
+10.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
 
 ## ಕೆಲವು ಉಪಯುಕ್ತ ಮಂತ್ರಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Kannada).html">ಗಣೇಶಾಥರ್ವಶೀರ್ಷ‌ಮ್</a>
