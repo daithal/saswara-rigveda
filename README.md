@@ -189,7 +189,12 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 
 ## ಕೆಲವು ಉಪಯುಕ್ತ ಮಂತ್ರಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Kannada).html">ಗಣೇಶಾಥರ್ವಶೀರ್ಷ‌ಮ್</a>
-2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/Panchayatana(Kannada).html">ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+2.	ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ
+	a. <a href="https://daithal.github.io/saswara-rigveda/Panchayatana/gaNesha-Panchayatana(Kannada).html">ಗಣೇಶ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+	b. <a href="https://daithal.github.io/saswara-rigveda/Panchayatana/viShNu-Panchayatana(Kannada).html">ವಿಷ್ಣು ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+	c. <a href="https://daithal.github.io/saswara-rigveda/Panchayatana/shiva-Panchayatana(Kannada).html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+	d. <a href="https://daithal.github.io/saswara-rigveda/Panchayatana/Aditya-Panchayatana(Kannada).html">ಆದಿತ್ಯ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+	e. <a href="https://daithal.github.io/saswara-rigveda/Panchayatana/devi-Panchayatana(Kannada).html">ದೇವಿ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
 3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/taittarIyopaniShat(Kannada).html">ತೈತ್ತರೀಯೋಪನಿಷತ್</a>
 4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/trichakalpasUryanamaskAra(Kannada).html">ತೃಚಕಲ್ಪ ಸೂರ್ಯನಮಸ್ಕಾರ</a>
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/trisuparNamantraH(Kannada).html">ತ್ರಿಸುಪರ್ಣಮಂತ್ರಃ</a>
