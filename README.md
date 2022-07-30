@@ -178,23 +178,24 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 ## ಆಯ್ದ ಸಸ್ವರ ಋಗ್ವೇದ ಮಂತ್ರಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta.html">ಪುರುಷ ಸೂಕ್ತ</a>
 2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta.html">ಗಣೇಶ ಸೂಕ್ತ</a>
-3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta.html">ವಿಷ್ಣು ಸೂಕ್ತ</a>
-4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta.html">ಪಂಚರುದ್ರ ಸೂಕ್ತ</a>
-5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta.html">ದೇವೀ ಸೂಕ್ತ</a>
-6.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
-7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(kannada).html">ಶ್ರೀ ಸೂಕ್ತ</a>
-8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
-9.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Kannada)">ನವಗ್ರಹ ಮಂತ್ರಗಳು</a>
-10.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
+3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Kannada).html">ಬ್ರಹ್ಮಣಸ್ಪತಿ ಸೂಕ್ತ</a>
+4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta.html">ವಿಷ್ಣು ಸೂಕ್ತ</a>
+5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta.html">ಪಂಚರುದ್ರ ಸೂಕ್ತ</a>
+6.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta.html">ದೇವೀ ಸೂಕ್ತ</a>
+7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
+8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(kannada).html">ಶ್ರೀ ಸೂಕ್ತ</a>
+9.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
+10.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Kannada)">ನವಗ್ರಹ ಮಂತ್ರಗಳು</a>
+11.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
 
 ## ಕೆಲವು ಉಪಯುಕ್ತ ಮಂತ್ರಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Kannada).html">ಗಣೇಶಾಥರ್ವಶೀರ್ಷ‌ಮ್</a>
 2.	ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ
-	1.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/gaNesha-Panchayatana(Kannada).html">ಗಣೇಶ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
-	2.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/viShNu-Panchayatana(Kannada).html">ವಿಷ್ಣು ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
-	3.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/shiva-Panchayatana(Kannada).html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
-	4.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/Aditya-Panchayatana(Kannada).html">ಆದಿತ್ಯ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
-	5.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/devi-Panchayatana(Kannada).html">ದೇವಿ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+	1.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/gaNesha-Panchayatana(Kannada).html">ಗಣೇಶ ಪೂಜಾ ವಿಧಿ</a>
+	2.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/viShNu-Panchayatana(Kannada).html">ವಿಷ್ಣು ಪೂಜಾ ವಿಧಿ</a>
+	3.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/shiva-Panchayatana(Kannada).html">ಶಿವ ಪೂಜಾ ವಿಧಿ</a>
+	4.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/Aditya-Panchayatana(Kannada).html">ಆದಿತ್ಯ ಪೂಜಾ ವಿಧಿ</a>
+	5.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/devi-Panchayatana(Kannada).html">ದೇವಿ ಪೂಜಾ ವಿಧಿ</a>
 3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/taittarIyopaniShat(Kannada).html">ತೈತ್ತರೀಯೋಪನಿಷತ್</a>
 4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/trichakalpasUryanamaskAra(Kannada).html">ತೃಚಕಲ್ಪ ಸೂರ್ಯನಮಸ್ಕಾರ</a>
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/trisuparNamantraH(Kannada).html">ತ್ರಿಸುಪರ್ಣಮಂತ್ರಃ</a>
