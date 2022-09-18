@@ -196,8 +196,8 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 2.	ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ
 	1.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/gaNesha-Panchayatana(Kannada).html">ಗಣೇಶ ಪೂಜಾ ವಿಧಿ</a>
 	2.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/viShNu-Panchayatana(Kannada).html">ವಿಷ್ಣು ಪೂಜಾ ವಿಧಿ</a>
-	3.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/shiva-Panchayatana(Kannada)-1.html">ಶಿವ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-1)</a>
-	4.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/shiva-Panchayatana(Kannada)-2.html">ಶಿವ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-2)</a>
+	3.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/shiva-Panchayatana-1(Kannada).html">ಶಿವ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-1)</a>
+	4.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/shiva-Panchayatana-2(Kannada).html">ಶಿವ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-2)</a>
 	5.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/Aditya-Panchayatana(Kannada).html">ಆದಿತ್ಯ ಪೂಜಾ ವಿಧಿ</a>
 	6.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/devi-Panchayatana(Kannada).html">ದೇವಿ ಪೂಜಾ ವಿಧಿ</a>
 3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/taittarIyopaniShat(Kannada).html">ತೈತ್ತರೀಯೋಪನಿಷತ್</a>
