@@ -88,9 +88,6 @@
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-10.html">ಮಂಡಲ-10</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-10.html">ಮಂಡಲ-10</a></td>
 	</tr>
-	<tr>
-		<td colspan="4"; text-align: center> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
-	</tr>	
 </table>
 
 
@@ -154,10 +151,13 @@
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-08.html">ಅಷ್ಟಕ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-08.html">ಅಷ್ಟಕ-8</a></td>
 	</tr>
-	<tr>
-		<td colspan="4"; text-align: center> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
-	</tr>	
 </table>
+
+<table style="width:100%">
+	<tr>
+		<td colspan="4" style="text-align: center"> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
+	</tr>	
+</table>	
 
 **ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ.  ಈ ಪೇಜ್ ಗಳನ್ನು ವೀಕ್ಷಿಸುವಾಗ internet connection ಇರಲೇಬೇಕು . ಈ HTML ಫೈಲ್ ಗಳನ್ನು  ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ save ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!**
 
