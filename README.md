@@ -154,8 +154,13 @@
 </table>
 
 <table style="width:100%">
+	<tr valign="top">
+		<td>
+			<h2>ಪರಿಶಿಷ್ಟ (ಖಿಲ)</h2>
+		</td>
+	</tr>
 	<tr>
-		<td colspan="4" style="text-align: center"> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
+		<td style="text-align: center"> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
 	</tr>	
 </table>	
 
