@@ -154,16 +154,18 @@
 	</tr>
 </table>
 
+<hr>
+
 <table style="width:100%">
 	<tr valign="top">
 		<td>
 			<h2>ಪರಿಶಿಷ್ಟ (ಖಿಲ)</h2>
 		</td>
+		<td style="text-align: center"><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
 	</tr>
-	<tr>
-		<td style="text-align: center"> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
-	</tr>	
 </table>	
+
+<hr>
 
 **ವಿ. ಸೂ: ನನ್ನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ, ಈ ಪೇಜ್ ಗಳು ದೊಡ್ಡ ಸ್ಕ್ರೀನ್ ಕಂಪ್ಯೂಟರ್ ಮಾನಿಟರ್ ಅಥವಾ ಐಪ್ಯಾಡ್ ಯಾ ಟ್ಯಾಬ್ಲೆಟ್ಸ್ ಮೇಲೆ ನೋಡಿದರೆ ಹೆಚ್ಚು ಸ್ಪಷ್ಟವಾಗಿರುತ್ತದೆ.  ಈ ಪೇಜ್ ಗಳನ್ನು ವೀಕ್ಷಿಸುವಾಗ internet connection ಇರಲೇಬೇಕು . ಈ HTML ಫೈಲ್ ಗಳನ್ನು  ನಿಮ್ಮ ಡಿವೈಸ್ ನಲ್ಲಿ offline ವೀಕ್ಷಣೆಗೆ save ಮಾಡಿಕೊಳ್ಳಿ ಹಾಗು ದಯವಿಟ್ಟು ಪ್ರಿಂಟ್ ಮಾಡಬೇಡಿ, ಮರಗಳನ್ನು ರಕ್ಷಿಸಿ!!**
 
@@ -218,5 +220,5 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 10.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-medhA-sUkta(Kannada).html">ಶ್ರದ್ಧಾ ಮೇಧಾ ಸೂಕ್ತ</a>
 11.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada).html">ಗೋ ಸೂಕ್ತ</a>
 
-
+<hr>
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
