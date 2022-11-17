@@ -89,7 +89,7 @@
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-10.html">ಮಂಡಲ-10</a></td>
 	</tr>
 	<tr>
-		<td colspan="4"> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
+		<td colspan="4"; text-align: center> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
 	</tr>	
 </table>
 
@@ -155,7 +155,7 @@
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-08.html">ಅಷ್ಟಕ-8</a></td>
 	</tr>
 	<tr>
-		<td colspan="4"> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
+		<td colspan="4"; text-align: center> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a></td>
 	</tr>	
 </table>
 
@@ -180,7 +180,7 @@
 5.	Splitting complex words
 6.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective.
 7.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas.
-8.	Ongoing work involves continuous improvement, proof reading and enhancements.
+8.	Ongoing work involves adding khilas, continuous improvement, proof reading and enhancements.
 
 For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
 
