@@ -14,6 +14,16 @@
 1.	ಋಗ್ವೇದ ಸಂಹಿತಾ [ಶಾಕಲಶಾಖೀಯ] - ಶ್ರೀಯುತ ಕೌಂಜೂರು ಚಂದ್ರಶೇಖರ ಅಡಿಗರು
 2.	ಪವಮಾನಪಂಚಸೂಕ್ತಮ್ - ವಿದ್ವಾನ್ ಕದ್ರಿ ಪ್ರಭಾಕರ ಅಡಿಗರು
 
+## Rigveda Text Enhancement
+1.	Created four formats of Rigveda samhita representations.
+2.	Programmatically parsing and adding dIrgha svarita to the ITRANS files [ITX](https://sanskritdocuments.org/doc_veda/) files for all the formats.
+3.	Considering the benefit during agni mukha prayogas (homa/yaagas), based on the grammatical rules added svAhAkara and created format#4 
+4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs at appropriate places (Format #2, #3, #4).
+5.	Splitting complex words
+6.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective.
+7.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas.
+8.	Ongoing work involves adding khilas, continuous improvement, proof reading and enhancements.
+
 ### ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ  ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಗೆ ಭೇಟಿ ಕೊಡಿ
 
 <table style="width:100%">
@@ -179,16 +189,6 @@
 5.	ಋಗ್ವೇದಸಂಹಿತಾ (ಶಾಕಲಶಾಖೀಯಾ) ಶ್ರೀಯುತ ಕೌಂಜೂರು ಚಂದ್ರಶೇಖರ ಅಡಿಗರು
 6.	ಪವಮಾನಪಂಚಸೂಕ್ತಮ್ - ವಿದ್ವಾನ್ ಕದ್ರಿ ಪ್ರಭಾಕರ ಅಡಿಗರು
 7.	ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ, ರಾಮಕೃಷ್ಣ ಮಠ, ಬೆಂಗಳೂರು
-
-## Rigveda Text Enhancement
-1.	Created four formats of Rigveda samhita representations.
-2.	Programmatically parsing and adding dIrgha svarita to the ITRANS files [ITX](https://sanskritdocuments.org/doc_veda/) files for all the formats.
-3.	Considering the benefit during agni mukha prayogas (homa/yaagas), based on the grammatical rules added svAhAkara and created format#4 
-4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs at appropriate places (Format #2, #3, #4).
-5.	Splitting complex words
-6.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective.
-7.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas.
-8.	Ongoing work involves adding khilas, continuous improvement, proof reading and enhancements.
 
 For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
 
