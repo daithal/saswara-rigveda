@@ -39,64 +39,64 @@
 		<th>ಶೈಲಿ-4 (Format-4)<br>(ಸ್ವಾಹಾಕಾರಯುಕ್ತ)</th>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-01.html">ಮಂಡಲ-1</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-01.html">ಮಂಡಲ-1</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-01.html">ಮಂಡಲ-1</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-01.html">ಮಂಡಲ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M01.html">ಮಂಡಲ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M01.html">ಮಂಡಲ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M01.html">ಮಂಡಲ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M01.html">ಮಂಡಲ-1</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-02.html">ಮಂಡಲ-2</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-02.html">ಮಂಡಲ-2</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-02.html">ಮಂಡಲ-2</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-02.html">ಮಂಡಲ-2</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M02.html">ಮಂಡಲ-2</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M02.html">ಮಂಡಲ-2</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M02.html">ಮಂಡಲ-2</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M02.html">ಮಂಡಲ-2</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-03.html">ಮಂಡಲ-3</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-03.html">ಮಂಡಲ-3</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-03.html">ಮಂಡಲ-3</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-03.html">ಮಂಡಲ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M03.html">ಮಂಡಲ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M03.html">ಮಂಡಲ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M03.html">ಮಂಡಲ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M03.html">ಮಂಡಲ-3</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-04.html">ಮಂಡಲ-4</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-04.html">ಮಂಡಲ-4</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-04.html">ಮಂಡಲ-4</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-04.html">ಮಂಡಲ-4</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M04.html">ಮಂಡಲ-4</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M04.html">ಮಂಡಲ-4</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M04.html">ಮಂಡಲ-4</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M04.html">ಮಂಡಲ-4</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-05.html">ಮಂಡಲ-5</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-05.html">ಮಂಡಲ-5</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-05.html">ಮಂಡಲ-5</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-05.html">ಮಂಡಲ-5</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M05.html">ಮಂಡಲ-5</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M05.html">ಮಂಡಲ-5</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M05.html">ಮಂಡಲ-5</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M05.html">ಮಂಡಲ-5</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-06.html">ಮಂಡಲ-6</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-06.html">ಮಂಡಲ-6</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-06.html">ಮಂಡಲ-6</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-06.html">ಮಂಡಲ-6</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M06.html">ಮಂಡಲ-6</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M06.html">ಮಂಡಲ-6</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M06.html">ಮಂಡಲ-6</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M06.html">ಮಂಡಲ-6</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-07.html">ಮಂಡಲ-7</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-07.html">ಮಂಡಲ-7</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-07.html">ಮಂಡಲ-7</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-07.html">ಮಂಡಲ-7</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M07.html">ಮಂಡಲ-7</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M07.html">ಮಂಡಲ-7</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M07.html">ಮಂಡಲ-7</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M07.html">ಮಂಡಲ-7</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-08.html">ಮಂಡಲ-8</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-08.html">ಮಂಡಲ-8</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-08.html">ಮಂಡಲ-8</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-08.html">ಮಂಡಲ-8</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M08.html">ಮಂಡಲ-8</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M08.html">ಮಂಡಲ-8</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M08.html">ಮಂಡಲ-8</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M08.html">ಮಂಡಲ-8</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-09.html">ಮಂಡಲ-9</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-09.html">ಮಂಡಲ-9</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-09.html">ಮಂಡಲ-9</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-09.html">ಮಂಡಲ-9</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M09.html">ಮಂಡಲ-9</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M09.html">ಮಂಡಲ-9</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M09.html">ಮಂಡಲ-9</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M09.html">ಮಂಡಲ-9</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF1-10.html">ಮಂಡಲ-10</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF2-10.html">ಮಂಡಲ-10</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF3-10.html">ಮಂಡಲ-10</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVMKF4-10.html">ಮಂಡಲ-10</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-M10.html">ಮಂಡಲ-10</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-M10.html">ಮಂಡಲ-10</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-M10.html">ಮಂಡಲ-10</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-M10.html">ಮಂಡಲ-10</a></td>
 	</tr>
 </table>
 
@@ -115,52 +115,52 @@
 		<th>ಶೈಲಿ-4 (Format-4)<br>(ಸ್ವಾಹಾಕಾರಯುಕ್ತ)</th>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-01.html">ಅಷ್ಟಕ-1</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-01.html">ಅಷ್ಟಕ-1</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-01.html">ಅಷ್ಟಕ-1</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-01.html">ಅಷ್ಟಕ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A01.html">ಅಷ್ಟಕ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A01.html">ಅಷ್ಟಕ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A01.html">ಅಷ್ಟಕ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A01.html">ಅಷ್ಟಕ-1</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-02.html">ಅಷ್ಟಕ-2</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-02.html">ಅಷ್ಟಕ-2</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-02.html">ಅಷ್ಟಕ-2</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-02.html">ಅಷ್ಟಕ-2</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A02.html">ಅಷ್ಟಕ-2</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A02.html">ಅಷ್ಟಕ-2</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A02.html">ಅಷ್ಟಕ-2</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A02.html">ಅಷ್ಟಕ-2</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-03.html">ಅಷ್ಟಕ-3</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-03.html">ಅಷ್ಟಕ-3</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-03.html">ಅಷ್ಟಕ-3</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-03.html">ಅಷ್ಟಕ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A03.html">ಅಷ್ಟಕ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A03.html">ಅಷ್ಟಕ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A03.html">ಅಷ್ಟಕ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A03.html">ಅಷ್ಟಕ-3</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-04.html">ಅಷ್ಟಕ-4</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-04.html">ಅಷ್ಟಕ-4</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-04.html">ಅಷ್ಟಕ-4</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-04.html">ಅಷ್ಟಕ-4</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A04.html">ಅಷ್ಟಕ-4</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A04.html">ಅಷ್ಟಕ-4</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A04.html">ಅಷ್ಟಕ-4</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A04.html">ಅಷ್ಟಕ-4</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-05.html">ಅಷ್ಟಕ-5</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-05.html">ಅಷ್ಟಕ-5</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-05.html">ಅಷ್ಟಕ-5</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-05.html">ಅಷ್ಟಕ-5</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A05.html">ಅಷ್ಟಕ-5</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A05.html">ಅಷ್ಟಕ-5</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A05.html">ಅಷ್ಟಕ-5</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A05.html">ಅಷ್ಟಕ-5</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-06.html">ಅಷ್ಟಕ-6</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-06.html">ಅಷ್ಟಕ-6</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-06.html">ಅಷ್ಟಕ-6</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-06.html">ಅಷ್ಟಕ-6</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A06.html">ಅಷ್ಟಕ-6</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A06.html">ಅಷ್ಟಕ-6</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A06.html">ಅಷ್ಟಕ-6</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A06.html">ಅಷ್ಟಕ-6</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-07.html">ಅಷ್ಟಕ-7</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-07.html">ಅಷ್ಟಕ-7</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-07.html">ಅಷ್ಟಕ-7</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-07.html">ಅಷ್ಟಕ-7</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A07.html">ಅಷ್ಟಕ-7</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A07.html">ಅಷ್ಟಕ-7</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A07.html">ಅಷ್ಟಕ-7</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A07.html">ಅಷ್ಟಕ-7</a></td>
 	</tr>
 	<tr>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF1-08.html">ಅಷ್ಟಕ-8</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF2-08.html">ಅಷ್ಟಕ-8</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF3-08.html">ಅಷ್ಟಕ-8</a></td>
-		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVAKF4-08.html">ಅಷ್ಟಕ-8</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A08.html">ಅಷ್ಟಕ-8</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A08.html">ಅಷ್ಟಕ-8</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A08.html">ಅಷ್ಟಕ-8</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A08.html">ಅಷ್ಟಕ-8</a></td>
 	</tr>
 </table>
 
