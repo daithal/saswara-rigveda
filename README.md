@@ -241,8 +241,9 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta(Kannada).html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
 8.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(kannada).html">ಶ್ರೀ ಸೂಕ್ತ</a>
 9.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta(Kannada).html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
-10.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-medhA-sUkta(Kannada).html">ಶ್ರದ್ಧಾ ಮೇಧಾ ಸೂಕ್ತ</a>
-11.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada).html">ಗೋ ಸೂಕ್ತ</a>
+10.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-sUkta(Kannada).html">ಶ್ರದ್ಧಾ ಸೂಕ್ತ</a>
+11.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Kannada).html">ಮೇಧಾ ಸೂಕ್ತ</a>
+12.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada).html">ಗೋ ಸೂಕ್ತ</a>
 
 <hr>
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
