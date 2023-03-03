@@ -246,4 +246,5 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 12.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada).html">ಗೋ ಸೂಕ್ತ</a>
 
 <hr>
+
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
