@@ -231,8 +231,8 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Kannada).pdf">ನವಗ್ರಹ ಮಂತ್ರಗಳು</a>
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/pavamAna-parishiShTam(Kannada).pdf">ಪವಮಾನ ಪರಿಶಿಷ್ಟಂ</a>
 
-[1] https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada).html
-[2] https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada).pdf
+[1]: https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada).html
+[2]: https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada).pdf
 
 ## ಆಯ್ದ ಸಸ್ವರ ಋಗ್ವೇದ ಸೂಕ್ತಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Kannada).html">ಪುರುಷ ಸೂಕ್ತ</a>
