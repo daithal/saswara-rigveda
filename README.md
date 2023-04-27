@@ -116,59 +116,51 @@
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A01.html">ಅಷ್ಟಕ-1</a></td>
-		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A01.html">ಅಷ್ಟಕ-1</a>
-		</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A01.html">ಅಷ್ಟಕ-1</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A01.html">ಅಷ್ಟಕ-1</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A01.html">ಅಷ್ಟಕ-1</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A02.html">ಅಷ್ಟಕ-2</a></td>
-		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A02.html">ಅಷ್ಟಕ-2</a>
-		</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A02.html">ಅಷ್ಟಕ-2</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A02.html">ಅಷ್ಟಕ-2</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A02.html">ಅಷ್ಟಕ-2</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A03.html">ಅಷ್ಟಕ-3</a></td>
-		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A03.html">ಅಷ್ಟಕ-3</a>
-		</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A03.html">ಅಷ್ಟಕ-3</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A03.html">ಅಷ್ಟಕ-3</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A03.html">ಅಷ್ಟಕ-3</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A04.html">ಅಷ್ಟಕ-4</a></td>
-		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A04.html">ಅಷ್ಟಕ-4</a>
-		</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A04.html">ಅಷ್ಟಕ-4</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A04.html">ಅಷ್ಟಕ-4</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A04.html">ಅಷ್ಟಕ-4</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A05.html">ಅಷ್ಟಕ-5</a></td>
-		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A05.html">ಅಷ್ಟಕ-5</a>
-		</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A05.html">ಅಷ್ಟಕ-5</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A05.html">ಅಷ್ಟಕ-5</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A05.html">ಅಷ್ಟಕ-5</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A06.html">ಅಷ್ಟಕ-6</a></td>
-		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A06.html">ಅಷ್ಟಕ-6</a>
-		</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A06.html">ಅಷ್ಟಕ-6</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A06.html">ಅಷ್ಟಕ-6</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A06.html">ಅಷ್ಟಕ-6</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A07.html">ಅಷ್ಟಕ-7</a></td>
-		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A07.html">ಅಷ್ಟಕ-7</a>
-		</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A07.html">ಅಷ್ಟಕ-7</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A07.html">ಅಷ್ಟಕ-7</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A07.html">ಅಷ್ಟಕ-7</a></td>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F1-A08.html">ಅಷ್ಟಕ-8</a></td>
-		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A08.html">ಅಷ್ಟಕ-8</a>
-		</td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F2-A08.html">ಅಷ್ಟಕ-8</a></td>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F3-A08.html">ಅಷ್ಟಕ-8</a></td>
+		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/RVS-Kannada-F4-A08.html">ಅಷ್ಟಕ-8</a></td>
 	</tr>
 </table>
 
