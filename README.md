@@ -2,25 +2,6 @@
 ---
 ಸ್ವರ ಸಹಿತವಾದ (ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಸಂಹಿತಾ ಮಂತ್ರಗಳನ್ನು ಡಿಜಿಟಲ್ ಮಾಧ್ಯಮದ ಮೂಲಕ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಎಲ್ಲರಿಗೂ ದೊರಕುವಂತೆ ಮಾಡಿದ ನನ್ನ ಪ್ರಯತ್ನವೇ ಈ ಜಾಲತಾಣ. ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಚಾಲ್ತಿಯಲ್ಲಿರುವಂತೆ ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಗಣಕೀಕೃತವಾಗಿ (ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್) ಮೂಲಕ ಅಕ್ಷರಗಳಿಗೆ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ನಾಲ್ಕು ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಪುಟಗಳನ್ನು ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ.
 
-### ಋಗ್ವೇದ ಮಂತ್ರಗಳ ಪರಿಷ್ಕರಣೆಯ ವಿವರಗಳು
-
-<b>ಶೈಲಿ-೧:</b> ಈ ಶೈಲಿಯನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿರುವಂತೆ ಸಂಹಿತಾ ಮಂತ್ರದ  ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ, ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ರಚಿಸಿದ್ದೇನೆ. ಇದನ್ನು "ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ" ಎಂದು ಕರೆಯುತ್ತಾರೆ.
-
-<b>ಶೈಲಿ-೨:</b> ಈ ಶೈಲಿಯಲ್ಲಿ ಪರಂಪರಾಗತವಾಗಿ ಬಂದ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳನ್ನು ಪತ್ರಾವಳಿ ಯಾ ತಾಳೆಗರಿಯಲ್ಲಿರುವಂತೆ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸದೇ, ಅವುಗಳನ್ನು ಒಟ್ಟಾಗಿಸಿ ತೋರಿಸುವ ಪ್ರಯತ್ನ ಮಾಡಿದ್ದೇನೆ.. ಜೊತೆಗೆ ಪದ ಪ್ರತ್ಯೇಕತೆಯನ್ನು ಗುರುತಿಸಲು ಪರ್ಯಾಯ ಪದಗಳನ್ನು ಭಿನ್ನ ಬಣ್ಣಗಳಿಂದ ಕೋಡ್ ಮಾಡಿದ್ದೇನೆ. ಕಲಿಯುವವರಿಗೆ ಸುಲಭವಾಗಲೆಂದು "ಋಗ್ವೇದ ಸಂಹಿತಾ ದಾಮೋದರ  ಸಾತ್ವಾಳೇಕರ್" ರವರ ಪುಸ್ತದಲ್ಲಿರುವಂತೆ ಪ್ರತಿ ಋಕ್ಕಿಗೂ ಪಾದಾಂತ್ಯ ಸೂಚಕವಾಗಿ (¦) ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿದ್ದೇನೆ. ಸದ್ಯಕ್ಕೆ ಮೊದಲ ಮೂರು ಅಷ್ಟಕಗಳಿಗೆ ಈ ವಿವರಗಳನ್ನು ಸೇರಿಸಿದ್ದೇನೆ. ಸ್ವತಃ ವಿದ್ಯಾರ್ಥಿಯಾದ ನಾನು, ನನ್ನ ಕಲಿಕೆಯ ಪ್ರಗತಿಯಂತೆ ಈ ಶೈಲಿಯ ಮಂತ್ರಗಳನ್ನು ಪರಿಷ್ಕರಿಸುತ್ತಿರುತ್ತೇನೆ.
-
-<b>ಶೈಲಿ-೩:</b> ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ ಯಾವುದೇ ರೀತಿ ವಿನ್ಯಾಸಗೊಳಿಸದೆ ಸಾಮಾನ್ಯವಾದ ಕಪ್ಪು ಬಿಳುಪಿನ ಅಕ್ಷರದಲ್ಲಿ ಪ್ರಕಟಿಸಿದ್ದೇನೆ 
-
-<b>ಶೈಲಿ-೪:</b> ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗದಲ್ಲಿ ಉಪಯೋಗಕ್ಕೆ ಬರಬಹುದೆನ್ನುವ ಉದ್ದೇಶದಿಂದ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಾಂತ್ಯದಲ್ಲೂ computer programming ಮೂಲಕ ರಚಿಸಿ ಸ್ವಾಹಾಕಾರ ವನ್ನು ಸೇರಿಸಿ ಮೂರನೇ ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಗಳನ್ನು ರಚಿಸಿ ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ.
-
-## Rigveda Text Enhancement
-1.	Created four formats of Rigveda samhita representations.
-2.	Programmatically parsing and adding dIrgha svarita to the ITRANS files [ITX](https://sanskritdocuments.org/doc_veda/) files for all the formats.
-3.	Considering the benefit during agni mukha prayogas (homa/yaagas), based on the grammatical rules added svAhAkara and created format#4 
-4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs at appropriate places (Format #2, #3, #4).
-5.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective.
-6.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas.
-7.	Ongoing work involves adding khilas, continuous improvement, proof reading and enhancements.
-
 ### ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ  ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಗೆ ಭೇಟಿ ಕೊಡಿ
 
 <table style="width:100%">
@@ -31,7 +12,7 @@
 	</tr>
 	<tr>
 		<th>ಶೈಲಿ-1 (Format-1)<br>ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ</th>
-		<th>ಶೈಲಿ-2 (Format-2)<br>ಸಂಹಿತಾಮಂತ್ರಃ</th>
+		<th>ಶೈಲಿ-2 (Format-2)<br>ಸಂಹಿತಾಮಂತ್ರಃ (ಕಲಿಯುವರಿಗಾಗಿ)</th>
 		<th>ಶೈಲಿ-3 (Format-3)<br>ಸಂಹಿತಾಮಂತ್ರಃ</th>
 		<th>ಶೈಲಿ-4 (Format-4)<br>ಸ್ವಾಹಾಕಾರಯುಕ್ತ ಸಂಹಿತಾಮಂತ್ರಃ</th>
 	</tr>
@@ -220,6 +201,14 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 13.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Kannada).html">ಮೇಧಾ ಸೂಕ್ತ</a>
 14.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada).html">ಗೋ ಸೂಕ್ತ</a>
 
+## Rigveda Text Enhancement
+1.	Created four formats of Rigveda samhita representations.
+2.	Programmatically parsing and adding dIrgha svarita to the ITRANS files [ITX](https://sanskritdocuments.org/doc_veda/) files for all the formats.
+3.	Considering the benefit during agni mukha prayogas (homa/yaagas), based on the grammatical rules added svAhAkara and created format#4 
+4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs at appropriate places (Format #2, #3, #4).
+5.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective.
+6.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas.
+7.	Ongoing work involves adding khilas, continuous improvement, proof reading and enhancements.
 
 <hr>
 
