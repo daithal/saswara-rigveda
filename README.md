@@ -11,10 +11,10 @@
 		</td>
 	</tr>
 	<tr>
-		<th>ಶೈಲಿ-1 (Format-1)<br>ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ</th>
-		<th>ಶೈಲಿ-2 (Format-2)<br>ಸಂಹಿತಾಮಂತ್ರಃ (ಕಲಿಯುವರಿಗಾಗಿ)</th>
-		<th>ಶೈಲಿ-3 (Format-3)<br>ಸಂಹಿತಾಮಂತ್ರಃ</th>
-		<th>ಶೈಲಿ-4 (Format-4)<br>ಸ್ವಾಹಾಕಾರಯುಕ್ತ ಸಂಹಿತಾಮಂತ್ರಃ</th>
+		<th>ಶೈಲಿ-1 ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ</th>
+		<th>ಶೈಲಿ-2 ಸಂಹಿತಾಮಂತ್ರಃ</th>
+		<th>ಶೈಲಿ-3 ಸಂಹಿತಾಮಂತ್ರಃ</th>
+		<th>ಶೈಲಿ-4 ಸ್ವಾಹಾಕಾರಯುಕ್ತ ಸಂಹಿತಾಮಂತ್ರಃ</th>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M01.html">ಮಂಡಲ-1</a></td>
@@ -87,10 +87,10 @@
 		</td>
 	</tr>
 	<tr>
-		<th>ಶೈಲಿ-1 (Format-1)<br>ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ</th>
-		<th>ಶೈಲಿ-2 (Format-2)<br>ಸಂಹಿತಾಮಂತ್ರಃ</th>
-		<th>ಶೈಲಿ-3 (Format-3)<br>ಸಂಹಿತಾಮಂತ್ರಃ</th>
-		<th>ಶೈಲಿ-4 (Format-4)<br>ಸ್ವಾಹಾಕಾರಯುಕ್ತ ಸಂಹಿತಾಮಂತ್ರಃ</th>
+		<th>ಶೈಲಿ-1 ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ</th>
+		<th>ಶೈಲಿ-2 ಸಂಹಿತಾಮಂತ್ರಃ</th>
+		<th>ಶೈಲಿ-3 ಸಂಹಿತಾಮಂತ್ರಃ</th>
+		<th>ಶೈಲಿ-4 ಸ್ವಾಹಾಕಾರಯುಕ್ತ ಸಂಹಿತಾಮಂತ್ರಃ</th>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A01.html">ಅಷ್ಟಕ-1</a></td>
