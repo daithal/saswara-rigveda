@@ -166,7 +166,8 @@
 
 For any questions, suggestions, or collaboration in this project, reach me out at via email mentioned below.
 
-**ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, USA **<dithal29@gmail.com>**
+**ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, USA
+**<dithal29@gmail.com>**
 
 ## ಕೆಲವು ಉಪಯುಕ್ತ ಮಂತ್ರಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada).html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
