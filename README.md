@@ -1,6 +1,7 @@
 <center><h1 class="KannadaText">|| ಶ್ರೀ ಗುರುಭ್ಯೋ ನಮಃ  ಹರಿಃ ಓಂ ||</h1></center>
 ---
 ಸ್ವರ ಸಹಿತವಾದ (ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಸಂಹಿತಾ ಮಂತ್ರಗಳನ್ನು ಡಿಜಿಟಲ್ ಮಾಧ್ಯಮದ ಮೂಲಕ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಎಲ್ಲರಿಗೂ ದೊರಕುವಂತೆ ಮಾಡಿದ ನನ್ನ ಪ್ರಯತ್ನವೇ ಈ ಜಾಲತಾಣ. ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಚಾಲ್ತಿಯಲ್ಲಿರುವಂತೆ ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಗಣಕೀಕೃತವಾಗಿ (ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್) ಮೂಲಕ ಅಕ್ಷರಗಳಿಗೆ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ನಾಲ್ಕು ಶೈಲಿಯಲ್ಲಿ ಮಂತ್ರಪುಟಗಳನ್ನು ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ.
+ಶೈಲಿ-೧ ರಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿರುವಂತೆ ಸಂಹಿತಾ ಮಂತ್ರದ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ, ರಚಿಸಿದ್ದೇನೆ. ಇದನ್ನು "ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ" ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಶೈಲಿ-೨ ರಲ್ಲಿ ಪರಂಪರಾಗತವಾಗಿ ಬಂದ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳನ್ನು ಪತ್ರಾವಳಿ ಯಾ ತಾಳೆಗರಿಯಲ್ಲಿರುವಂತೆ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸದೇ, ಅವುಗಳನ್ನು ಒಟ್ಟಾಗಿಸಿ ತೋರಿಸುವ ಪ್ರಯತ್ನ ಮಾಡಿದ್ದೇನೆ.. ಜೊತೆಗೆ ಪದ ಪ್ರತ್ಯೇಕತೆಯನ್ನು ಗುರುತಿಸಲು ಪರ್ಯಾಯ ಪದಗಳನ್ನು ಭಿನ್ನ ಬಣ್ಣಗಳಿಂದ ಕೋಡ್ ಮಾಡಿದ್ದೇನೆ. ಕಲಿಯುವವರಿಗೆ ಸುಲಭವಾಗಲೆಂದು ಪ್ರತಿ ಋಕ್ಕಿಗೂ ಪಾದಾಂತ್ಯ ಸೂಚಕವಾಗಿ (¦) ಚಿಹ್ನೆಯನ್ನು ಸೇರಿಸಿದ್ದೇನೆ. ಸದ್ಯಕ್ಕೆ ಮೊದಲ ಮೂರು ಅಷ್ಟಕಗಳಿಗೆ ಈ ವಿವರಗಳನ್ನು ಸೇರಿಸಿದ್ದೇನೆ. ಶೈಲಿ-೩ ಮೂಲ  ಸಂಹಿತಾ ಮಂತ್ರಗಳನ್ನು ಹೋಲುವ ರೀತಿಯಲ್ಲಿ ಇರುತ್ತದೆ. ಶೈಲಿ-೪ರಲ್ಲಿ ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗದಲ್ಲಿ ಉಪಯೋಗಕ್ಕೆ ಬರಬಹುದೆನ್ನುವ ಉದ್ದೇಶದಿಂದ ಪ್ರತಿಯೊಂದು ಮಂತ್ರಾಂತ್ಯದಲ್ಲೂ computer programming ಮೂಲಕ ಸ್ವಾಹಾಕಾರ ವನ್ನು ಸೇರಿಸಿ ಮಂತ್ರಗಳನ್ನು ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ.
 
 ### ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ ಮಂತ್ರಗಳಿಗೆ  ಈ ಕೆಳಗಿನ ಟೇಬಲ್ ನ ಯಾವುದಾದರೂ ಲಿಂಕ್ ಗೆ ಭೇಟಿ ಕೊಡಿ
 
@@ -11,10 +12,10 @@
 		</td>
 	</tr>
 	<tr>
-		<th>ಶೈಲಿ-1 ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ</th>
-		<th>ಶೈಲಿ-2 ಸಂಹಿತಾಮಂತ್ರಃ (ಕಲಿಯುವರಿಗಾಗಿ)</th>
-		<th>ಶೈಲಿ-3 ಸಂಹಿತಾಮಂತ್ರಃ</th>
-		<th>ಶೈಲಿ-4 ಸ್ವಾಹಾಕಾರಯುಕ್ತ ಸಂಹಿತಾಮಂತ್ರಃ</th>
+		<th>ಶೈಲಿ-1 ಸಂಹಿತಾಮಂತ್ರ (ಪದಚ್ಛೇದ ಪೂರ್ವಕ ರೀತಿ)</th>
+		<th>ಶೈಲಿ-2 ಸಂಹಿತಾಮಂತ್ರ (ಕಲಿಯುವರಿಗಾಗಿ)</th>
+		<th>ಶೈಲಿ-3 ಸಂಹಿತಾಮಂತ್ರ (ಮೂಲಲಿಪಿ ರೀತಿ)</th>
+		<th>ಶೈಲಿ-4 ಸಂಹಿತಾಮಂತ್ರ (ಸ್ವಾಹಾಕಾರಯುಕ್ತ)</th>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M01.html">ಮಂಡಲ-1</a></td>
@@ -87,10 +88,10 @@
 		</td>
 	</tr>
 	<tr>
-		<th>ಶೈಲಿ-1 ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ</th>
-		<th>ಶೈಲಿ-2 ಸಂಹಿತಾಮಂತ್ರಃ (ಕಲಿಯುವರಿಗಾಗಿ)</th>
-		<th>ಶೈಲಿ-3 ಸಂಹಿತಾಮಂತ್ರಃ</th>
-		<th>ಶೈಲಿ-4 ಸ್ವಾಹಾಕಾರಯುಕ್ತ ಸಂಹಿತಾಮಂತ್ರಃ</th>
+		<th>ಶೈಲಿ-1 ಸಂಹಿತಾಮಂತ್ರ (ಪದಚ್ಛೇದ ಪೂರ್ವಕ ರೀತಿ)</th>
+		<th>ಶೈಲಿ-2 ಸಂಹಿತಾಮಂತ್ರ (ಕಲಿಯುವರಿಗಾಗಿ)</th>
+		<th>ಶೈಲಿ-3 ಸಂಹಿತಾಮಂತ್ರ (ಮೂಲಲಿಪಿ ರೀತಿ)</th>
+		<th>ಶೈಲಿ-4 ಸಂಹಿತಾಮಂತ್ರ (ಸ್ವಾಹಾಕಾರಯುಕ್ತ)</th>
 	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A01.html">ಅಷ್ಟಕ-1</a></td>
@@ -187,8 +188,8 @@ For any questions, suggestions, or collaboration in this project, reach me out a
 
 ## ಆಯ್ದ ಸಸ್ವರ ಋಗ್ವೇದ ಸೂಕ್ತಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Kannada).html">ವೇದಪಾರಾಯಣ ಆರಂಭ ಮಂತ್ರಾಣಿ</a>
-2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Kannada).html">ಐಕಮತ್ಯ ಸೂಕ್ತ</a>
-3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Kannada).html">ಗಣೇಶ ಸೂಕ್ತ</a>
+2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Kannada).html">ಗಣೇಶ ಸೂಕ್ತ</a>
+3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Kannada).html">ಐಕಮತ್ಯ ಸೂಕ್ತ</a>
 4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Kannada).html">ಪುರುಷ ಸೂಕ್ತ</a>
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Kannada).html">ಬ್ರಹ್ಮಣಸ್ಪತಿ ಸೂಕ್ತ</a>
 6.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Kannada).html">ವಿಷ್ಣು ಸೂಕ್ತ</a>
