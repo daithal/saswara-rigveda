@@ -27,16 +27,16 @@ Releasing Sasvara Rigveda Samhita in 4 different formats.
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format2/RVS-Malayalam-F2-M01.html">മണ്ഡല-1</a>
 		</td>
 		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M01.html">ಮಂಡಲ-1</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Mandala/Format1/RVS-Telugu-F1-M01.html">మండల-1</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Mandala/Format1/RVS-Tamil-F1-M01.html">மண்ட³ல-1</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format1/RVS-Malayalam-F1-M01.html">മണ്ഡല-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M01.html">ಮಂಡಲ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Mandala/Format3/RVS-Telugu-F3-M01.html">మండల-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Mandala/Format3/RVS-Tamil-F3-M01.html">மண்ட³ல-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format3/RVS-Malayalam-F3-M01.html">മണ്ഡല-1</a>
 		</td>
 		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M01.html">ಮಂಡಲ-1</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Mandala/Format1/RVS-Telugu-F1-M01.html">మండల-1</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Mandala/Format1/RVS-Tamil-F1-M01.html">மண்ட³ல-1</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format1/RVS-Malayalam-F1-M01.html">മണ്ഡല-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M01.html">ಮಂಡಲ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Mandala/Format4/RVS-Telugu-F4-M01.html">మండల-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Mandala/Format4/RVS-Tamil-F4-M01.html">மண்ட³ல-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format4/RVS-Malayalam-F4-M01.html">മണ്ഡല-1</a>
 		</td>	</tr>
 	<tr>
 		<td><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M02.html">ಮಂಡಲ-2</a></td>
