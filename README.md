@@ -213,15 +213,6 @@ If anyone is interested in practicing Rigveda Samhita (Sringeri style of chantin
 13.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Kannada).html">ಮೇಧಾ ಸೂಕ್ತ</a>
 14.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada).html">ಗೋ ಸೂಕ್ತ</a>
 
-## Rigveda Text Enhancement
-1.	Created four formats of Rigveda samhita representations.
-2.	Programmatically parsing and adding dIrgha svarita to the ITRANS files [ITX](https://sanskritdocuments.org/doc_veda/) files for all the formats.
-3.	Considering the benefit during agni mukha prayogas (homa/yaagas), based on the grammatical rules added svAhAkara and created format#4 
-4.	To preserve the traditional Samhita literature style, removed spaces between words and added avagrahAs at appropriate places (Format #2, #3, #4).
-5.	Adding Rishi, Devata and Chadas to each sUkatas for the pArAyaNa perspective.
-6.	Specifying sUkta beginning word (agnimILa iti, ashvinA iti etc) before starting the pArAyaNa for each sUktas.
-7.	Ongoing work involves adding khilas, continuous improvement, proof reading and enhancements.
-
 <hr>
 
 <center><h1>|| ಓಂ ಸ್ವಸ್ತಿ ||</h1></center>
