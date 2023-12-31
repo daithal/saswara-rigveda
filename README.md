@@ -320,7 +320,8 @@ As an experimental basis, publishing the Sasvara Rigveda Samhita in Telugu, Tami
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Ashtaka/Format1/RVS-Malayalam-F1-A02.html">അഷ്ടക-2</a>
 		</td>
 		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A02.html">ಅಷ್ಟಕ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A02.html">ಅಷ್ಟಕ-2 (HTML)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A02.pdf">ಅಷ್ಟಕ-2 (PDF)</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Ashtaka/Format2/RVS-Telugu-F2-A02.html">అష్టక-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Ashtaka/Format2/RVS-Tamil-F2-A02.html">அஷ்டக-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Ashtaka/Format2/RVS-Malayalam-F2-A02.html">അഷ്ടക-2</a>
@@ -332,8 +333,7 @@ As an experimental basis, publishing the Sasvara Rigveda Samhita in Telugu, Tami
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Ashtaka/Format3/RVS-Malayalam-F3-A02.html">അഷ്ടക-2</a>
 		</td>
 		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A02.html">ಅಷ್ಟಕ-2 (HTML)</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A02.pdf">ಅಷ್ಟಕ-2 (PDF)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A02.html">ಅಷ್ಟಕ-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Ashtaka/Format4/RVS-Telugu-F4-A02.html">అష్టక-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Ashtaka/Format4/RVS-Tamil-F4-A02.html">அஷ்டக-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Ashtaka/Format4/RVS-Malayalam-F4-A02.html">അഷ്ടക-2</a>
