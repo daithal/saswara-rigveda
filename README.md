@@ -332,7 +332,8 @@ As an experimental basis, publishing the Sasvara Rigveda Samhita in Telugu, Tami
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Ashtaka/Format3/RVS-Malayalam-F3-A02.html">അഷ്ടക-2</a>
 		</td>
 		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A02.html">ಅಷ್ಟಕ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A02.html">ಅಷ್ಟಕ-2 (HTML)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A02.pdf">ಅಷ್ಟಕ-2 (PDF)</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Ashtaka/Format4/RVS-Telugu-F4-A02.html">అష్టక-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Ashtaka/Format4/RVS-Tamil-F4-A02.html">அஷ்டக-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Ashtaka/Format4/RVS-Malayalam-F4-A02.html">അഷ്ടക-2</a>
@@ -517,7 +518,7 @@ As an experimental basis, publishing the Sasvara Rigveda Samhita in Telugu, Tami
 5.	ಪವಮಾನಪಂಚಸೂಕ್ತಮ್ - ವಿದ್ವಾನ್ ಕದ್ರಿ ಪ್ರಭಾಕರ ಅಡಿಗರು
 6.	ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ, ರಾಮಕೃಷ್ಣ ಮಠ, ಬೆಂಗಳೂರು
 
-ನಿಮ್ಮಲ್ಲಿ ಯಾರಾದರೂ ಋಗ್ವೇದಾಧ್ಯಾಯಿಗಳು, ತಮ್ಮ ಗುರುಗಳ ಮೂಲಕ ಎಂದೋ ಕಲಿತ ಪಾಠವನ್ನು ನಿರಂತರ ಅಭ್ಯಾಸ ಮಾಡಲು ಇಚ್ಛೆ ಇದ್ದರೆ ನನಗೆ ಇಮೇಲ್ ಮಾಡಿ ನಿಮ್ಮ ಫೋನ್ ನಂಬರ್ ತಿಳಿಸಿ. ನಾವು ಒಂದು ಸಣ್ಣ ಗುಂಪು ಮಾಡಿಕೊಂಡು ದಿನದಲ್ಲಿ ಒಂದು ವೇಳೆಯನ್ನು ನಿಗದಿಪಡಿಸಿಕೊಂಡು ಆನ್ಲೈನ್ ಮೂಲಕ ಕಲಿತ ಪಾಠವನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿಕೊಳ್ಳಬಹುದು. ಕ್ಷಮಿಸಿ ಇದು ಹೊಸದಾಗಿ ಕಲಿಯುವವರಿಗೆ ಅಲ್ಲ ಹಾಗೂ ಸಧ್ಯಕ್ಕೆ ಇದು  ಶೃಂಗೇರಿ ಶೈಲಿಯ ಉಚ್ಚಾರಣಾ ಕ್ರಮದಲ್ಲಿ ಪಾಠ ಕಲಿತವರಿಗೆ ಮಾತ್ರ ಸೀಮಿತಗೊಳಿಸುತ್ತಿದ್ದೇನೆ. ಇದಕ್ಕೆ ಯಾವುದೇ ರೀತಿಯ ಶುಲ್ಕವಿಲ್ಲ
+ನಿಮ್ಮಲ್ಲಿ ಯಾರಾದರೂ ಋಗ್ವೇದಾಧ್ಯಾಯಿಗಳು, ಕಲಿತ ಪಾಠವನ್ನು ನಿರಂತರ ಅಭ್ಯಾಸ ಮಾಡಲು ಇಚ್ಛೆ ಇದ್ದರೆ ನನಗೆ ಇಮೇಲ್ ಮಾಡಿ ನಿಮ್ಮ ಫೋನ್ ನಂಬರ್ ತಿಳಿಸಿ. ನಾವು ಒಂದು ಸಣ್ಣ ಗುಂಪು ಮಾಡಿಕೊಂಡು ದಿನದಲ್ಲಿ ಒಂದು ವೇಳೆಯನ್ನು ನಿಗದಿಪಡಿಸಿಕೊಂಡು ಫೋನ್ ಯಾ ವಾಟ್ಸಾಪ್ ಮೂಲಕ ಕಲಿತ ಪಾಠವನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿಕೊಳ್ಳಬಹುದು. ಕ್ಷಮಿಸಿ ಇದು ಹೊಸದಾಗಿ ಕಲಿಯುವವರಿಗೆ ಅಲ್ಲ ಹಾಗೂ ಸಧ್ಯಕ್ಕೆ ಇದು ಶೃಂಗೇರಿ ಶೈಲಿಯ ಉಚ್ಚಾರಣಾ ಕ್ರಮದಲ್ಲಿ ಪಾಠ ಕಲಿತವರಿಗೆ ಮಾತ್ರ ಸೀಮಿತಗೊಳಿಸುತ್ತಿದ್ದೇನೆ. ಇದಕ್ಕೆ ಯಾವುದೇ ರೀತಿಯ ಶುಲ್ಕವಿಲ್ಲ
 
 If anyone is interested in practicing Rigveda Samhita (Sringeri style of chanting) on a regular basis over the phone (or whatsapp or anything), please reach out to me. We can discuss and set ourselves a plan of action. The only prerequisite is that the participants must be knowledgeable with Vedic Swaras and should be comfortable with chanting in Sringeri style. Please note, this is not for beginners who want to learn Rigveda, rather it’s for people who have learned from a teacher and are willing to practice.
 
