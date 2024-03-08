@@ -527,7 +527,7 @@ As an experimental basis, publishing the Sasvara Rigveda Samhita in Telugu, Tami
 If anyone is interested in practicing Rigveda Samhita (Sringeri style of chanting) on a regular basis over the phone (or whatsapp or anything), please reach out to me. We can discuss and set ourselves a plan of action. The only prerequisite is that the participants must be knowledgeable with Vedic Swaras and should be comfortable with chanting in Sringeri style. Please note, this is not for beginners who want to learn Rigveda, rather it’s for people who have learned from a teacher and are willing to practice.
 
 
-**ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, USA **<dithal29@gmail.com>
+**ದಯಾನಂದ ಐತಾಳ  DAYANANDA AITHAL, **<dithal29@gmail.com>
 
 ## ಕೆಲವು ಉಪಯುಕ್ತ ಮಂತ್ರಗಳು
 1.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada).html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
@@ -540,7 +540,6 @@ If anyone is interested in practicing Rigveda Samhita (Sringeri style of chantin
 	5.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/Aditya-Panchayatana(Kannada).html">ಆದಿತ್ಯ ಪೂಜಾ ವಿಧಿ</a>
 	6.	<a href="https://daithal.github.io/saswara-rigveda/Panchayatana/devi-Panchayatana(Kannada).html">ದೇವಿ ಪೂಜಾ ವಿಧಿ</a>
 4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Kannada).html">ನವಗ್ರಹ ಮಂತ್ರಗಳು</a>
-5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/pavamAna-parishiShTam(Kannada).html">ಪವಮಾನ ಪರಿಶಿಷ್ಟಂ</a>
 
 
 ## ಆಯ್ದ ಸಸ್ವರ ಋಗ್ವೇದ ಸೂಕ್ತಗಳು
