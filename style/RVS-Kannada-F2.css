@@ -1,0 +1,51 @@
+@font-face {
+Font-family: 'Noto Sans Kannada';
+src: url('https://cdn.jsdelivr.net/gh/googlei18n/noto-fonts/unhinted/otf/NotoSansKannada/NotoSansKannada-Regular.otf')}
+.Kannada {
+font-family: 'Noto Sans Kannada' !important}
+table {
+border: 2px solid black;
+table-layout: auto}
+.KannadaSuktaLabelCol {
+font-family: 'Noto Sans Kannada';
+border: 1px solid black;
+padding: 4px;
+margin: 2px;
+background-color: #ffcc99;
+font-size: 130%}
+.KannadaMantraCol1 {
+font-family: 'Noto Sans Kannada';
+background-color: #eeeeee;
+line-height: 90%;
+padding: 12px;
+font-size: 155%}
+.KannadaMantraCol2 {
+font-family: 'Noto Sans Kannada';
+background-color: #d1e0e0;
+line-height: 90%;
+padding: 12px;
+font-size: 155%}
+.RishiDevChandasSpan {
+padding: 2px;
+margin: 1px;
+font-size: 50%;
+color: green;
+margin: 1px}
+.MantraNumberingSpan {
+padding: 2px;
+margin: 1px;
+font-size: 50%;
+color: blue;
+margin: 1px}
+.simpleTextKannada {
+font-family: 'Noto Sans Kannada';
+line-height: 110%;
+padding: 12px;
+font-size: 155%;
+color: #943155}
+.simpHtmlH1Kannada {
+font-family: 'Noto Sans Kannada';
+text-align: center;
+color: #943155}
+.red {color: red}
+.black {color: black}
