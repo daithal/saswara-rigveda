@@ -48,12 +48,14 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 		</td>
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M02.html">ಮಂಡಲ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M02.html">मंडल-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Mandala/Format2/RVS-Telugu-F2-M02.html">మండల-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Mandala/Format2/RVS-Tamil-F2-M02.html">மண்ட³ல-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format2/RVS-Malayalam-F2-M02.html">മണ്ഡല-2</a>
 		</td>
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M02.html">ಮಂಡಲ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M02.html">मंडल-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Mandala/Format3/RVS-Telugu-F3-M02.html">మండల-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Mandala/Format3/RVS-Tamil-F3-M02.html">மண்ட³ல-2</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format3/RVS-Malayalam-F3-M02.html">മണ്ഡല-2</a>
