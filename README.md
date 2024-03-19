@@ -1,5 +1,3 @@
-<center><h1>॥ श्री॒ गु॒रु॒भ्यो॒ न॒मः॒ हरिः ॐ ॥</h1></center>
----
 ಸ್ವರ ಸಹಿತವಾದ (ಅನುದಾತ್ತ/ಸ್ವರಿತ/ದೀರ್ಘಸ್ವರಿತ) ಸಂಹಿತಾ ಮಂತ್ರಗಳನ್ನು ಡಿಜಿಟಲ್ ಮಾಧ್ಯಮದ ಮೂಲಕ ಅಂತರ್ಜಾಲದಲ್ಲಿ ಎಲ್ಲರಿಗೂ ದೊರಕುವಂತೆ ಮಾಡಿದ ನನ್ನ ಪ್ರಯತ್ನವೇ ಈ ಜಾಲತಾಣ. ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಚಾಲ್ತಿಯಲ್ಲಿರುವಂತೆ ಮಂಡಲ ಹಾಗು ಅಷ್ಟಕ ಎಂಬ ಎರಡು ವರ್ಗೀಕರಣ ಕ್ರಮದಲ್ಲಿ ಗಣಕೀಕೃತವಾಗಿ (ಕಂಪ್ಯೂಟರ್ ಪ್ರೋಗ್ರಾಮ್) ಮೂಲಕ ಅಕ್ಷರಗಳಿಗೆ ದೀರ್ಘ ಸ್ವರಿತವನ್ನು ಸೇರಿಸಿ ನಾಲ್ಕು ಸ್ವರೂಪಗಳಲ್ಲಿ ಮಂತ್ರಪುಟಗಳನ್ನು ಪ್ರಕಾಶನ ಮಾಡುತ್ತಿದ್ದೇನೆ. ಮೊದಲ ಬಾರಿಗೆ ಪ್ರಾಯೋಗಿಕವಾಗಿ ತೆಲುಗು, ತಮಿಳು ಹಾಗೂ ಮಲಯಾಳಂ ಭಾಷೆಗಳಲ್ಲಿ ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ.
 
 ಸ್ವರೂಪ-೧ ರಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಇತ್ತೀಚಿನ ಪುಸ್ತಕಗಳಲ್ಲಿರುವಂತೆ ಸಂಹಿತಾ ಮಂತ್ರದ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸಿ, ರಚಿಸಿದ್ದೇನೆ. ಇದನ್ನು "ಪದಚ್ಛೇದ ಪೂರ್ವಕ ಮಂತ್ರ ಪಾಠ" ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಸ್ವರೂಪ-೨ ಮತ್ತು ಸ್ವರೂಪ-೩ರಲ್ಲಿ ಪರಂಪರಾಗತವಾಗಿ ಬಂದ ಮೂಲ ಸಂಹಿತಾಪಾಠದಂತೆ, ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕಿಸದೇ ಒಟ್ಟಾಗಿಸಿ ತೋರಿಸುವ ಪ್ರಯತ್ನ ಮಾಡಿದ್ದೇನೆ. ಇದರ ಜೊತೆಗೆ ಸ್ವರೂಪ-೨ರಲ್ಲಿ ಪದ ಪ್ರತ್ಯೇಕತೆಯನ್ನು ಗುರುತಿಸಲು ಪರ್ಯಾಯ ಪದಗಳನ್ನು ಭಿನ್ನ ಬಣ್ಣಗಳಿಂದ ಕೋಡ್ ಮಾಡಿದ್ದೇನೆ. ಸ್ವರೂಪ-೪ರಲ್ಲಿ ಅಗ್ನಿಮುಖ ಪ್ರಯೋಗದಲ್ಲಿ ಉಪಯೋಗಿಸುವ ಉದ್ದೇಶದಿಂದ ಮಂತ್ರಾಂತ್ಯದಲ್ಲಿ "ಸ್ವಾಹಾ"ಕಾರ ವನ್ನು ಸೇರಿಸಿ ಮಂತ್ರಗಳನ್ನು ಪ್ರಕಟಿಸುತ್ತಿದ್ದೇನೆ.
@@ -24,12 +22,14 @@ As an experimental basis, publishing the Sasvara Rigveda Samhita in Telugu, Tami
 		</td>
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M01.html">ಮಂಡಲ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M01.html">मंडल-1</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Mandala/Format2/RVS-Telugu-F2-M01.html">మండల-1</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Mandala/Format2/RVS-Tamil-F2-M01.html">மண்ட³ல-1</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format2/RVS-Malayalam-F2-M01.html">മണ്ഡല-1</a>
 		</td>
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M01.html">ಮಂಡಲ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M01.html">मंडल-1</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Mandala/Format3/RVS-Telugu-F3-M01.html">మండల-1</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Mandala/Format3/RVS-Tamil-F3-M01.html">மண்ட³ல-1</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format3/RVS-Malayalam-F3-M01.html">മണ്ഡല-1</a>

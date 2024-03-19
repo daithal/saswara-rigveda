@@ -1,0 +1,51 @@
+@font-face {
+Font-family: 'Devanagari';
+src: url('AdishilaVedic.ttf')}
+.Devanagari {
+font-family: 'Devanagari' !important}
+table {
+border: 2px solid black;
+table-layout: auto}
+.DevanagariSuktaLabelCol {
+font-family: 'Devanagari';
+border: 1px solid black;
+padding: 4px;
+margin: 2px;
+background-color: #ffcc99;
+font-size: 3em}
+.DevanagariMantraCol1 {
+font-family: 'Devanagari';
+background-color: #eeeeee;
+line-height: 90%;
+padding: 12px;
+font-size: 2em}
+.DevanagariMantraCol2 {
+font-family: 'Devanagari';
+background-color: #d1e0e0;
+line-height: 90%;
+padding: 12px;
+font-size: 2em}
+.RishiDevChandasSpan {
+padding: 2px;
+margin: 1px;
+font-size: 1em;
+color: green;
+margin: 1px}
+.MantraNumberingSpan {
+padding: 2px;
+margin: 1px;
+font-size: 1em;
+color: blue;
+margin: 1px}
+.simpleTextDevanagari {
+font-family: 'Devanagari';
+line-height: 110%;
+padding: 12px;
+font-size: 1em;
+color: #943155}
+.simpHtmlH1Devanagari {
+font-family: 'Devanagari';
+text-align: center;
+color: #943155}
+.red {color: red}
+.black {color: black}
