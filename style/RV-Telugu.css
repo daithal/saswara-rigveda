@@ -1,0 +1,51 @@
+@font-face {
+Font-family: 'Noto Sans Telugu';
+src: url('https://cdn.jsdelivr.net/gh/googlei18n/noto-fonts/unhinted/otf/NotoSansTelugu/NotoSansTelugu-Regular.otf')}
+.Telugu {
+font-family: 'Noto Sans Telugu' !important}
+table {
+border: 2px solid black;
+table-layout: auto}
+.TeluguSuktaLabelCol {
+font-family: 'Noto Sans Telugu';
+border: 1px solid black;
+padding: 4px;
+margin: 2px;
+background-color: #ffcc99;
+font-size: 130%}
+.TeluguMantraCol1 {
+font-family: 'Noto Sans Telugu';
+background-color: #eeeeee;
+line-height: 90%;
+padding: 12px;
+font-size: 155%}
+.TeluguMantraCol2 {
+font-family: 'Noto Sans Telugu';
+background-color: #d1e0e0;
+line-height: 90%;
+padding: 12px;
+font-size: 155%}
+.RishiDevChandasSpan {
+padding: 2px;
+margin: 1px;
+font-size: 50%;
+color: green;
+margin: 1px}
+.MantraNumberingSpan {
+padding: 2px;
+margin: 1px;
+font-size: 50%;
+color: blue;
+margin: 1px}
+.simpleTextTelugu {
+font-family: 'Noto Sans Telugu';
+line-height: 110%;
+padding: 12px;
+font-size: 155%;
+color: #943155}
+.simpHtmlH1Telugu {
+font-family: 'Noto Sans Telugu';
+text-align: center;
+color: #943155}
+.red {color: red}
+.black {color: black}

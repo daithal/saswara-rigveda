@@ -1,0 +1,51 @@
+@font-face {
+Font-family: 'Noto Sans Tamil';
+src: url('https://cdn.jsdelivr.net/gh/googlei18n/noto-fonts/unhinted/otf/NotoSansTamil/NotoSansTamil-Regular.otf')}
+.Tamil {
+font-family: 'Noto Sans Tamil' !important}
+table {
+border: 2px solid black;
+table-layout: auto}
+.TamilSuktaLabelCol {
+font-family: 'Noto Sans Tamil';
+border: 1px solid black;
+padding: 4px;
+margin: 2px;
+background-color: #ffcc99;
+font-size: 130%}
+.TamilMantraCol1 {
+font-family: 'Noto Sans Tamil';
+background-color: #eeeeee;
+line-height: 90%;
+padding: 12px;
+font-size: 155%}
+.TamilMantraCol2 {
+font-family: 'Noto Sans Tamil';
+background-color: #d1e0e0;
+line-height: 90%;
+padding: 12px;
+font-size: 155%}
+.RishiDevChandasSpan {
+padding: 2px;
+margin: 1px;
+font-size: 50%;
+color: green;
+margin: 1px}
+.MantraNumberingSpan {
+padding: 2px;
+margin: 1px;
+font-size: 50%;
+color: blue;
+margin: 1px}
+.simpleTextTamil {
+font-family: 'Noto Sans Tamil';
+line-height: 110%;
+padding: 12px;
+font-size: 155%;
+color: #943155}
+.simpHtmlH1Tamil {
+font-family: 'Noto Sans Tamil';
+text-align: center;
+color: #943155}
+.red {color: red}
+.black {color: black}
