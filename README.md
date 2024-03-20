@@ -506,8 +506,11 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 			<h2>ಪರಿಶಿಷ್ಟ (ಖಿಲ)</h2>
 		</td>
 		<td style="text-align: center">
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ) (HTML)</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVKHILA(Kannada).pdf">ಪರಿಶಿಷ್ಟ (ಖಿಲ) (PDF)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/RVKHILA(Devanagari).html">परिशिष्ट (खिल)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/RVKHILA(Tamil).html">பரிஶிஷ்ட (கி²ல)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/RVKHILA(Telugu).html">పరిశిష్ట (ఖిల)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/RVKHILA(Malayalam).html">പരിശിഷ്ട (ഖില)</a>
 		</td>
 	</tr>
 </table>	
