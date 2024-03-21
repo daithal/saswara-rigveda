@@ -6,46 +6,46 @@ font-family: 'Noto Sans Malayalam' !important}
 table {
 border: 2px solid black;
 table-layout: auto}
-.MalayalamSuktaLabelCol {
+.simpleText {
+font-family: 'Noto Sans Malayalam';
+line-height: 110%;
+padding: 12px;
+font-size: 155%;
+color: #943155}
+.simpHtmlH1 {
+font-family: 'Noto Sans Malayalam';
+text-align: center;
+color: #943155}
+.SuktaLabel {
 font-family: 'Noto Sans Malayalam';
 border: 1px solid black;
 padding: 4px;
 margin: 2px;
 background-color: #ffcc99;
 font-size: 130%}
-.MalayalamMantraCol1 {
+.VargaColorType1 {
 font-family: 'Noto Sans Malayalam';
 background-color: #eeeeee;
 line-height: 90%;
 padding: 12px;
 font-size: 155%}
-.MalayalamMantraCol2 {
+.VargaColorType2 {
 font-family: 'Noto Sans Malayalam';
 background-color: #d1e0e0;
 line-height: 90%;
 padding: 12px;
 font-size: 155%}
-.RishiDevChandasSpan {
+.RishiDevChandas {
 padding: 2px;
 margin: 1px;
 font-size: 50%;
 color: green;
 margin: 1px}
-.MantraNumberingSpan {
+.MantraNumbering {
 padding: 2px;
 margin: 1px;
 font-size: 50%;
 color: blue;
 margin: 1px}
-.simpleTextMalayalam {
-font-family: 'Noto Sans Malayalam';
-line-height: 110%;
-padding: 12px;
-font-size: 155%;
-color: #943155}
-.simpHtmlH1Malayalam {
-font-family: 'Noto Sans Malayalam';
-text-align: center;
-color: #943155}
 .red {color: red}
 .black {color: black}
