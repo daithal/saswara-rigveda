@@ -6,10 +6,10 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 
 <table style="width:100%">
 	<tr>
-		<th>पदच्छेद पूर्वक स्वरूप</th>
-		<th>वर्णयुक्त संहिता स्वरूप</th>
-		<th>पुस्तक स्वरूप</th>
-		<th>स्वाहाकार सहित स्वरूप</th>
+		<th>पदच्छेद पूर्वक स्वरूप Format-1</th>
+		<th>वर्णयुक्त संहिता स्वरूप Format-2</th>
+		<th>पुस्तक स्वरूप Format-3</th>
+		<th>स्वाहाकार सहित स्वरूप Format-4</th>
 	</tr>
 	<tr>
 		<td>
@@ -318,10 +318,10 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 
 <table style="width:100%">
 	<tr>
-		<th>पदच्छेद पूर्वक स्वरूप</th>
-		<th>वर्णयुक्त संहिता स्वरूप</th>
-		<th>पुस्तक स्वरूप</th>
-		<th>स्वाहाकार सहित स्वरूप</th>
+		<th>पदच्छेद पूर्वक स्वरूप Format-1</th>
+		<th>वर्णयुक्त संहिता स्वरूप Format-2</th>
+		<th>पुस्तक स्वरूप Format-3</th>
+		<th>स्वाहाकार सहित स्वरूप Format-4</th>
 	</tr>
 	<tr>
 		<td>
