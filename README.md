@@ -6,7 +6,7 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 
 <table style="width:100%">
 	<tr>
-		<th colspan="4">मण्डलानुक्रमणिका</th>
+		<th colspan="4" style="font-size: 18px;">मण्डलानुक्रमणिका</th>
 	</tr>
 	<tr>
 		<th>पदच्छेद पूर्वक स्वरूप Format-1</th>
@@ -319,7 +319,7 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 
 <hr>
 
-<table style="width:100%">
+<table style="width:100%" style="font-size: 18px;">
 	<tr>
 		<th colspan="4">अष्टकानुक्रमणिका</th>
 	</tr>
