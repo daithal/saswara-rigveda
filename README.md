@@ -602,7 +602,13 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 5.	ಪವಮಾನಪಂಚಸೂಕ್ತಮ್ - ವಿದ್ವಾನ್ ಕದ್ರಿ ಪ್ರಭಾಕರ ಅಡಿಗರು
 6.	ಸಸ್ವರ ಋಗ್ವೇದ ಸಂಹಿತಾ, ರಾಮಕೃಷ್ಣ ಮಠ, ಬೆಂಗಳೂರು
 
-ನಿಮ್ಮಲ್ಲಿ ಯಾರಾದರೂ ಋಗ್ವೇದಾಧ್ಯಾಯಿಗಳು, ಕಲಿತ ಪಾಠವನ್ನು ನಿರಂತರ ಅಭ್ಯಾಸ ಮಾಡಲು ಇಚ್ಛೆ ಇದ್ದರೆ ನನಗೆ ಇಮೇಲ್ ಮಾಡಿ ನಿಮ್ಮ ಫೋನ್ ನಂಬರ್ ತಿಳಿಸಿ. ನಾವು ಒಂದು ಸಣ್ಣ ಗುಂಪು ಮಾಡಿಕೊಂಡು ದಿನದಲ್ಲಿ ಒಂದು ವೇಳೆಯನ್ನು ನಿಗದಿಪಡಿಸಿಕೊಂಡು ಫೋನ್ ಯಾ ವಾಟ್ಸಾಪ್ ಮೂಲಕ ಕಲಿತ ಪಾಠವನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿಕೊಳ್ಳಬಹುದು. ಕ್ಷಮಿಸಿ ಇದು ಹೊಸದಾಗಿ ಕಲಿಯುವವರಿಗೆ ಅಲ್ಲ ಹಾಗೂ ಸಧ್ಯಕ್ಕೆ ಇದು ಶೃಂಗೇರಿ ಶೈಲಿಯ ಉಚ್ಚಾರಣಾ ಕ್ರಮದಲ್ಲಿ ಪಾಠ ಕಲಿತವರಿಗೆ ಮಾತ್ರ ಸೀಮಿತಗೊಳಿಸುತ್ತಿದ್ದೇನೆ. ಇದಕ್ಕೆ ಯಾವುದೇ ರೀತಿಯ ಶುಲ್ಕವಿಲ್ಲ
+### ಕೃತಜ್ಞತೆಗಳು (Special Thanks)
+1. All my teachers and Gurus
+2. [Detlef Eichler](http://www.detlef108.de/Rigveda.htm) and [Harvard Oriental Series](https://sites.harvard.edu/witzel/editorial-work/harvard-oriental-series-vol-50)
+3. Vinodh for creating the tool https://www.aksharamukha.com/converter
+
+
+ನಿಮ್ಮಲ್ಲಿ ಯಾರಾದರೂ ಋಗ್ವೇದಾಧ್ಯಾಯಿಗಳು, ಕಲಿತ ಪಾಠವನ್ನು ಆವೃತ್ತಿ ಮಾಡಲು ಇಚ್ಛೆ ಇದ್ದರೆ ನನಗೆ ಇಮೇಲ್ ಮಾಡಿ ನಿಮ್ಮ ಫೋನ್ ನಂಬರ್ ತಿಳಿಸಿ. ನಾವು ಒಂದು ಸಣ್ಣ ಗುಂಪು ಮಾಡಿಕೊಂಡು ದಿನದಲ್ಲಿ ಒಂದು ವೇಳೆಯನ್ನು ನಿಗದಿಪಡಿಸಿಕೊಂಡು ಫೋನ್ ಯಾ ವಾಟ್ಸಾಪ್ ಮೂಲಕ ಕಲಿತ ಪಾಠವನ್ನು ಅಭ್ಯಾಸ ಮಾಡಿಕೊಳ್ಳಬಹುದು. ಕ್ಷಮಿಸಿ ಇದು ಹೊಸದಾಗಿ ಕಲಿಯುವವರಿಗೆ ಅಲ್ಲ ಹಾಗೂ ಸಧ್ಯಕ್ಕೆ ಇದು ಶೃಂಗೇರಿ ಶೈಲಿಯ ಉಚ್ಚಾರಣಾ ಕ್ರಮದಲ್ಲಿ ಪಾಠ ಕಲಿತವರಿಗೆ ಮಾತ್ರ ಸೀಮಿತಗೊಳಿಸುತ್ತಿದ್ದೇನೆ. ಇದಕ್ಕೆ ಯಾವುದೇ ರೀತಿಯ ಶುಲ್ಕವಿಲ್ಲ
 
 If anyone is interested in practicing Rigveda Samhita (Sringeri style of chanting) on a regular basis over the phone (or whatsapp or anything), please reach out to me. We can discuss and set ourselves a plan of action. The only prerequisite is that the participants must be knowledgeable with Vedic Swaras and should be comfortable with chanting in Sringeri style. Please note, this is not for beginners who want to learn Rigveda, rather it’s for people who have learned from a teacher and are willing to practice.
 
