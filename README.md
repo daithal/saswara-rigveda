@@ -273,7 +273,7 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M09.html">ಮಂಡಲ-9 (HTML)</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M09.pdf">ಮಂಡಲ-9 (PDF)</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F1-M09.html">मंडल-9</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M09.html">मंडल-9</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Mandala/Format3/RVS-Telugu-F3-M09.html">మండల-9</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Mandala/Format3/RVS-Tamil-F3-M09.html">மண்ட³ல-9</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Mandala/Format3/RVS-Malayalam-F3-M09.html">മണ്ഡല-9</a>
