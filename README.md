@@ -581,16 +581,38 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 <hr>
 
 <table style="width:100%">
-	<tr valign="top">
-		<td style="text-align: center">
-			ಪರಿಶಿಷ್ಟ (ಖಿಲ) <a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVKHILA(Kannada).html">HTML</a> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVKHILA(Kannada).pdf">PDF</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/RVKHILA(Devanagari).html">परिशिष्ट (खिल)</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/RVKHILA(Tamil).html">பரிஶிஷ்ட (கி²ல)</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/RVKHILA(Telugu).html">పరిశిష్ట (ఖిల)</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/RVKHILA(Malayalam).html">പരിശിഷ്ട (ഖില)</a>
+	<tr>
+		<th colspan="3" style="font-size: 20px;">खिलमंत्राणि</th>
+	</tr>
+	<tr>
+		<th>पदच्छेद पूर्वक स्वरूप Format-1</th>
+		<th>वर्णयुक्त स्वरूप Format-2</th>
+		<th>पुस्तक स्वरूप Format-3</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVK-Kannada-F1.html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/RVK-Devanagari-F1.html">परिशिष्ट (खिल)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/RVK-Tamil-F1.html">பரிஶிஷ்ட (கி²ல)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/RVK-Telugu-F1.html">పరిశిష్ట (ఖిల)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/RVK-Malayalam-F1.html">പരിശിഷ്ട (ഖില)</a>
+		</td>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVK-Kannada-F2.html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/RVK-Devanagari-F2.html">परिशिष्ट (खिल)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/RVK-Tamil-F2.html">பரிஶிஷ்ட (கி²ல)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/RVK-Telugu-F2.html">పరిశిష్ట (ఖిల)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/RVK-Malayalam-F2.html">പരിശിഷ്ട (ഖില)</a>
+		</td>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVK-Kannada-F3.html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/RVK-Devanagari-F3.html">परिशिष्ट (खिल)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/RVK-Tamil-F3.html">பரிஶிஷ்ட (கி²ல)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/RVK-Telugu-F3.html">పరిశిష్ట (ఖిల)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/RVK-Malayalam-F3.html">പരിശിഷ്ട (ഖില)</a>
 		</td>
 	</tr>
-</table>	
+</table>
 
 <hr>
 
