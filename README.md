@@ -12,14 +12,14 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 		<th colspan="2">स्वाहाकार स्वरूप Format-4</th>
 	</tr>
 	<tr>
-		<td style="font-size: 20px;">मण्डलानुक्रमणिका</th>
-		<td style="font-size: 20px;">अष्टकानुक्रमणिका</th>
-		<td style="font-size: 20px;">मण्डलानुक्रमणिका</th>
-		<td style="font-size: 20px;">अष्टकानुक्रमणिका</th>
-		<td style="font-size: 20px;">मण्डलानुक्रमणिका</th>
-		<td style="font-size: 20px;">अष्टकानुक्रमणिका</th>
-		<td style="font-size: 20px;">मण्डलानुक्रमणिका</th>
-		<td style="font-size: 20px;">अष्टकानुक्रमणिका</th>
+		<td style="font-size: 20px;">मण्डलानुक्रमणिका</td>
+		<td style="font-size: 20px;">अष्टकानुक्रमणिका</td>
+		<td style="font-size: 20px;">मण्डलानुक्रमणिका</td>
+		<td style="font-size: 20px;">अष्टकानुक्रमणिका</td>
+		<td style="font-size: 20px;">मण्डलानुक्रमणिका</td>
+		<td style="font-size: 20px;">अष्टकानुक्रमणिका</td>
+		<td style="font-size: 20px;">मण्डलानुक्रमणिका</td>
+		<td style="font-size: 20px;">अष्टकानुक्रमणिका</td>
 	</tr>
 	<tr>
 		<td>
