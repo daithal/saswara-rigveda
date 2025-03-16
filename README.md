@@ -23,108 +23,92 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 	</tr>
 	<tr>
 		<td>
-			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M01.html">ಮಂಡಲ-1</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M02.html">ಮಂಡಲ-2</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M03.html">ಮಂಡಲ-3</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M04.html">ಮಂಡಲ-4</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M05.html">ಮಂಡಲ-5</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M06.html">ಮಂಡಲ-6</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M07.html">ಮಂಡಲ-7</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M08.html">ಮಂಡಲ-8</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M09.html">ಮಂಡಲ-9</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M010.html">ಮಂಡಲ-10</a></li>
-			</ol>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M01.html">ಮಂಡಲ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M02.html">ಮಂಡಲ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M03.html">ಮಂಡಲ-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M04.html">ಮಂಡಲ-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M05.html">ಮಂಡಲ-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M06.html">ಮಂಡಲ-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M07.html">ಮಂಡಲ-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M08.html">ಮಂಡಲ-8</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M09.html">ಮಂಡಲ-9</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M010.html">ಮಂಡಲ-10</a>
 		</td>
 		<td>
-			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A01.html">ಅಷ್ಟಕ-1</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A02.html">ಅಷ್ಟಕ-2</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A03.html">ಅಷ್ಟಕ-3</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A04.html">ಅಷ್ಟಕ-4</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A05.html">ಅಷ್ಟಕ-5</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A06.html">ಅಷ್ಟಕ-6</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A07.html">ಅಷ್ಟಕ-7</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A08.html">ಅಷ್ಟಕ-8</a></li>
-			</ol>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A01.html">ಅಷ್ಟಕ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A02.html">ಅಷ್ಟಕ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A03.html">ಅಷ್ಟಕ-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A04.html">ಅಷ್ಟಕ-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A05.html">ಅಷ್ಟಕ-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A06.html">ಅಷ್ಟಕ-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A07.html">ಅಷ್ಟಕ-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A08.html">ಅಷ್ಟಕ-8</a>
 		</td>
 		<td>
-			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M01.html">ಮಂಡಲ-1</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M02.html">ಮಂಡಲ-2</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M03.html">ಮಂಡಲ-3</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M04.html">ಮಂಡಲ-4</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M05.html">ಮಂಡಲ-5</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M06.html">ಮಂಡಲ-6</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M07.html">ಮಂಡಲ-7</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M08.html">ಮಂಡಲ-8</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M09.html">ಮಂಡಲ-9</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M010.html">ಮಂಡಲ-10</a></li>
-			</ol>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M01.html">ಮಂಡಲ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M02.html">ಮಂಡಲ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M03.html">ಮಂಡಲ-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M04.html">ಮಂಡಲ-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M05.html">ಮಂಡಲ-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M06.html">ಮಂಡಲ-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M07.html">ಮಂಡಲ-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M08.html">ಮಂಡಲ-8</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M09.html">ಮಂಡಲ-9</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M010.html">ಮಂಡಲ-10</a>
 		</td>
 		<td>
-			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A01.html">ಅಷ್ಟಕ-1</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A02.html">ಅಷ್ಟಕ-2</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A03.html">ಅಷ್ಟಕ-3</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A04.html">ಅಷ್ಟಕ-4</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A05.html">ಅಷ್ಟಕ-5</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A06.html">ಅಷ್ಟಕ-6</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A07.html">ಅಷ್ಟಕ-7</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A08.html">ಅಷ್ಟಕ-8</a></li>
-			</ol>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A01.html">ಅಷ್ಟಕ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A02.html">ಅಷ್ಟಕ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A03.html">ಅಷ್ಟಕ-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A04.html">ಅಷ್ಟಕ-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A05.html">ಅಷ್ಟಕ-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A06.html">ಅಷ್ಟಕ-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A07.html">ಅಷ್ಟಕ-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A08.html">ಅಷ್ಟಕ-8</a>
 		</td>
 		<td>
-			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M01.html">ಮಂಡಲ-1</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M02.html">ಮಂಡಲ-2</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M03.html">ಮಂಡಲ-3</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M04.html">ಮಂಡಲ-4</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M05.html">ಮಂಡಲ-5</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M06.html">ಮಂಡಲ-6</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M07.html">ಮಂಡಲ-7</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M08.html">ಮಂಡಲ-8</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M09.html">ಮಂಡಲ-9</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M010.html">ಮಂಡಲ-10</a></li>
-			</ol>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M01.html">ಮಂಡಲ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M02.html">ಮಂಡಲ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M03.html">ಮಂಡಲ-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M04.html">ಮಂಡಲ-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M05.html">ಮಂಡಲ-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M06.html">ಮಂಡಲ-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M07.html">ಮಂಡಲ-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M08.html">ಮಂಡಲ-8</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M09.html">ಮಂಡಲ-9</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M010.html">ಮಂಡಲ-10</a>
 		</td>
 		<td>
-			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A01.html">ಅಷ್ಟಕ-1</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A02.html">ಅಷ್ಟಕ-2</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A03.html">ಅಷ್ಟಕ-3</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A04.html">ಅಷ್ಟಕ-4</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A05.html">ಅಷ್ಟಕ-5</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A06.html">ಅಷ್ಟಕ-6</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A07.html">ಅಷ್ಟಕ-7</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A08.html">ಅಷ್ಟಕ-8</a></li>
-			</ol>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A01.html">ಅಷ್ಟಕ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A02.html">ಅಷ್ಟಕ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A03.html">ಅಷ್ಟಕ-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A04.html">ಅಷ್ಟಕ-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A05.html">ಅಷ್ಟಕ-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A06.html">ಅಷ್ಟಕ-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A07.html">ಅಷ್ಟಕ-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A08.html">ಅಷ್ಟಕ-8</a>
 		</td>
 		<td>
-			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M01.html">ಮಂಡಲ-1</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M02.html">ಮಂಡಲ-2</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M03.html">ಮಂಡಲ-3</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M04.html">ಮಂಡಲ-4</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M05.html">ಮಂಡಲ-5</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M06.html">ಮಂಡಲ-6</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M07.html">ಮಂಡಲ-7</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M08.html">ಮಂಡಲ-8</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M09.html">ಮಂಡಲ-9</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M010.html">ಮಂಡಲ-10</a></li>
-			</ol>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M01.html">ಮಂಡಲ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M02.html">ಮಂಡಲ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M03.html">ಮಂಡಲ-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M04.html">ಮಂಡಲ-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M05.html">ಮಂಡಲ-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M06.html">ಮಂಡಲ-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M07.html">ಮಂಡಲ-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M08.html">ಮಂಡಲ-8</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M09.html">ಮಂಡಲ-9</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M010.html">ಮಂಡಲ-10</a>
 		</td>
 		<td>
-			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A01.html">ಅಷ್ಟಕ-1</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A02.html">ಅಷ್ಟಕ-2</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A03.html">ಅಷ್ಟಕ-3</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A04.html">ಅಷ್ಟಕ-4</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A05.html">ಅಷ್ಟಕ-5</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A06.html">ಅಷ್ಟಕ-6</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A07.html">ಅಷ್ಟಕ-7</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A08.html">ಅಷ್ಟಕ-8</a></li>
-			</ol>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A01.html">ಅಷ್ಟಕ-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A02.html">ಅಷ್ಟಕ-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A03.html">ಅಷ್ಟಕ-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A04.html">ಅಷ್ಟಕ-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A05.html">ಅಷ್ಟಕ-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A06.html">ಅಷ್ಟಕ-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A07.html">ಅಷ್ಟಕ-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A08.html">ಅಷ್ಟಕ-8</a>
 		</td>
 	</tr>
 </table>
@@ -770,112 +754,112 @@ If anyone is interested in practicing Rigveda Samhita (Sringeri style of chantin
 	<tr>
 		<td>
 			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada)-F1.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Kannada)-F1.html">ಗಣೇಶಾಥರ್ವಶೀರ್ಷ‌ಮ್</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/gaNesha-paMchAyatana(Kannada)-F1.html">ಗಣೇಶ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/viShNu-paMchAyatana(Kannada)-F1.html">ವಿಷ್ಣು ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-1(Kannada)-F1.html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-1)</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-2(Kannada)-F1.html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-2)</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/Aditya-paMchAyatana(Kannada)-F1.html">ಆದಿತ್ಯ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/devi-paMchAyatana(Kannada)-F1.html">ದೇವಿ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Kannada)-F1.html">ನವಗ್ರಹ ಮಂತ್ರಗಳು</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Kannada)-F1.html">ವೇದಪಾರಾಯಣ ಆರಂಭ ಮಂತ್ರಾಣಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Kannada)-F1.html">ಗಣೇಶ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Kannada)-F1.html">ಐಕಮತ್ಯ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Kannada)-F1.html">ಪುರುಷ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-sUkta(Kannada)-F1.html">ಶ್ರದ್ಧಾ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Kannada)-F1.html">ಮೇಧಾ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(Kannada)-F1.html">ಶ್ರೀ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Kannada)-F1.html">ಬ್ರಹ್ಮಣಸ್ಪತಿ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Kannada)-F1.html">ವಿಷ್ಣು ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta(Kannada)-F1.html">ಪಂಚರುದ್ರ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta(Kannada)-F1.html">ದೇವೀ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta(Kannada)-F1.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta(Kannada)-F1.html">ಸೂರ್ಯ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada)-F1.html">ಗೋ ಸೂಕ್ತ</a></li>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada)-F1.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Kannada)-F1.html">ಗಣೇಶಾಥರ್ವಶೀರ್ಷ‌ಮ್</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/gaNesha-paMchAyatana(Kannada)-F1.html">ಗಣೇಶ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/viShNu-paMchAyatana(Kannada)-F1.html">ವಿಷ್ಣು ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-1(Kannada)-F1.html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-1)</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-2(Kannada)-F1.html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-2)</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/Aditya-paMchAyatana(Kannada)-F1.html">ಆದಿತ್ಯ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/devi-paMchAyatana(Kannada)-F1.html">ದೇವಿ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Kannada)-F1.html">ನವಗ್ರಹ ಮಂತ್ರಗಳು</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Kannada)-F1.html">ವೇದಪಾರಾಯಣ ಆರಂಭ ಮಂತ್ರಾಣಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Kannada)-F1.html">ಗಣೇಶ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Kannada)-F1.html">ಐಕಮತ್ಯ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Kannada)-F1.html">ಪುರುಷ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-sUkta(Kannada)-F1.html">ಶ್ರದ್ಧಾ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Kannada)-F1.html">ಮೇಧಾ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(Kannada)-F1.html">ಶ್ರೀ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Kannada)-F1.html">ಬ್ರಹ್ಮಣಸ್ಪತಿ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Kannada)-F1.html">ವಿಷ್ಣು ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta(Kannada)-F1.html">ಪಂಚರುದ್ರ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta(Kannada)-F1.html">ದೇವೀ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta(Kannada)-F1.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta(Kannada)-F1.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada)-F1.html">ಗೋ ಸೂಕ್ತ</a>
 			</ol>
 		</td>
 		<td>
 			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada)-F2.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Kannada)-F2.html">ಗಣೇಶಾಥರ್ವಶೀರ್ಷ‌ಮ್</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/gaNesha-paMchAyatana(Kannada)-F2.html">ಗಣೇಶ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/viShNu-paMchAyatana(Kannada)-F2.html">ವಿಷ್ಣು ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-1(Kannada)-F2.html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-1)</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-2(Kannada)-F2.html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-2)</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/Aditya-paMchAyatana(Kannada)-F2.html">ಆದಿತ್ಯ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/devi-paMchAyatana(Kannada)-F2.html">ದೇವಿ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Kannada)-F2.html">ನವಗ್ರಹ ಮಂತ್ರಗಳು</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Kannada)-F2.html">ವೇದಪಾರಾಯಣ ಆರಂಭ ಮಂತ್ರಾಣಿ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Kannada)-F2.html">ಗಣೇಶ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Kannada)-F2.html">ಐಕಮತ್ಯ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Kannada)-F2.html">ಪುರುಷ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-sUkta(Kannada)-F2.html">ಶ್ರದ್ಧಾ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Kannada)-F2.html">ಮೇಧಾ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(Kannada)-F2.html">ಶ್ರೀ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Kannada)-F2.html">ಬ್ರಹ್ಮಣಸ್ಪತಿ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Kannada)-F2.html">ವಿಷ್ಣು ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta(Kannada)-F2.html">ಪಂಚರುದ್ರ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta(Kannada)-F2.html">ದೇವೀ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta(Kannada)-F2.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta(Kannada)-F2.html">ಸೂರ್ಯ ಸೂಕ್ತ</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada)-F2.html">ಗೋ ಸೂಕ್ತ</a></li>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Kannada)-F2.html">ಸಂಧ್ಯಾವಂದನೆಯ ಋಕ್ ಮಂತ್ರಗಳು</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Kannada)-F2.html">ಗಣೇಶಾಥರ್ವಶೀರ್ಷ‌ಮ್</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/gaNesha-paMchAyatana(Kannada)-F2.html">ಗಣೇಶ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/viShNu-paMchAyatana(Kannada)-F2.html">ವಿಷ್ಣು ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-1(Kannada)-F2.html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-1)</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-2(Kannada)-F2.html">ಶಿವ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ (ಕ್ರಮ-2)</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/Aditya-paMchAyatana(Kannada)-F2.html">ಆದಿತ್ಯ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/devi-paMchAyatana(Kannada)-F2.html">ದೇವಿ ಪಂಚಾಯತನ ಪೂಜಾ ವಿಧಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Kannada)-F2.html">ನವಗ್ರಹ ಮಂತ್ರಗಳು</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Kannada)-F2.html">ವೇದಪಾರಾಯಣ ಆರಂಭ ಮಂತ್ರಾಣಿ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Kannada)-F2.html">ಗಣೇಶ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Kannada)-F2.html">ಐಕಮತ್ಯ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Kannada)-F2.html">ಪುರುಷ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-sUkta(Kannada)-F2.html">ಶ್ರದ್ಧಾ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Kannada)-F2.html">ಮೇಧಾ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(Kannada)-F2.html">ಶ್ರೀ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Kannada)-F2.html">ಬ್ರಹ್ಮಣಸ್ಪತಿ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Kannada)-F2.html">ವಿಷ್ಣು ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta(Kannada)-F2.html">ಪಂಚರುದ್ರ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta(Kannada)-F2.html">ದೇವೀ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta(Kannada)-F2.html">ಸರಸ್ವತಿ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta(Kannada)-F2.html">ಸೂರ್ಯ ಸೂಕ್ತ</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Kannada)-F2.html">ಗೋ ಸೂಕ್ತ</a>
 			</ol>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Devanagari)-F1.html">सन्ध्यावंदन-मंत्रानि</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Devanagari)-F1.html">गणेशाथर्वशीर्षम्</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/gaNesha-paMchAyatana(Devanagari)-F1.html">गणेश पंचायतन पूजा विधिः</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/viShNu-paMchAyatana(Devanagari)-F1.html">विष्णु पंचायतन पूजा विधिः</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-1(Devanagari)-F1.html">शिव पंचायतन पूजा विधिः(क्रम-1)</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-2(Devanagari)-F1.html">शिव पंचायतन पूजा विधिः(क्रम-2)</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/Aditya-paMchAyatana(Devanagari)-F1.html">आदित्य पंचायतन पूजा विधिः</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/devi-paMchAyatana(Devanagari)-F1.html">देवि पंचायतन पूजा विधिः</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Devanagari)-F1.html">नवग्रह मंत्राणि</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Devanagari)-F1.html">वेदपारायण आरम्भ मन्त्राणि</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Devanagari)-F1.html">गणेश सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Devanagari)-F1.html">ऐकमत्य सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Devanagari)-F1.html">पुरुष सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-sUkta(Devanagari)-F1.html">श्रद्धा सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Devanagari)-F1.html">मेधा सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(Devanagari)-F1.html">श्री सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Devanagari)-F1.html">ब्रह्मणस्पति सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Devanagari)-F1.html">विष्णु सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta(Devanagari)-F1.html">पंचरुद्र सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta(Devanagari)-F1.html">देवी सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta(Devanagari)-F1.html">सरस्वति सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta(Devanagari)-F1.html">सूर्य सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Devanagari)-F1.html">गो सूक्त</a></li>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Devanagari)-F1.html">सन्ध्यावंदन-मंत्रानि</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Devanagari)-F1.html">गणेशाथर्वशीर्षम्</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/gaNesha-paMchAyatana(Devanagari)-F1.html">गणेश पंचायतन पूजा विधिः</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/viShNu-paMchAyatana(Devanagari)-F1.html">विष्णु पंचायतन पूजा विधिः</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-1(Devanagari)-F1.html">शिव पंचायतन पूजा विधिः(क्रम-1)</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-2(Devanagari)-F1.html">शिव पंचायतन पूजा विधिः(क्रम-2)</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/Aditya-paMchAyatana(Devanagari)-F1.html">आदित्य पंचायतन पूजा विधिः</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/devi-paMchAyatana(Devanagari)-F1.html">देवि पंचायतन पूजा विधिः</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Devanagari)-F1.html">नवग्रह मंत्राणि</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Devanagari)-F1.html">वेदपारायण आरम्भ मन्त्राणि</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Devanagari)-F1.html">गणेश सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Devanagari)-F1.html">ऐकमत्य सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Devanagari)-F1.html">पुरुष सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-sUkta(Devanagari)-F1.html">श्रद्धा सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Devanagari)-F1.html">मेधा सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(Devanagari)-F1.html">श्री सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Devanagari)-F1.html">ब्रह्मणस्पति सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Devanagari)-F1.html">विष्णु सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta(Devanagari)-F1.html">पंचरुद्र सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta(Devanagari)-F1.html">देवी सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta(Devanagari)-F1.html">सरस्वति सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta(Devanagari)-F1.html">सूर्य सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Devanagari)-F1.html">गो सूक्त</a>
 			</ol>
 		</td>
 		<td>
 			<ol>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Devanagari)-F2.html">सन्ध्यावंदन-मंत्रानि</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Devanagari)-F2.html">गणेशाथर्वशीर्षम्</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/gaNesha-paMchAyatana(Devanagari)-F2.html">गणेश पंचायतन पूजा विधिः</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/viShNu-paMchAyatana(Devanagari)-F2.html">विष्णु पंचायतन पूजा विधिः</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-1(Devanagari)-F2.html">शिव पंचायतन पूजा विधिः(क्रम-1)</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-2(Devanagari)-F2.html">शिव पंचायतन पूजा विधिः(क्रम-2)</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/Aditya-paMchAyatana(Devanagari)-F2.html">आदित्य पंचायतन पूजा विधिः</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/devi-paMchAyatana(Devanagari)-F2.html">देवि पंचायतन पूजा विधिः</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Devanagari)-F2.html">नवग्रह मंत्राणि</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Devanagari)-F2.html">वेदपारायण आरम्भ मन्त्राणि</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Devanagari)-F2.html">गणेश सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Devanagari)-F2.html">ऐकमत्य सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Devanagari)-F2.html">पुरुष सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-sUkta(Devanagari)-F2.html">श्रद्धा सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Devanagari)-F2.html">मेधा सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(Devanagari)-F2.html">श्री सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Devanagari)-F2.html">ब्रह्मणस्पति सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Devanagari)-F2.html">विष्णु सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta(Devanagari)-F2.html">पंचरुद्र सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta(Devanagari)-F2.html">देवी सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta(Devanagari)-F2.html">सरस्वति सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta(Devanagari)-F2.html">सूर्य सूक्त</a></li>
-				<li><a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Devanagari)-F2.html">गो सूक्त</a></li>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sandhyA-RikMantrani(Devanagari)-F2.html">सन्ध्यावंदन-मंत्रानि</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNeshAtharvashIrSha(Devanagari)-F2.html">गणेशाथर्वशीर्षम्</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/gaNesha-paMchAyatana(Devanagari)-F2.html">गणेश पंचायतन पूजा विधिः</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/viShNu-paMchAyatana(Devanagari)-F2.html">विष्णु पंचायतन पूजा विधिः</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-1(Devanagari)-F2.html">शिव पंचायतन पूजा विधिः(क्रम-1)</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/shiva-paMchAyatana-2(Devanagari)-F2.html">शिव पंचायतन पूजा विधिः(क्रम-2)</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/Aditya-paMchAyatana(Devanagari)-F2.html">आदित्य पंचायतन पूजा विधिः</a>
+				<a href="https://daithal.github.io/saswara-rigveda/paMchAyatana/devi-paMchAyatana(Devanagari)-F2.html">देवि पंचायतन पूजा विधिः</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/navagraha-mantras(Devanagari)-F2.html">नवग्रह मंत्राणि</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Devanagari)-F2.html">वेदपारायण आरम्भ मन्त्राणि</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Devanagari)-F2.html">गणेश सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Devanagari)-F2.html">ऐकमत्य सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Devanagari)-F2.html">पुरुष सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shraddhA-sUkta(Devanagari)-F2.html">श्रद्धा सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/medhA-sUkta(Devanagari)-F2.html">मेधा सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/shrI-sUkta(Devanagari)-F2.html">श्री सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Devanagari)-F2.html">ब्रह्मणस्पति सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Devanagari)-F2.html">विष्णु सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta(Devanagari)-F2.html">पंचरुद्र सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/devI-sUkta(Devanagari)-F2.html">देवी सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sarasvati-sUkta(Devanagari)-F2.html">सरस्वति सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/sUrya-sUkta(Devanagari)-F2.html">सूर्य सूक्त</a>
+				<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/go-sUkta(Devanagari)-F2.html">गो सूक्त</a>
 			</ol>
 		</td>
 	</tr>	
