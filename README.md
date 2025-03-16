@@ -32,7 +32,7 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M07.html">ಮಂಡಲ-7</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M08.html">ಮಂಡಲ-8</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M09.html">ಮಂಡಲ-9</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M010.html">ಮಂಡಲ-10</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format1/RVS-Kannada-F1-M10.html">ಮಂಡಲ-10</a>
 		</td>
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format1/RVS-Kannada-F1-A01.html">ಅಷ್ಟಕ-1</a>
@@ -54,7 +54,7 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M07.html">ಮಂಡಲ-7</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M08.html">ಮಂಡಲ-8</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M09.html">ಮಂಡಲ-9</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M010.html">ಮಂಡಲ-10</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format2/RVS-Kannada-F2-M10.html">ಮಂಡಲ-10</a>
 		</td>
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A01.html">ಅಷ್ಟಕ-1</a>
@@ -76,7 +76,7 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M07.html">ಮಂಡಲ-7</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M08.html">ಮಂಡಲ-8</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M09.html">ಮಂಡಲ-9</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M010.html">ಮಂಡಲ-10</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format3/RVS-Kannada-F3-M10.html">ಮಂಡಲ-10</a>
 		</td>
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format3/RVS-Kannada-F3-A01.html">ಅಷ್ಟಕ-1</a>
@@ -98,7 +98,7 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M07.html">ಮಂಡಲ-7</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M08.html">ಮಂಡಲ-8</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M09.html">ಮಂಡಲ-9</a>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M010.html">ಮಂಡಲ-10</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M10.html">ಮಂಡಲ-10</a>
 		</td>
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A01.html">ಅಷ್ಟಕ-1</a>
@@ -109,6 +109,99 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A06.html">ಅಷ್ಟಕ-6</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A07.html">ಅಷ್ಟಕ-7</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format4/RVS-Kannada-F4-A08.html">ಅಷ್ಟಕ-8</a>
+		</td>
+	</tr>
+	<tr>
+		<td></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M01.html">मंडल-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M02.html">मंडल-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M03.html">मंडल-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M04.html">मंडल-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M05.html">मंडल-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M06.html">मंडल-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M07.html">मंडल-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M08.html">मंडल-8</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M09.html">मंडल-9</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format1/RVS-Devanagari-F1-M10.html">मंडल-10</a>
+		</td>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format1/RVS-Devanagari-F1-A01.html">अष्टक-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format1/RVS-Devanagari-F1-A02.html">अष्टक-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format1/RVS-Devanagari-F1-A03.html">अष्टक-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format1/RVS-Devanagari-F1-A04.html">अष्टक-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format1/RVS-Devanagari-F1-A05.html">अष्टक-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format1/RVS-Devanagari-F1-A06.html">अष्टक-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format1/RVS-Devanagari-F1-A07.html">अष्टक-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format1/RVS-Devanagari-F1-A08.html">अष्टक-8</a>
+		</td>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M01.html">मंडल-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M02.html">मंडल-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M03.html">मंडल-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M04.html">मंडल-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M05.html">मंडल-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M06.html">मंडल-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M07.html">मंडल-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M08.html">मंडल-8</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M09.html">मंडल-9</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format2/RVS-Devanagari-F2-M10.html">मंडल-10</a>
+		</td>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format2/RVS-Devanagari-F2-A01.html">अष्टक-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format2/RVS-Devanagari-F2-A02.html">अष्टक-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format2/RVS-Devanagari-F2-A03.html">अष्टक-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format2/RVS-Devanagari-F2-A04.html">अष्टक-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format2/RVS-Devanagari-F2-A05.html">अष्टक-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format2/RVS-Devanagari-F2-A06.html">अष्टक-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format2/RVS-Devanagari-F2-A07.html">अष्टक-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format2/RVS-Devanagari-F2-A08.html">अष्टक-8</a>
+		</td>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M01.html">मंडल-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M02.html">मंडल-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M03.html">मंडल-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M04.html">मंडल-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M05.html">मंडल-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M06.html">मंडल-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M07.html">मंडल-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M08.html">मंडल-8</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M09.html">मंडल-9</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format3/RVS-Devanagari-F3-M10.html">मंडल-10</a>
+		</td>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format3/RVS-Devanagari-F3-A01.html">अष्टक-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format3/RVS-Devanagari-F3-A02.html">अष्टक-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format3/RVS-Devanagari-F3-A03.html">अष्टक-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format3/RVS-Devanagari-F3-A04.html">अष्टक-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format3/RVS-Devanagari-F3-A05.html">अष्टक-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format3/RVS-Devanagari-F3-A06.html">अष्टक-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format3/RVS-Devanagari-F3-A07.html">अष्टक-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format3/RVS-Devanagari-F3-A08.html">अष्टक-8</a>
+		</td>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M01.html">मंडल-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M02.html">मंडल-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M03.html">मंडल-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M04.html">मंडल-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M05.html">मंडल-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M06.html">मंडल-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M07.html">मंडल-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M08.html">मंडल-8</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M09.html">मंडल-9</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Mandala/Format4/RVS-Devanagari-F4-M10.html">मंडल-10</a>
+		</td>
+		<td>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format4/RVS-Devanagari-F4-A01.html">अष्टक-1</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format4/RVS-Devanagari-F4-A02.html">अष्टक-2</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format4/RVS-Devanagari-F4-A03.html">अष्टक-3</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format4/RVS-Devanagari-F4-A04.html">अष्टक-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format4/RVS-Devanagari-F4-A05.html">अष्टक-5</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format4/RVS-Devanagari-F4-A06.html">अष्टक-6</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format4/RVS-Devanagari-F4-A07.html">अष्टक-7</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format4/RVS-Devanagari-F4-A08.html">अष्टक-8</a>
 		</td>
 	</tr>
 </table>
