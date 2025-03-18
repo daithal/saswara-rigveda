@@ -791,7 +791,6 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 	<tr>
 		<th>पदच्छेद पूर्वक स्वरूप Format-1</th>
 		<th>वर्णयुक्त स्वरूप Format-2</th>
-		<th>पुस्तक स्वरूप Format-3</th>
 	</tr>
 	<tr>
 		<td>
@@ -842,7 +841,6 @@ If anyone is interested in practicing Rigveda Samhita (Sringeri style of chantin
 	<tr>
 		<th>पदच्छेद पूर्वक स्वरूप Format-1</th>
 		<th>वर्णयुक्त स्वरूप Format-2</th>
-		<th>पुस्तक स्वरूप Format-3</th>
 	</tr>
 	<tr>
 		<td>
