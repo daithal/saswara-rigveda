@@ -795,11 +795,6 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Mandala/Format4/RVS-Kannada-F4-M10-T2.html">ಮಂಡಲ-10</a>
 		</td>
 	</tr>	
-</table>
-
-<hr>
-
-<table style="width:100%">
 	<tr>
 		<th colspan="8" style="font-size: 20px;">ಅಷ್ಟಕಾನುಕ್ರಮಣಿಕ</th>
 	</tr>
