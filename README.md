@@ -288,16 +288,6 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 		<th colspan="8" style="font-size: 20px;">अष्टकानुक्रमणिका</th>
 	</tr>
 	<tr>
-		<th>पदपाठरहित</th>
-		<th>पदपाठसहित</th>
-		<th>पदपाठरहित</th>
-		<th>पदपाठसहित</th>
-		<th>पदपाठरहित</th>
-		<th>पदपाठसहित</th>
-		<th>पदपाठरहित</th>
-		<th>पदपाठसहित</th>
-	</tr>
-	<tr>
 		<td>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format1/RVS-Devanagari-F1-A01-T1.html">अष्टक-1</a>
 		</td>
