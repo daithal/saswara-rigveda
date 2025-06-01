@@ -288,12 +288,6 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 		<th colspan="8" style="font-size: 20px;">अष्टकानुक्रमणिका</th>
 	</tr>
 	<tr>
-		<th colspan="2">पदच्छेद पूर्वक स्वरूप Format-1</th>
-		<th colspan="2">वर्णयुक्त स्वरूप Format-2</th>
-		<th colspan="2">पुस्तक स्वरूप Format-3</th>
-		<th colspan="2">स्वाहाकार स्वरूप Format-4</th>
-	</tr>
-	<tr>
 		<th>पदपाठरहित</th>
 		<th>पदपाठसहित</th>
 		<th>पदपाठरहित</th>
