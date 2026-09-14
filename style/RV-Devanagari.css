@@ -36,8 +36,8 @@ line-height: 90%;
 padding: 12px;
 font-size: 165%}
 .PadaMantraStyle {
-font-family: 'Devanagari';
-font-size: 100%}
+font-family: 'Noto Sans Kannada';
+font-size: 60%}
 .RishiDevChandas {
 padding: 2px;
 margin: 1px;
@@ -49,6 +49,12 @@ padding: 2px;
 margin: 1px;
 font-size: 50%;
 color: blue;
+margin: 1px}
+.MantraIndentation {
+padding: 2px;
+margin: 1px;
+font-size: 80%;
+color: red;
 margin: 1px}
 .style1 {color: Black}
 .style2 {color: MediumSlateBlue}

@@ -6,13 +6,13 @@ font-family: 'Noto Sans Kannada' !important}
 table {
 border: 2px solid black;
 table-layout: auto}
-.simpleText {
+.simpleText{
 font-family: 'Noto Sans Kannada';
 line-height: 110%;
 padding: 12px;
 font-size: 155%;
 color: #943155}
-.simpHtmlH1 {
+.simpHtmlH1{
 font-family: 'Noto Sans Kannada';
 text-align: center;
 color: #943155}
@@ -23,38 +23,29 @@ padding: 4px;
 margin: 2px;
 background-color: #ffcc99;
 font-size: 130%}
-.VargaStyle1 {
+.KannadaMantraCol1 {
 font-family: 'Noto Sans Kannada';
 background-color: #eeeeee;
 line-height: 90%;
 padding: 12px;
 font-size: 155%}
-.VargaStyle2 {
+.KannadaMantraCol2 {
 font-family: 'Noto Sans Kannada';
 background-color: #d1e0e0;
 line-height: 90%;
 padding: 12px;
 font-size: 155%}
-.PadaMantraStyle {
-font-family: 'Noto Sans Kannada';
-font-size: 60%}
-.RishiDevChandas {
+.RishiDevChandasSpan {
 padding: 2px;
 margin: 1px;
-font-size: 40%;
+font-size: 50%;
 color: green;
 margin: 1px}
-.MantraNumbering {
+.MantraNumberingSpan {
 padding: 2px;
 margin: 1px;
-font-size: 40%;
+font-size: 50%;
 color: blue;
 margin: 1px}
-.MantraIndentation {
-padding: 2px;
-margin: 1px;
-font-size: 80%;
-color: red;
-margin: 1px}
-.style1 {color: Black}
-.style2 {color: MediumSlateBlue}
+.red {color: red}
+.black {color: black}
